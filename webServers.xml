@@ -1,0 +1,18 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="62a20d7a-61a7-497f-8c61-3aafb50426d3" name="Crappy" url="http://crappy.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cce63cfc-3dbb-4a9e-9a19-3abfc4e4329e" name="mocha" url="http://mocha.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bca35052-8b0a-4eb1-909b-8a942063993c" name="blueray_cms" url="http://cms.localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1a350e86-ef40-41a6-9370-c6889f90b4e2" name="darkcms" url="http://darkcms.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

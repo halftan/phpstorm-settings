@@ -1,0 +1,35 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>a</mask>
+      <mask>ap</mask>
+      <mask>app</mask>
+      <mask>app/</mask>
+      <mask>app/*</mask>
+      <mask>app/*.</mask>
+      <mask>app/*.php</mask>
+      <mask>pp/*.php</mask>
+      <mask>p/*.php</mask>
+      <mask>/*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+    </recentFileMasks>
+  </component>
+</application>

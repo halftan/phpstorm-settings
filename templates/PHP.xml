@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="vdd" value="var_dump($var1$); die();$END$" description="var_dump;die;" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="esp" value="&lt;?= $var1$ ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

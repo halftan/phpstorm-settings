@@ -1,0 +1,20 @@
+<templateSet group="Bootstrap2">
+  <template name="bs2:form-field-text" value="&lt;div class=&quot;control-group&quot;&gt;&#10;    &lt;label for=&quot;$var1$&quot; class=&quot;control-label&quot;&gt;$var2$&lt;/label&gt;&#10;    &lt;div class=&quot;controls&quot;&gt;&#10;        &lt;input type=&quot;text&quot; class=&quot;input-large&quot; name=&quot;$var1$&quot; id=&quot;$var1$&quot; placeholder=&quot;$var2$&quot; value=&quot;$var3$&quot;&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bs2:form-field-number" value="&lt;div class=&quot;control-group&quot;&gt;&#10;    &lt;label for=&quot;$var1$&quot; class=&quot;control-label&quot;&gt;$var2$&lt;/label&gt;&#10;    &lt;div class=&quot;controls&quot;&gt;&#10;        &lt;input type=&quot;number&quot; class=&quot;input-large&quot; name=&quot;$var1$&quot; id=&quot;$var1$&quot; placeholder=&quot;$var2$&quot; value=&quot;$var3$&quot;&gt;&#10;    &lt;/div&gt;&#10;&lt;/div&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
