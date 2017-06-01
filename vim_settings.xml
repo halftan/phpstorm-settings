@@ -41,12 +41,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496287219354">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496288050562">
         <mark key="'" line="55" column="20" />
-        <mark key="[" line="56" column="74" />
-        <mark key="]" line="57" column="27" />
-        <mark key="." line="57" column="27" />
-        <mark key="^" line="57" column="27" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496229565417">
         <mark key="[" line="32" column="0" />
@@ -94,31 +94,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3JlYWQnID0+ICcxMjcuMC4wLjEnLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>()</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>$category</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnkgPT0gJ+WFqOmDqCcpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTI3LjAuMC4xJywKICAgICAgICAgICAgXQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
