@@ -41,10 +41,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496229766474">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496286336432">
+        <mark key="'" line="55" column="20" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496229565417">
         <mark key="[" line="32" column="0" />
@@ -72,13 +74,18 @@
       <jump line="6" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
       <jump line="126" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
+      <jump line="55" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="56" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">XSkpOwo=</text>
       </register>
+      <register name="*" type="4">
+        <text>()</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>html_entity_decode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpbmdcPg==</text>
@@ -87,31 +94,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3JlYWQnID0+ICcxMjcuMC4wLjEnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTI3LjAuMC4xJywKICAgICAgICAgICAgXQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY2Fwc3VsZS0+YWRkQ29ubmVjdGlvbigkdGhpcy0+Y29uZmlnLT5nZXQoJycpLCAnaGVpY2hhJyk7Cg==</text>
+      <register name="2" type="4">
+        <text>()</text>
+      </register>
+      <register name="3" type="4">
+        <text>$category</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnkgPT0gJ+WFqOmDqCcpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTI3LjAuMC4xJywKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAKbmFtZXNwYWNlIEFwcFxNb2RlbFxEYXJrOwoKY2xhc3MgTW92aWUgZXh0ZW5kcyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxNb2RlbAp7CiAgICBwcm90ZWN0ZWQgJGNvbm5lY3Rpb24gPSAnaGVpY2hhX2RiJzsKICAgIHByb3RlY3RlZCAkdGFibGUgPSAnbW92aWUnOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
