@@ -29,6 +29,9 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="1" column="23" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1496302286718">
+        <mark key="'" line="486" column="32" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1496203068178">
         <mark key="'" line="38" column="44" />
         <mark key="[" line="55" column="4" />
@@ -41,12 +44,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496288050562">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496302529868">
         <mark key="'" line="55" column="20" />
-        <mark key="[" line="60" column="12" />
-        <mark key="]" line="60" column="20" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="20" />
+        <mark key="[" line="80" column="13" />
+        <mark key="]" line="80" column="12" />
+        <mark key="." line="80" column="12" />
+        <mark key="^" line="80" column="12" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496229565417">
         <mark key="[" line="32" column="0" />
@@ -76,6 +79,18 @@
       <jump line="126" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
       <jump line="55" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="56" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="767" column="50" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="787" column="34" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="801" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="927" column="23" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="1342" column="0" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="311" column="26" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="323" column="26" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="334" column="29" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="347" column="29" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="360" column="24" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="486" column="32" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -85,55 +100,58 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJpbmdcPg==</text>
+        <text>without</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlYWQnID0+ICcxMjcuMC4wLjEnLAo=</text>
+      <register name="0" type="4">
+        <text>newQuerywithoutScope</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eSgkdHlwZSkpIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeSA9ICRxdWVyeS0+d2hlcmUoJycpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>()</text>
-      </register>
-      <register name="5" type="4">
-        <text>$category</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2F0ZWdvcnkgPT0gJ+WFqOmDqCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJHF1ZXJ5LT53aGVyZSgnJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJyYW5kID0gJHRoaXMtPm5ld1F1ZXJ5d2l0aG91dFNjb3BlKCdtZWRpYVR5cGUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNhdGVnb3J5SWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJpbmdcPg==</last-search>
+      <last-search>without</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJpbmdcPg==</last-pattern>
+      <last-pattern>without</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxuZXdRdWVyeVdpdGhvdXRTY29wZXNcPg==</entry>
+        <entry>newQuery</entry>
+        <entry>without</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
