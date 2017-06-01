@@ -41,12 +41,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496286336432">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496287219354">
         <mark key="'" line="55" column="20" />
-        <mark key="[" line="56" column="36" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="35" />
+        <mark key="[" line="56" column="74" />
+        <mark key="]" line="57" column="27" />
+        <mark key="." line="57" column="27" />
+        <mark key="^" line="57" column="27" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496229565417">
         <mark key="[" line="32" column="0" />
@@ -85,7 +85,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>html_entity_decode</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpbmdcPg==</text>
