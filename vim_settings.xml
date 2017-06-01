@@ -3,6 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1496229744455">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="35" />
+        <mark key="^" line="37" column="35" />
+        <mark key="." line="37" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1496228122132">
+        <mark key="'" line="77" column="70" />
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="50" />
+        <mark key="." line="77" column="50" />
+        <mark key="^" line="77" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/BaseModel.php" timestamp="1496229319561">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496229545500">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1496203068178">
         <mark key="'" line="38" column="44" />
         <mark key="[" line="55" column="4" />
@@ -10,37 +36,101 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496225717873">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496229482802">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496229766474">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496229565417">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="32" column="24" />
+        <mark key="." line="32" column="24" />
       </file>
     </filemarks>
     <jumps>
       <jump line="38" column="44" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
+      <jump line="13" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="56" column="33" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="58" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="59" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="60" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="61" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="62" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="63" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="64" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="67" column="15" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="77" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="3" column="6" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/BaseModel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/BaseModel.php" />
+      <jump line="6" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
+      <jump line="126" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">XSkpOwo=</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">XSkpOwo=</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzdHJpbmdcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlYWQnID0+ICcxMjcuMC4wLjEnLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">XSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3dyaXRlJyA9PiBbCiAgICAgICAgICAgICAgICAnaG9zdCcgICAgID0+ICcxMjcuMC4wLjEnLAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTI3LjAuMC4xJywKICAgICAgICAgICAgXQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgxKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZChNb3ZpZTo6cXVlcnkoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkY2Fwc3VsZS0+YWRkQ29ubmVjdGlvbigkdGhpcy0+Y29uZmlnLT5nZXQoJycpLCAnaGVpY2hhJyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PD9waHAKbmFtZXNwYWNlIEFwcFxNb2RlbFxEYXJrOwoKY2xhc3MgTW92aWUgZXh0ZW5kcyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxNb2RlbAp7CiAgICBwcm90ZWN0ZWQgJGNvbm5lY3Rpb24gPSAnaGVpY2hhX2RiJzsKICAgIHByb3RlY3RlZCAkdGFibGUgPSAnbW92aWUnOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxzdHJpbmdcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdHJpbmdcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
+      </history-search>
       <history-cmd>
+        <entry>nohlsearch</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -49,6 +139,18 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
