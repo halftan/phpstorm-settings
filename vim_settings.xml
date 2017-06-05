@@ -35,10 +35,15 @@
         <mark key="^" line="156" column="31" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1496310980042">
-        <mark key="'" line="821" column="8" />
-        <mark key="[" line="1327" column="0" />
-        <mark key="]" line="1327" column="0" />
-        <mark key="." line="1327" column="0" />
+        <mark key="[" line="1343" column="0" />
+        <mark key="]" line="1343" column="0" />
+        <mark key="." line="1343" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/composer.json" timestamp="1496646774142">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="29" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1496389945569">
         <mark key="[" line="10" column="0" />
@@ -175,13 +180,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>Cms</text>
+        <text>database</text>
       </register>
       <register name="/" type="4">
         <text>moviefl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSBBUFBfUk9PVCAuICcvcm91dGVzL2FwcF9yb3V0ZXMucGhwJzsK</text>
+        <text encoding="base64">ICAgICAgICAiaWxsdW1pbmF0ZS9kYXRhYmFzZSI6ICJeNS40IiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
@@ -211,7 +216,7 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCBtb3ZpZSBsaXN0IGJhc2VkIG9uIHF1ZXJ5LgogICAgICoKICAgICAqIEF2YWlsYWJsZSBxdWVyaWVzOgogICAgICogICBzcmMg5ZOB54mM5ZWGSUTvvIzlr7nlupRwYWdlX3R5cGXlrZfmrrUKICAgICAqICAgc3JjMiDniKzomavmnaXmupDvvIzlr7nlupRwYWdlX3R5cGVfMuWtl+autQogICAgICogICB0eXBlCiAgICAgKiAgIHN0YXR1cwogICAgICogICB0YWdQcmVmaXggdGFn55qE5pCc57Si5YmN57yACiAgICAgKiAgIGNhdGVnb3J5IOaOqOiNkOaXtu+8jOihqOekunNjb3Jl5Li6MTAuMOeahOWGheWuuQogICAgICogICBuYW1lCiAgICAgKgogICAgICogQHBhcmFtIFJlcXVlc3QgJHJlcXVlc3QKICAgICAqIEBwYXJhbSBSZXNwb25zZSAkcmVzcG9uc2UKICAgICAqIEBwYXJhbSBhcnJheSAkYXJncwogICAgICoKICAgICAqIEByZXR1cm4gXFNsaW1cSHR0cFxSZXNwb25zZQogICAgICoqLwogICAgcHVibGljIGZ1bmN0aW9uIGxpc3RNb3ZpZSgkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+bW92aWVTZXJ2aWNlLT5idWlsZE1vdmllUXVlcnkoJHJlcXVlc3QpOwoKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCBtb3ZpZSBjb3VudCBiYXNlZCBvbiBxdWVyeS4KICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gbW92aWVDb3VudCgkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+bW92aWVTZXJ2aWNlLT5idWlsZE1vdmllUXVlcnkoJHJlcXVlc3QpOwoKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0YWdzIGJhc2VkIG9uIHByZWZpeAogICAgICoKICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gUmVzcG9uc2UgJHJlc3BvbnNlCiAgICAgKiBAcGFyYW0gYXJyYXkgJGFyZ3MKICAgICAqCiAgICAgKiBAcmV0dXJuIFxTbGltXEh0dHBcUmVzcG9uc2UKICAgICAqKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBsaXN0VGFncygkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSBUYWc6OnF1ZXJ5KCk7CgogICAgICAgICRwcmVmaXggPSAoc3RyaW5nKSAkcmVxdWVzdC0+Z2V0UGFyYW0oJ3ByZWZpeCcsICcnKTsKICAgICAgICBpZiAoIWVtcHR5KCRwcmVmaXgpKSB7CiAgICAgICAgICAgICRxdWVyeSA9ICRxdWVyeS0+d2hlcmUoJ25hbWUnLCAnTElLRScsICRwcmVmaXggLiAnJScpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aEpzb24oWwogICAgICAgICAgICAnY29kZScgPT4gMCwKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdvaycsCiAgICAgICAgICAgICdkYXRhJyA9PiAkcXVlcnktPnBsdWNrKCduYW1lJyksCiAgICAgICAgXSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBHZXQgc291cmNlcy4KICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gbGlzdFNvdXJjZXMoJHJlcXVlc3QsICRyZXNwb25zZSwgJGFyZ3MpCiAgICB7CiAgICAgICAgJHF1ZXJ5ID0gUmVzb3VyY2U6OnF1ZXJ5KCktPnNlbGVjdFJhdygnRElTVElOQ1QoYHNvdXJjZWApJykKICAgICAgICAgICAgICAgICAgICAgICAgIC0+b3JkZXJCeSgnc291cmNlJyk7CgogICAgICAgIHJldHVybiAkcmVzcG9uc2UtPndpdGhKc29uKFsKICAgICAgICAgICAgJ2NvZGUnID0+IDAsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnb2snLAogICAgICAgICAgICAnZGF0YScgPT4gJHF1ZXJ5LT5wbHVjaygnc291cmNlJyksCiAgICAgICAgXSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -237,8 +242,8 @@
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
