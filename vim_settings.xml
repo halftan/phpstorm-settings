@@ -21,12 +21,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496635721815">
-        <mark key="'" line="72" column="27" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="38" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="37" column="38" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496643673385">
+        <mark key="'" line="38" column="38" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496390547766">
         <mark key="[" line="156" column="27" />
@@ -52,6 +52,10 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/boot_app.php" timestamp="1496643569919">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="43" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1496635583181">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
@@ -66,6 +70,15 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/boot.php" timestamp="1496643571823">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1496643579883">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496311913702">
         <mark key="[" line="23" column="0" />
@@ -151,6 +164,8 @@
       <jump line="22" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="35" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="62" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/boot.php" />
+      <jump line="37" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -160,13 +175,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Cms</text>
       </register>
       <register name="/" type="4">
         <text>moviefl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSAkdGhpcy0+bW92aWVTZXJ2aWNlLT5idWlsZE1vdmllUXVlcnkoJHJlcXVlc3QpOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlclJlcygKICAgICAgICAgICAgJHJlcXVlc3QsICRyZXNwb25zZSwgJGFyZ3MsCiAgICAgICAgICAgIDAsICdvaycsICRxdWVyeS0+c2ltcGxlUGFnaW5hdGUoKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">cmVxdWlyZSBBUFBfUk9PVCAuICcvcm91dGVzL2FwcF9yb3V0ZXMucGhwJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
