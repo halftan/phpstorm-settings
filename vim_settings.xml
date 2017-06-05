@@ -21,17 +21,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496647601763">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="49" />
-        <mark key="^" line="38" column="49" />
-        <mark key="." line="38" column="49" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496648477383">
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="56" column="50" />
+        <mark key="^" line="56" column="50" />
+        <mark key="." line="56" column="50" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496390547766">
-        <mark key="[" line="156" column="27" />
-        <mark key="]" line="156" column="31" />
-        <mark key="." line="156" column="31" />
-        <mark key="^" line="156" column="31" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496648867528">
+        <mark key="[" line="224" column="9" />
+        <mark key="]" line="226" column="60" />
+        <mark key="." line="226" column="60" />
+        <mark key="^" line="226" column="60" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1496310980042">
         <mark key="[" line="1343" column="0" />
@@ -189,31 +189,31 @@
         <text encoding="base64">ICAgICAgICAiaWxsdW1pbmF0ZS9kYXRhYmFzZSI6ICJeNS40IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5tYXAoWydHRVQnXSwgJy9tb3ZpZXMvcmVjb21tZW5kJywgJ1xBcHBcQ29udHJvbGxlclxBcHBcdjFcTW92aWVDb250cm9sbGVyOnJlY29tbWVuZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVjb21tZW5kKCRyZXF1ZXN0LCAkcmVzcG9uc2UsICRhcmdzKQogICAgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5tYXAoWydHRVQnXSwgJy9tb3ZpZXMvcmVjb21tZW5kJywgJ1xBcHBcQ29udHJvbGxlclxBcHBcdjFcTW92aWVDb250cm9sbGVyOnJlY29tbWVuZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVjb21tZW5kKCRyZXF1ZXN0LCAkcmVzcG9uc2UsICRhcmdzKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UtPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
