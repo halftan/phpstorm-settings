@@ -21,12 +21,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496643673385">
-        <mark key="'" line="38" column="38" />
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-        <mark key="." line="8" column="37" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1496647601763">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="38" column="49" />
+        <mark key="." line="38" column="49" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496390547766">
         <mark key="[" line="156" column="27" />
@@ -45,10 +44,10 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1496389945569">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="86" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1496647593538">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1496389669808">
         <mark key="'" line="0" column="0" />
@@ -171,6 +170,7 @@
       <jump line="62" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/boot.php" />
       <jump line="37" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="84" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -189,34 +189,34 @@
         <text encoding="base64">ICAgICAgICAiaWxsdW1pbmF0ZS9kYXRhYmFzZSI6ICJeNS40IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5tYXAoWydHRVQnXSwgJy9tb3ZpZXMvcmVjb21tZW5kJywgJ1xBcHBcQ29udHJvbGxlclxBcHBcdjFcTW92aWVDb250cm9sbGVyOnJlY29tbWVuZCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gcmVjb21tZW5kKCRyZXF1ZXN0LCAkcmVzcG9uc2UsICRhcmdzKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9ICRxdWVyeS0+cGFnaW5hdGUoMjApOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UtPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCBtb3ZpZSBsaXN0IGJhc2VkIG9uIHF1ZXJ5LgogICAgICoKICAgICAqIEF2YWlsYWJsZSBxdWVyaWVzOgogICAgICogICBzcmMg5ZOB54mM5ZWGSUTvvIzlr7nlupRwYWdlX3R5cGXlrZfmrrUKICAgICAqICAgc3JjMiDniKzomavmnaXmupDvvIzlr7nlupRwYWdlX3R5cGVfMuWtl+autQogICAgICogICB0eXBlCiAgICAgKiAgIHN0YXR1cwogICAgICogICB0YWdQcmVmaXggdGFn55qE5pCc57Si5YmN57yACiAgICAgKiAgIGNhdGVnb3J5IOaOqOiNkOaXtu+8jOihqOekunNjb3Jl5Li6MTAuMOeahOWGheWuuQogICAgICogICBuYW1lCiAgICAgKgogICAgICogQHBhcmFtIFJlcXVlc3QgJHJlcXVlc3QKICAgICAqIEBwYXJhbSBSZXNwb25zZSAkcmVzcG9uc2UKICAgICAqIEBwYXJhbSBhcnJheSAkYXJncwogICAgICoKICAgICAqIEByZXR1cm4gXFNsaW1cSHR0cFxSZXNwb25zZQogICAgICoqLwogICAgcHVibGljIGZ1bmN0aW9uIGxpc3RNb3ZpZSgkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+bW92aWVTZXJ2aWNlLT5idWlsZE1vdmllUXVlcnkoJHJlcXVlc3QpOwoKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCBtb3ZpZSBjb3VudCBiYXNlZCBvbiBxdWVyeS4KICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gbW92aWVDb3VudCgkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+bW92aWVTZXJ2aWNlLT5idWlsZE1vdmllUXVlcnkoJHJlcXVlc3QpOwoKICAgICAgICByZXR1cm4gJHJlc3BvbnNlLT53aXRoSnNvbihbCiAgICAgICAgICAgICdjb2RlJyA9PiAwLAogICAgICAgICAgICAnbWVzc2FnZScgPT4gJ29rJywKICAgICAgICAgICAgJ2RhdGEnID0+IFsgJ2NvdW50JyA9PiAkcXVlcnktPmNvdW50KCkgXSwKICAgICAgICBdKTsKICAgIH0KCiAgICAvKioKICAgICAqIEdldCB0YWdzIGJhc2VkIG9uIHByZWZpeAogICAgICoKICAgICAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gUmVzcG9uc2UgJHJlc3BvbnNlCiAgICAgKiBAcGFyYW0gYXJyYXkgJGFyZ3MKICAgICAqCiAgICAgKiBAcmV0dXJuIFxTbGltXEh0dHBcUmVzcG9uc2UKICAgICAqKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBsaXN0VGFncygkcmVxdWVzdCwgJHJlc3BvbnNlLCAkYXJncykKICAgIHsKICAgICAgICAkcXVlcnkgPSBUYWc6OnF1ZXJ5KCk7CgogICAgICAgICRwcmVmaXggPSAoc3RyaW5nKSAkcmVxdWVzdC0+Z2V0UGFyYW0oJ3ByZWZpeCcsICcnKTsKICAgICAgICBpZiAoIWVtcHR5KCRwcmVmaXgpKSB7CiAgICAgICAgICAgICRxdWVyeSA9ICRxdWVyeS0+d2hlcmUoJ25hbWUnLCAnTElLRScsICRwcmVmaXggLiAnJScpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aEpzb24oWwogICAgICAgICAgICAnY29kZScgPT4gMCwKICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdvaycsCiAgICAgICAgICAgICdkYXRhJyA9PiAkcXVlcnktPnBsdWNrKCduYW1lJyksCiAgICAgICAgXSk7CiAgICB9CgogICAgLyoqCiAgICAgKiBHZXQgc291cmNlcy4KICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFJlc3BvbnNlICRyZXNwb25zZQogICAgICogQHBhcmFtIGFycmF5ICRhcmdzCiAgICAgKgogICAgICogQHJldHVybiBcU2xpbVxIdHRwXFJlc3BvbnNlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gbGlzdFNvdXJjZXMoJHJlcXVlc3QsICRyZXNwb25zZSwgJGFyZ3MpCiAgICB7CiAgICAgICAgJHF1ZXJ5ID0gUmVzb3VyY2U6OnF1ZXJ5KCktPnNlbGVjdFJhdygnRElTVElOQ1QoYHNvdXJjZWApJykKICAgICAgICAgICAgICAgICAgICAgICAgIC0+b3JkZXJCeSgnc291cmNlJyk7CgogICAgICAgIHJldHVybiAkcmVzcG9uc2UtPndpdGhKc29uKFsKICAgICAgICAgICAgJ2NvZGUnID0+IDAsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnb2snLAogICAgICAgICAgICAnZGF0YScgPT4gJHF1ZXJ5LT5wbHVjaygnc291cmNlJyksCiAgICAgICAgXSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -242,8 +242,8 @@
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
