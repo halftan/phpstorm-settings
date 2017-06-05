@@ -78,12 +78,6 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1496390050186">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="32" column="24" />
-        <mark key="." line="32" column="24" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="44" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
