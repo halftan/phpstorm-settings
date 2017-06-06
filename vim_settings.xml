@@ -86,7 +86,8 @@
         <mark key="]" line="1343" column="0" />
         <mark key="." line="1343" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/composer.json" timestamp="1496646774142">
+      <file name="$USER_HOME$/git/darkcms/composer.json" timestamp="1496741292345">
+        <mark key="'" line="9" column="30" />
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="29" />
         <mark key="^" line="9" column="29" />
@@ -131,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="15" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="77" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="3" column="6" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/BaseModel.php" />
@@ -231,6 +231,7 @@
       <jump line="99" column="43" filename="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/Http/Request.php" />
       <jump line="150" column="72" filename="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/Http/Request.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/Http/Request.php" />
+      <jump line="9" column="30" filename="$USER_HOME$/git/darkcms/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +244,7 @@
         <text>, ['*'], 'page', $page</text>
       </register>
       <register name="/" type="4">
-        <text>uri</text>
+        <text>elas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSBBUFBfUk9PVCAuICcvaW5jL3NlcnZpY2VzLnBocCc7Cg==</text>
@@ -276,13 +277,13 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlbmRlclJlcygK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>uri</last-search>
+      <last-search>elas</last-search>
       <last-offset />
-      <last-pattern>uri</last-pattern>
+      <last-pattern>elas</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -306,11 +307,13 @@
         <entry>container</entry>
         <entry>url</entry>
         <entry>uri</entry>
+        <entry>elas</entry>
       </history-search>
       <history-cmd>
         <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
