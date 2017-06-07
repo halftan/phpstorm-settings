@@ -10,12 +10,12 @@
         <mark key="^" line="38" column="61" />
         <mark key="." line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496821077834">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1496821848365">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="222" column="5" />
-        <mark key="]" line="223" column="57" />
-        <mark key="." line="223" column="57" />
-        <mark key="^" line="223" column="57" />
+        <mark key="[" line="223" column="58" />
+        <mark key="]" line="223" column="59" />
+        <mark key="." line="223" column="59" />
+        <mark key="^" line="223" column="59" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/boot_dev.php" timestamp="1496723367724">
         <mark key="'" line="1" column="0" />
@@ -142,11 +142,11 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/PgcUser.php" timestamp="1496821056592">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="30" column="6" />
-        <mark key="^" line="30" column="6" />
-        <mark key="." line="30" column="6" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/PgcUser.php" timestamp="1496821678733">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
     </filemarks>
     <jumps>
