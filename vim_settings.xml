@@ -189,11 +189,11 @@
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/support/helpers.php" timestamp="1497258599198">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497256881853">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497261630309">
+        <mark key="'" line="62" column="31" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="72" column="4" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Category.php" timestamp="1496895756779">
         <mark key="'" line="1" column="0" />
@@ -297,7 +297,6 @@
       <jump line="30" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="103" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="53" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="57" column="56" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="8" column="6" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="58" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/helpers.php" />
@@ -315,6 +314,7 @@
       <jump line="35" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="64" column="75" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="63" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
+      <jump line="57" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -338,16 +338,16 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Completed</text>
+        <text>[ k ]</text>
       </register>
       <register name="/" type="4">
         <text>chunk</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxBcHBcTW9kZWxcRGFya1xSZXNvdXJjZSAkaXRlbSAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxFbGFzdGljc2VhcmNoXENsaWVudCAkZXMgKi8KICAgICAgICAgICAgICAgICRlcyA9IEdBcHA6OkdHKCdlcycpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>''</text>
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdpbmRleCcgPT4gJ2RhcmtjbXMnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJyA9PiAncmVzb3VyY2UnLAogICAgICAgICAgICAgICAgICAgICdpZCcgPT4gJGl0ZW1bJ2lkJ10sCiAgICAgICAgICAgICAgICBd</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,29 +357,29 @@
           <key char="65535" code="65" mods="130" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SW5kZXhlZDog</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRlcy0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXEVsYXN0aWNzZWFyY2hcQ2xpZW50ICRlcyAqLwogICAgICAgICAgICAkZXMgPSBHQXBwOjpHRygnZXMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWNjZXNzQ250ID0gJHJlc3VsdC0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAkaXRlbVsnc3RhdHVzJ10gPT0gMjAxOwogICAgICAgICAgICAgICAgfSktPmNvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxFbGFzdGljc2VhcmNoXENsaWVudCAkZXMgKi8KICAgICAgICAgICAgICAgICRlcyA9IEdBcHA6OkdHKCdlcycpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>''</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8oanNvbl9lbmNvZGUoJHJlc3VsdCkpO2RpZTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">SW5kZXhlZDog</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnaWQnLCAnPCcsICcxMDAwMDA0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRidWxrLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWNjZXNzQ250ID0gJHJlc3VsdC0+ZmlsdGVyKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAkaXRlbVsnc3RhdHVzJ10gPT0gMjAxOwogICAgICAgICAgICAgICAgfSktPmNvdW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
