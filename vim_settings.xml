@@ -162,8 +162,8 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" timestamp="1497345975451">
-        <mark key="'" line="20" column="46" />
+      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" timestamp="1497432667396">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="672" column="29" />
         <mark key="]" line="672" column="95" />
       </file>
@@ -197,7 +197,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1497345944498">
+      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1497432677544">
+        <mark key="'" line="19" column="26" />
         <mark key="[" line="1343" column="0" />
         <mark key="]" line="1343" column="0" />
         <mark key="." line="1343" column="0" />
@@ -244,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1846" column="58" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" />
-      <jump line="1855" column="23" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" />
-      <jump line="1827" column="7" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" />
       <jump line="1835" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" />
       <jump line="672" column="29" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="582" column="5" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
@@ -344,6 +342,9 @@
       <jump line="877" column="5" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="885" column="16" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="222" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="289" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
+      <jump line="19" column="26" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -370,7 +371,7 @@
         <text>elasticSearch</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>findOrFail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnRlVMTF8yRCcsICdGVUxMXzNEX0xSJywgJ0ZVTExfM0RfVEInLCAnTk9STUFMXzJEJywgJ05PUk1BTF8zRF9MUicsCiAgICAgICAgJ05PUk1BTF8zRF9UQicsICdYQkFTRV9VUkxfTk9STUFMJywgJ1hCQVNFX1VSTF9aSElCTycsCg==</text>
@@ -418,15 +419,14 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>findOrFail</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>findOrFail</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>md5</entry>
         <entry>redis</entry>
         <entry>movieId</entry>
         <entry>elas</entry>
@@ -446,6 +446,7 @@
         <entry>tion search</entry>
         <entry>size</entry>
         <entry>body</entry>
+        <entry>findOrFail</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
