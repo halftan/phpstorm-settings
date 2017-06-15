@@ -84,12 +84,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497494433223">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497510138370">
         <mark key="'" line="224" column="8" />
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="76" column="57" />
-        <mark key="." line="76" column="57" />
-        <mark key="^" line="76" column="57" />
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="18" />
+        <mark key="." line="45" column="18" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Namespaces/TasksNamespace.php" timestamp="1497331266168">
         <mark key="'" line="0" column="0" />
@@ -352,7 +352,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlYWdlckxvYWRcPg==</text>
