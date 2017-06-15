@@ -111,12 +111,10 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1497253768096">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1497517904126">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1497494451513">
         <mark key="'" line="0" column="0" />
@@ -255,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="18" filename="$USER_HOME$/git/darkcms/src/app/inc/deps.php" />
-      <jump line="45" column="0" filename="$USER_HOME$/git/darkcms/src/app/inc/deps.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/inc/deps.php" />
       <jump line="63" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="344" column="60" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -355,6 +351,8 @@
       <jump line="89" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="1317" column="0" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
       <jump line="501" column="15" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="14" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
+      <jump line="13" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,7 +376,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">YXR0cnMg</text>
       </register>
       <register name="/" type="4">
         <text>tion update</text>
@@ -387,7 +385,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsZWdhY3lGb3JtYXQoKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxEYXJrXFJlc291cmNlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -398,34 +396,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UgPSBSZXNvdXJjZTo6ZmluZEJ5SWQoMTAwMDAwMCk7CiAgICAgICAgZGQoJHJlc291cmNlLT5zYXZlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2VbXT0gJ2Nldyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzb3VyY2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnbmFtZScsICdMSUtFJywgIiUka3clIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkY2F0ZWdvcnkKICogQHByb3BlcnR5IHN0cmluZyAkdWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNUQVRVU19ESVNBQkxFRCA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnbmFtZScsICdMSUtFJywgIiUka3clIikK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -462,8 +460,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
