@@ -90,8 +90,8 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497514808167">
-        <mark key="'" line="89" column="16" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497519200246">
+        <mark key="'" line="386" column="8" />
         <mark key="[" line="45" column="17" />
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
@@ -116,8 +116,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1497494451513">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1497519750504">
+        <mark key="'" line="57" column="31" />
         <mark key="[" line="494" column="79" />
         <mark key="]" line="494" column="109" />
         <mark key="^" line="494" column="109" />
@@ -171,8 +171,8 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" timestamp="1497494483716">
-        <mark key="'" line="547" column="24" />
+      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" timestamp="1497520149191">
+        <mark key="'" line="1075" column="18" />
         <mark key="[" line="672" column="29" />
         <mark key="]" line="672" column="95" />
       </file>
@@ -203,8 +203,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1497515942927">
-        <mark key="'" line="501" column="15" />
+      <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1497519787328">
+        <mark key="'" line="450" column="55" />
         <mark key="]" line="1317" column="4" />
         <mark key="." line="1317" column="4" />
         <mark key="^" line="1317" column="4" />
@@ -253,17 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/inc/deps.php" />
-      <jump line="63" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="344" column="60" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="267" column="34" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="24" column="18" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="26" column="24" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="31" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="32" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="36" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="38" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="40" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="47" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="54" column="18" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
@@ -353,6 +342,17 @@
       <jump line="501" column="15" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
       <jump line="14" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
       <jump line="13" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
+      <jump line="386" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="494" column="86" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="660" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="661" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="56" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="57" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="450" column="55" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" />
+      <jump line="497" column="31" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
+      <jump line="704" column="69" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
+      <jump line="1027" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
+      <jump line="1075" column="18" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -376,10 +376,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXR0cnMg</text>
+        <text>ing</text>
       </register>
       <register name="/" type="4">
-        <text>tion update</text>
+        <text>tion create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsZWdhY3lGb3JtYXQoKQogICAgewoKICAgIH0K</text>
@@ -427,18 +427,14 @@
       </register>
     </registers>
     <search>
-      <last-search>tion update</last-search>
+      <last-search>tion create</last-search>
       <last-offset />
-      <last-pattern>tion update</last-pattern>
+      <last-pattern>tion create</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>params</entry>
-        <entry>ignore</entry>
-        <entry>suppor</entry>
-        <entry>es</entry>
         <entry>darkcms</entry>
         <entry>search</entry>
         <entry>search (</entry>
@@ -455,6 +451,10 @@
         <entry encoding="base64">XDxlYWdlckxvYWRcPg==</entry>
         <entry>tion save</entry>
         <entry>tion update</entry>
+        <entry>id cann</entry>
+        <entry>Outer</entry>
+        <entry>create</entry>
+        <entry>tion create</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
