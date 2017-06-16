@@ -207,12 +207,12 @@
         <mark key="." line="38" column="75" />
         <mark key="^" line="38" column="81" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/SearchController.php" timestamp="1497578230781">
-        <mark key="'" line="57" column="36" />
-        <mark key="[" line="57" column="89" />
-        <mark key="]" line="57" column="99" />
-        <mark key="." line="57" column="99" />
-        <mark key="^" line="57" column="99" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/SearchController.php" timestamp="1497579240396">
+        <mark key="'" line="57" column="63" />
+        <mark key="[" line="57" column="74" />
+        <mark key="]" line="57" column="83" />
+        <mark key="." line="57" column="83" />
+        <mark key="^" line="57" column="83" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/support/helpers.php" timestamp="1497258599198">
         <mark key="'" line="0" column="0" />
@@ -324,7 +324,7 @@
       <jump line="704" column="69" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="1027" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="1075" column="18" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
-      <jump line="57" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/SearchController.php" />
+      <jump line="57" column="63" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/SearchController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
