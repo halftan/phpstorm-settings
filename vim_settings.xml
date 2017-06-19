@@ -56,6 +56,9 @@
         <mark key="." line="57" column="50" />
         <mark key="^" line="57" column="50" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1497856859916">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1497345285683">
         <mark key="'" line="150" column="44" />
         <mark key="[" line="131" column="21" />
@@ -91,8 +94,8 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497578343178">
-        <mark key="'" line="386" column="8" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497856866934">
+        <mark key="'" line="232" column="8" />
         <mark key="[" line="365" column="14" />
         <mark key="]" line="365" column="14" />
         <mark key="." line="365" column="14" />
@@ -159,13 +162,13 @@
         <mark key="'" line="255" column="9" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/pagination/AbstractPaginator.php" timestamp="1496722939620" />
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" timestamp="1497436284221">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" timestamp="1497857502409">
         <mark key="a" line="294" column="8" />
-        <mark key="'" line="143" column="26" />
-        <mark key="[" line="163" column="33" />
-        <mark key="]" line="163" column="36" />
-        <mark key="." line="163" column="36" />
-        <mark key="^" line="163" column="36" />
+        <mark key="'" line="170" column="49" />
+        <mark key="[" line="172" column="24" />
+        <mark key="]" line="172" column="26" />
+        <mark key="." line="172" column="26" />
+        <mark key="^" line="172" column="26" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1497332108680">
         <mark key="[" line="9" column="1" />
@@ -198,6 +201,9 @@
         <mark key="]" line="54" column="77" />
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="77" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1497856905430">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Model.php" timestamp="1497519787328">
         <mark key="'" line="450" column="55" />
@@ -255,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="54" column="18" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
-      <jump line="55" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="56" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="59" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="64" column="51" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
@@ -355,6 +358,9 @@
       <jump line="1027" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="1075" column="18" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="57" column="63" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/SearchController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
+      <jump line="232" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="170" column="49" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,10 +384,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>php</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
-        <text>tion create</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBsZWdhY3lGb3JtYXQoKQogICAgewoKICAgIH0K</text>
@@ -429,15 +435,14 @@
       </register>
     </registers>
     <search>
-      <last-search>tion create</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>tion create</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>darkcms</entry>
         <entry>search</entry>
         <entry>search (</entry>
         <entry>tion search</entry>
@@ -457,6 +462,7 @@
         <entry>Outer</entry>
         <entry>create</entry>
         <entry>tion create</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
