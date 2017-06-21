@@ -92,12 +92,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1497926387368">
-        <mark key="'" line="232" column="8" />
-        <mark key="[" line="388" column="12" />
-        <mark key="]" line="388" column="12" />
-        <mark key="." line="388" column="12" />
-        <mark key="^" line="365" column="14" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1498015561210">
+        <mark key="'" line="317" column="67" />
+        <mark key="[" line="317" column="30" />
+        <mark key="]" line="317" column="35" />
+        <mark key="." line="317" column="35" />
+        <mark key="^" line="317" column="35" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Namespaces/TasksNamespace.php" timestamp="1497331266168">
         <mark key="'" line="0" column="0" />
@@ -258,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="64" column="51" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="66" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
       <jump line="13" column="62" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/RebuildIndexCli.php" />
@@ -358,6 +357,7 @@
       <jump line="232" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="170" column="49" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="283" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="317" column="67" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,10 +378,10 @@
         <text>@,</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -389,8 +389,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dmFsdWUoJ2lkJyk7CiAgICAgICAgICAgIGlmICghZW1wdHkoJHR5cGUpKSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCdjbGFzc19pZCcsICR0eXBlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmUoMSwgMCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
+      <register name="1" type="4">
+        <text>''</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -400,29 +400,29 @@
           <key char="65535" code="65" mods="130" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxEYXJrXFJlc291cmNlOwo=</text>
+      <register name="2" type="4">
+        <text>file_size.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UgPSBSZXNvdXJjZTo6ZmluZEJ5SWQoMTAwMDAwMCk7CiAgICAgICAgZGQoJHJlc291cmNlLT5zYXZlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2VbXT0gJ2Nldyc7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxEYXJrXFJlc291cmNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzb3VyY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2UgPSBSZXNvdXJjZTo6ZmluZEJ5SWQoMTAwMDAwMCk7CiAgICAgICAgZGQoJHJlc291cmNlLT5zYXZlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2VbXT0gJ2Nldyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzb3VyY2UpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
