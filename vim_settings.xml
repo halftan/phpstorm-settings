@@ -159,13 +159,13 @@
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Endpoints/AbstractEndpoint.php" timestamp="1497263762799">
         <mark key="'" line="255" column="9" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" timestamp="1498187376501">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" timestamp="1498211197498">
         <mark key="a" line="294" column="8" />
         <mark key="'" line="51" column="26" />
-        <mark key="[" line="256" column="47" />
-        <mark key="]" line="256" column="47" />
-        <mark key="." line="256" column="47" />
-        <mark key="^" line="256" column="47" />
+        <mark key="[" line="230" column="38" />
+        <mark key="]" line="230" column="38" />
+        <mark key="." line="230" column="38" />
+        <mark key="^" line="243" column="34" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1497332108680">
         <mark key="[" line="9" column="1" />
@@ -381,7 +381,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRCcmFuZFw+</text>
