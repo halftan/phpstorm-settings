@@ -125,13 +125,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1498037531272">
-        <mark key="'" line="759" column="54" />
-        <mark key="[" line="494" column="79" />
-        <mark key="]" line="494" column="109" />
-        <mark key="^" line="494" column="109" />
-        <mark key="." line="494" column="109" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1497428822340">
         <mark key="'" line="885" column="16" />
         <mark key="[" line="32" column="0" />
