@@ -243,12 +243,12 @@
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/support/helpers.php" timestamp="1497258599198">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1499743212489">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1499767947889">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="374" column="9" />
-        <mark key="]" line="377" column="37" />
-        <mark key="." line="377" column="37" />
-        <mark key="^" line="377" column="37" />
+        <mark key="[" line="178" column="47" />
+        <mark key="]" line="179" column="44" />
+        <mark key="." line="179" column="44" />
+        <mark key="^" line="179" column="44" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Category.php" timestamp="1496895756779">
         <mark key="'" line="1" column="0" />
@@ -391,16 +391,16 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>toMovie</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JGFwcC0+Z3JvdXAoJy9hcGkvbGVnYWN5JywgZnVuY3Rpb24gKCkgewogICAgJHRoaXMtPmdldCgnL21vdmllJywgJ1xBcHBcQ29udHJvbGxlclxBcHBcTGVnYWN5XE1vdmllQ29udHJvbGxlcjppbmRleCcpOwogICAgJHRoaXMtPmdldCgnL21vdmllL2NvdW50JywgJ1xBcHBcQ29udHJvbGxlclxBcHBcTGVnYWN5XE1vdmllQ29udHJvbGxlcjpjb3VudCcpOwogICAgJHRoaXMtPmdldCgnL21vdmllL3JlY29tbWVuZC97bW92aWVJZH0nLCAnXEFwcFxDb250cm9sbGVyXEFwcFxMZWdhY3lcTW92aWVDb250cm9sbGVyOmdldFJlY29tbWVuZHMnKTsKICAgICR0aGlzLT5nZXQoJy9tb3ZpZS97bW92aWVJZH0nLCAnXEFwcFxDb250cm9sbGVyXEFwcFxMZWdhY3lcTW92aWVDb250cm9sbGVyOmRldGFpbCcpOwogICAgJHRoaXMtPmdldCgnL3F1ZXJ5L2Z1enp5JywgJ1xBcHBcQ29udHJvbGxlclxBcHBcTGVnYWN5XFNlYXJjaENvbnRyb2xsZXI6ZnV6enknKTsKfSktPmFkZChuZXcgXEFwcFxNaWRkbGV3YXJlXExvZ01pZGRsZXdhcmUoJGNvbnRhaW5lciwgJ2xvZ2dlcicpKTsK</text>
+      <register name="0" type="4">
+        <text>'category', 'movieType'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,28 +411,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtWydpZCddID0gJGl0ZW1bJ21kNSddOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfaW50KCkpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtWydpZCddID0gJGl0ZW1bJ21kNSddOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKSwK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fSwK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>[]</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGFycmF5X3BsdWNrKGFycmF5X2dldCgkbW92aWVzLCAnaGl0cy5oaXRzJywgW10pLCAnX3NvdXJjZScpLCA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsaW5rJyA9PiAkbGlua3MsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHAnID0+ICRhcHBzLAo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
