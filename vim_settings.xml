@@ -91,12 +91,12 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1497926362579">
-        <mark key="'" line="289" column="4" />
-        <mark key="[" line="161" column="12" />
-        <mark key="]" line="161" column="12" />
-        <mark key="^" line="156" column="41" />
-        <mark key="." line="161" column="12" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1499844363736">
+        <mark key="'" line="242" column="28" />
+        <mark key="[" line="95" column="35" />
+        <mark key="]" line="95" column="38" />
+        <mark key="^" line="95" column="38" />
+        <mark key="." line="95" column="38" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
@@ -294,9 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="320" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="101" column="68" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="143" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="77" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -394,6 +391,9 @@
       <jump line="163" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/MovieController.php" />
       <jump line="368" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/MovieController.php" />
       <jump line="382" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="149" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="237" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,16 +418,16 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>film</text>
+        <text>MOVIE_NORMAL</text>
       </register>
       <register name="/" type="4">
-        <text>toMovie</text>
+        <text encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>sh /home/work/publish/webapi_apps/bin/build_fis.sh prod pano-uniform /home/work/publish/blueray_master/src/public_api/api_res/apps</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGVzJyA9PiBbJ1hCQVNFX1VSTF9NT1ZJRV9OT1JNQUwnXSwKICAgICAgICAgICAgJ29yZGVyQnknID0+ICd1cGRhdGVkX2F0IGRlc2MnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggL2hvbWUvd29yay9wdWJsaXNoL3dlYmFwaV9hcHBzL2Jpbi9idWlsZF9maXMuc2ggcHJvZCBwYW5vLXVuaWZvcm0gL2hvbWUvd29yay9wdWJsaXNoL2JsdWVyYXlfbWFzdGVyL3NyYy9wdWJsaWNfYXBpL2FwaV9yZXMvYXBwcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -438,28 +438,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2ggL2hvbWUvd29yay9wdWJsaXNoL3dlYmFwaV9hcHBzL2Jpbi9idWlsZF9maXMuc2ggcHJvZCBwYW5vLXVuaWZvcm0gL2hvbWUvd29yay9wdWJsaXNoL2JsdWVyYXlfbWFzdGVyL3NyYy9wdWJsaWNfYXBpL2FwaV9yZXMvYXBwcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHF1ZXJ5LT50b1NxbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHF1ZXJ5LT50b1NxbCgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vdmllSG9zdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBhZ2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkKCRtb3ZpZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vdmllSG9zdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRkKCRtb3ZpZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1vdmllWydpZCddID0gJG1vdmllWydtZDUnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -469,16 +469,14 @@
       </register>
     </registers>
     <search>
-      <last-search>toMovie</last-search>
+      <last-search encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</last-search>
       <last-offset />
-      <last-pattern>toMovie</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tion save</entry>
-        <entry>tion update</entry>
         <entry>id cann</entry>
         <entry>Outer</entry>
         <entry>create</entry>
@@ -497,6 +495,8 @@
         <entry>App</entry>
         <entry encoding="base64">XDxnZXRSZWNvbW1lbmRzRnJvbVVybFw+</entry>
         <entry>toMovie</entry>
+        <entry>esmovie</entry>
+        <entry encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
