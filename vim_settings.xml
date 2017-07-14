@@ -159,6 +159,9 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="1506" column="4" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500001295302">
+        <mark key="'" line="81" column="32" />
+      </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
         <mark key="[" line="118" column="78" />
@@ -294,10 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="77" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="75" column="42" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="224" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="284" column="29" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="357" column="70" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
@@ -394,6 +393,10 @@
       <jump line="149" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="237" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="646" column="64" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="891" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="39" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="81" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -421,7 +424,7 @@
         <text>MOVIE_NORMAL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</text>
+        <text>md5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3R5cGVzJyA9PiBbJ1hCQVNFX1VSTF9NT1ZJRV9OT1JNQUwnXSwKICAgICAgICAgICAgJ29yZGVyQnknID0+ICd1cGRhdGVkX2F0IGRlc2MnLAo=</text>
@@ -469,15 +472,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</last-search>
+      <last-search>md5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</last-pattern>
+      <last-pattern>md5</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id cann</entry>
         <entry>Outer</entry>
         <entry>create</entry>
         <entry>tion create</entry>
@@ -497,6 +499,7 @@
         <entry>toMovie</entry>
         <entry>esmovie</entry>
         <entry encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</entry>
+        <entry>md5</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
