@@ -91,8 +91,8 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1499845335508">
-        <mark key="'" line="242" column="28" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500021769841">
+        <mark key="'" line="213" column="5" />
         <mark key="[" line="95" column="35" />
         <mark key="]" line="95" column="38" />
         <mark key="^" line="95" column="38" />
@@ -174,6 +174,13 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1500021761212">
+        <mark key="'" line="102" column="24" />
+        <mark key="[" line="41" column="112" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="41" column="6" />
+        <mark key="^" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Concerns/HasRelationships.php" timestamp="1496892560984">
         <mark key="'" line="55" column="27" />
@@ -297,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="284" column="29" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="357" column="70" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="443" column="31" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
       <jump line="41" column="15" filename="$USER_HOME$/git/darkcms/vendor/illuminate/database/Eloquent/Builder.php" />
@@ -397,6 +402,8 @@
       <jump line="891" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="39" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="81" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="102" column="24" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="213" column="5" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -424,7 +431,7 @@
         <text>MOVIE_NORMAL</text>
       </register>
       <register name="/" type="4">
-        <text>md5</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3R5cGVzJyA9PiBbJ1hCQVNFX1VSTF9NT1ZJRV9OT1JNQUwnXSwKICAgICAgICAgICAgJ29yZGVyQnknID0+ICd1cGRhdGVkX2F0IGRlc2MnLAo=</text>
@@ -468,20 +475,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>md5</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>md5</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Outer</entry>
-        <entry>create</entry>
         <entry>tion create</entry>
         <entry>random</entry>
         <entry>movie_time</entry>
@@ -500,13 +505,15 @@
         <entry>esmovie</entry>
         <entry encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</entry>
         <entry>md5</entry>
+        <entry>listmovie</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
-        <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
