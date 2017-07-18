@@ -238,6 +238,10 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="77" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/bin/publish.sh" timestamp="1500363420542">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/SearchController.php" timestamp="1499743450177">
         <mark key="'" line="55" column="83" />
         <mark key="[" line="57" column="0" />
@@ -429,8 +433,8 @@
       <register name="/" type="4">
         <text>page</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGFncyA9IGV4cGxvZGUoJywnLCAkcmVxdWVzdC0+Z2V0UGFyYW0oJ3RhZ3MnLCAnJykpOwo=</text>
+      <register name="0" type="4">
+        <text>nj02-sw-brweb03.nj02</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
