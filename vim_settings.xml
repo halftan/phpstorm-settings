@@ -158,8 +158,8 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="1506" column="4" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500001295302">
-        <mark key="'" line="81" column="32" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500447205963">
+        <mark key="'" line="163" column="20" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
@@ -304,19 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="55" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="627" column="55" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="650" column="55" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="759" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="292" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="211" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="51" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="16" column="33" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/DecodeHtml.php" />
-      <jump line="8" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/DecodeHtml.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/DecodeHtml.php" />
-      <jump line="334" column="9" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="75" column="53" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="85" column="61" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="111" column="0" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="114" column="0" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
@@ -404,6 +391,19 @@
       <jump line="75" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="388" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="354" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="968" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1007" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1008" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1009" column="66" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1078" column="33" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="16" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="173" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="547" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="548" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="554" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="824" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="163" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,7 +431,7 @@
         <text>$types, $category, $score, $tags</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text>15</text>
       </register>
       <register name="0" type="4">
         <text>nj02-sw-brweb03.nj02</text>
@@ -479,17 +479,14 @@
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search>15</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern>15</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.=</entry>
-        <entry>\.=</entry>
-        <entry>Legacy</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>product</entry>
@@ -507,6 +504,9 @@
         <entry>$query</entry>
         <entry>args</entry>
         <entry>page</entry>
+        <entry>title</entry>
+        <entry>name</entry>
+        <entry>15</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
