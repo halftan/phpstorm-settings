@@ -158,8 +158,8 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="1506" column="4" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500447205963">
-        <mark key="'" line="163" column="20" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500447868485">
+        <mark key="'" line="211" column="28" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
@@ -304,8 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="61" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
-      <jump line="111" column="0" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="114" column="0" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="76" column="33" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
       <jump line="79" column="22" filename="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" />
@@ -404,6 +402,8 @@
       <jump line="824" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="163" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="150" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="211" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,7 +431,7 @@
         <text>$types, $category, $score, $tags</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>502</text>
       </register>
       <register name="0" type="4">
         <text>nj02-sw-brweb03.nj02</text>
@@ -479,15 +479,14 @@
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>502</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern>502</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>product</entry>
         <entry>share</entry>
@@ -507,6 +506,7 @@
         <entry>title</entry>
         <entry>name</entry>
         <entry>15</entry>
+        <entry>502</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
