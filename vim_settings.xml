@@ -85,8 +85,8 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500522373589">
-        <mark key="'" line="151" column="22" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500535732728">
+        <mark key="'" line="95" column="13" />
         <mark key="[" line="158" column="33" />
         <mark key="]" line="158" column="69" />
         <mark key="." line="158" column="0" />
@@ -242,7 +242,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1500279080972">
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1500535325210">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="33" column="3" />
         <mark key="]" line="33" column="3" />
@@ -276,18 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="43" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/MovieController.php" />
-      <jump line="55" column="83" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/SearchController.php" />
-      <jump line="114" column="0" filename="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
-      <jump line="18" column="20" filename="$USER_HOME$/Downloads/application.properties" />
-      <jump line="53" column="21" filename="$USER_HOME$/Downloads/application.properties" />
-      <jump line="50" column="6" filename="$USER_HOME$/Downloads/application.properties" />
-      <jump line="51" column="6" filename="$USER_HOME$/Downloads/application.properties" />
-      <jump line="371" column="14" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" />
-      <jump line="38" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/SearchController.php" />
-      <jump line="42" column="45" filename="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" />
       <jump line="43" column="50" filename="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" />
       <jump line="44" column="64" filename="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" />
       <jump line="45" column="54" filename="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" />
@@ -304,7 +292,6 @@
       <jump line="382" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="149" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
-      <jump line="237" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="646" column="64" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="891" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="39" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
@@ -376,6 +363,19 @@
       <jump line="152" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="151" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="21" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Logic/Constant.php" />
+      <jump line="41" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="58" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="67" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="76" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="83" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="90" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="21" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="262" column="47" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="242" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="241" column="19" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="237" column="34" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="178" column="71" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="95" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -403,7 +403,7 @@
         <text>STATE_PREPUB</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVNPVVJTRV9TVEFURV9PTkxJTkVJTkdcPg==</text>
+        <text encoding="base64">XDx0eXBlc1w+</text>
       </register>
       <register name="0" type="4">
         <text>nj02-sw-brweb03.nj02</text>
@@ -451,15 +451,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRVNPVVJTRV9TVEFURV9PTkxJTkVJTkdcPg==</last-search>
+      <last-search encoding="base64">XDx0eXBlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVNPVVJTRV9TVEFURV9PTkxJTkVJTkdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toMovie</entry>
         <entry>esmovie</entry>
         <entry encoding="base64">XDxkZWZhdWx0VHlwZXNJblNlYXJjaFw+</entry>
         <entry>md5</entry>
@@ -479,6 +478,7 @@
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry>ONLIN</entry>
         <entry encoding="base64">XDxSRVNPVVJTRV9TVEFURV9PTkxJTkVJTkdcPg==</entry>
+        <entry encoding="base64">XDx0eXBlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
