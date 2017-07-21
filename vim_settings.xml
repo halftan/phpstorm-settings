@@ -74,10 +74,10 @@
         <mark key="." line="57" column="50" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1499830909036">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1500629066468">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="117" column="37" />
-        <mark key="]" line="117" column="37" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="41" />
         <mark key="." line="117" column="37" />
         <mark key="^" line="74" column="3" />
       </file>
@@ -408,8 +408,8 @@
       <register name="/" type="4">
         <text>md5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGdjID0gJHBnY3VzZXItPndoZXJlKCdicmFuZF9uYW1lJywgJCk7Cg==</text>
+      <register name="0" type="4">
+        <text>10.206.6.49</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,7 +450,7 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -487,8 +487,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
