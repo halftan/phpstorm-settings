@@ -165,12 +165,12 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="1506" column="4" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500971115300">
-        <mark key="'" line="109" column="79" />
-        <mark key="[" line="103" column="60" />
-        <mark key="]" line="103" column="62" />
-        <mark key="." line="103" column="62" />
-        <mark key="^" line="103" column="62" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500975094145">
+        <mark key="'" line="109" column="35" />
+        <mark key="[" line="1095" column="14" />
+        <mark key="]" line="1095" column="14" />
+        <mark key="^" line="1094" column="76" />
+        <mark key="." line="1095" column="14" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
@@ -296,10 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="221" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
-      <jump line="56" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="98" column="57" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="143" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="112" column="56" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
@@ -337,7 +333,6 @@
       <jump line="211" column="28" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="193" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="198" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="101" column="61" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="103" column="39" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="189" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
@@ -394,8 +389,13 @@
       <jump line="851" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="39" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="263" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="109" column="79" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="22" column="43" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
+      <jump line="72" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1092" column="18" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1144" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1219" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="109" column="35" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -420,16 +420,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>json_encode</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text>zhangfengming</text>
       </register>
       <register name="0" type="4">
         <text>http://hz01-sw-gacc04.hz01:8821/cms_movie/split</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -440,28 +440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZ3JvdXAtPmVhY2goZnVuY3Rpb24gKCRpdGVtLCAka2V5KSB1c2UgKCYkcXVlcnkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGlkID0gQGludHZhbCgkaXRlbVsnaWQnXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVSYXcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSlNPTl9DT05UQUlOUyhgYXR0cnNgLCA/LCAiJC50YWdzIiknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpzb25fZW5jb2RlKCRpZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ29yJwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZ3JvdXAtPmVhY2goZnVuY3Rpb24gKCRpdGVtLCAka2V5KSB1c2UgKCYkcXVlcnkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGlkID0gQGludHZhbCgkaXRlbVsnaWQnXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVSYXcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSlNPTl9DT05UQUlOUyhgYXR0cnNgLCA/LCAiJC50YWdzIiknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpzb25fZW5jb2RlKCRpZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ29yJwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbiAkZ3JvdXAgKi8KICAgICAgICAgICAgICAgICRncm91cCA9ICRpZHMtPnBvcCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdyb3VwID0gJGlkcy0+cG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbiAkZ3JvdXAgKi8KICAgICAgICAgICAgICAgICRncm91cCA9ICRpZHMtPnBvcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uICRncm91cCAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGdyb3VwID0gJGlkcy0+cG9wKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uICRncm91cCAqLwo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -471,15 +471,14 @@
       </register>
     </registers>
     <search>
-      <last-search>split</last-search>
+      <last-search>zhangfengming</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern>zhangfengming</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$query</entry>
         <entry>args</entry>
         <entry>page</entry>
         <entry>title</entry>
@@ -499,6 +498,7 @@
         <entry>wangguann</entry>
         <entry>field</entry>
         <entry>split</entry>
+        <entry>zhangfengming</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -534,6 +534,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
