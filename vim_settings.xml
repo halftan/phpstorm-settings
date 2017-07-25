@@ -29,6 +29,12 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1500953331046">
+        <mark key="'" line="4" column="72" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="34" />
+      </file>
       <file name="$USER_HOME$/Downloads/application.properties" timestamp="1499830900657">
         <mark key="'" line="51" column="6" />
         <mark key="[" line="37" column="15" />
@@ -404,7 +410,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>group</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>md5</text>
