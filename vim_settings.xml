@@ -95,11 +95,12 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500537998230">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500964022961">
         <mark key="'" line="95" column="13" />
-        <mark key="[" line="158" column="33" />
-        <mark key="]" line="158" column="69" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="250" column="29" />
+        <mark key="]" line="250" column="32" />
+        <mark key="." line="250" column="32" />
+        <mark key="^" line="250" column="32" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
@@ -159,8 +160,8 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="1506" column="4" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500618857226">
-        <mark key="'" line="39" column="32" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500963104996">
+        <mark key="'" line="109" column="79" />
         <mark key="[" line="288" column="0" />
         <mark key="]" line="288" column="0" />
         <mark key="." line="288" column="0" />
@@ -234,6 +235,9 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1500963114325">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/SearchController.php" timestamp="1499743450177">
         <mark key="'" line="55" column="83" />
         <mark key="[" line="57" column="0" />
@@ -286,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="117" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="166" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
       <jump line="221" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Legacy/MovieController.php" />
@@ -386,6 +389,7 @@
       <jump line="851" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="39" column="32" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="263" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="109" column="79" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,10 +414,10 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>_all</text>
       </register>
       <register name="/" type="4">
-        <text>md5</text>
+        <text>field</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWVtcHR5KCR0YWdzKSkgewogICAgICAgICAgICAkaWRzID0gVGFnOjpxdWVyeSgpCiAgICAgICAgICAgICAgICAgICAgICAtPndoZXJlSW4oJ25hbWUnLCAkdGFncykKICAgICAgICAgICAgICAgICAgICAgIC0+c2VsZWN0KCdpZCcpCiAgICAgICAgICAgICAgICAgICAgICAtPmdldCgnaWQnKQogICAgICAgICAgICAgICAgICAgICAgLT5wbHVjaygnaWQnKTsKICAgICAgICAgICAgaWYgKCRpZHMtPmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCYkaWRzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJGlkcyBhcyAkaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZVJhdygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdKU09OX0NPTlRBSU5TKGBhdHRyc2AsID8sICIkLnRhZ3MiKScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc29uX2VuY29kZSgkaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ29yJwogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
@@ -461,16 +465,14 @@
       </register>
     </registers>
     <search>
-      <last-search>md5</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>md5</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry>whereraw</entry>
         <entry>query</entry>
         <entry>$query</entry>
         <entry>args</entry>
@@ -489,6 +491,8 @@
         <entry>pgcuser</entry>
         <entry>source</entry>
         <entry>md5</entry>
+        <entry>wangguann</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
