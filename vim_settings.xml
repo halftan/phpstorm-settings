@@ -140,12 +140,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501057789129">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501059258450">
         <mark key="'" line="355" column="43" />
-        <mark key="[" line="346" column="20" />
-        <mark key="]" line="346" column="20" />
-        <mark key="." line="346" column="20" />
-        <mark key="^" line="346" column="25" />
+        <mark key="[" line="345" column="7" />
+        <mark key="]" line="334" column="0" />
+        <mark key="." line="334" column="0" />
+        <mark key="^" line="334" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/README.md" timestamp="1501040540763" />
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1498723870112">
