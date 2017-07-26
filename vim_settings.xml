@@ -100,12 +100,12 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1500964022961">
-        <mark key="'" line="95" column="13" />
-        <mark key="[" line="250" column="29" />
-        <mark key="]" line="250" column="32" />
-        <mark key="." line="250" column="32" />
-        <mark key="^" line="250" column="32" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1501052293991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="170" column="14" />
+        <mark key="." line="169" column="38" />
+        <mark key="^" line="169" column="38" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
@@ -306,9 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="547" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="548" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="554" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="824" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="163" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
@@ -406,6 +403,9 @@
       <jump line="107" column="51" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="91" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="3" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="191" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="113" column="42" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -430,16 +430,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text>Redis</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlZGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCRuYW1lKSB7CiAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmUoJ3RpdGxlJywgJ0xJS0UnLCAnJScgLiAkbmFtZSAuICclJyk7CiAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmUoJ2JyaWVmJywgJ0xJS0UnLCAnJScgLiAkbmFtZSAuICclJyk7CiAgICAgICAgICAgICAgICAkcXVlcnktPm9yV2hlcmUoJ2RldGFpbCcsICdMSUtFJywgJyUnIC4gJG5hbWUgLiAnJScpOwogICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -449,29 +449,29 @@
           <key char="65535" code="65" mods="130" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>$movies</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndGl0bGUnLCAnTElLRScsICclJyAuICRuYW1lIC4gJyUnKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmZvcm1hdFF1ZXJ5KCRyZXF1ZXN0KTsKICAgICAgICAgICAgJHBhZ2UgPSAoaW50KSBjZWlsKCRzdGFydCAvICRsaW1pdCkgKyAxOwogICAgICAgICAgICAkcGFnZXIgPSAkcXVlcnktPnBhZ2luYXRlKCRsaW1pdCwgWycqJ10sICdwYWdlJywgJHBhZ2UpOwogICAgICAgICAgICAkbW92aWVzID0gY29sbGVjdCgkcGFnZXItPml0ZW1zKCkpLT5tYXAoZnVuY3Rpb24gKCRtb3ZpZSkgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgXEFwcFxNb2RlbFxEYXJrXFJlc291cmNlICRtb3ZpZSAqLwogICAgICAgICAgICAgICAgcmV0dXJuICRtb3ZpZS0+dG9Nb3ZpZSgpOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="5" type="4">
+      <register name="3" type="4">
         <text>()</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmdldFBhcmFtcygp</text>
+      <register name="4" type="4">
+        <text>$movies</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmZvcm1hdFF1ZXJ5KCRyZXF1ZXN0KTsKICAgICAgICAgICAgJHBhZ2UgPSAoaW50KSBjZWlsKCRzdGFydCAvICRsaW1pdCkgKyAxOwogICAgICAgICAgICAkcGFnZXIgPSAkcXVlcnktPnBhZ2luYXRlKCRsaW1pdCwgWycqJ10sICdwYWdlJywgJHBhZ2UpOwogICAgICAgICAgICAkbW92aWVzID0gY29sbGVjdCgkcGFnZXItPml0ZW1zKCkpLT5tYXAoZnVuY3Rpb24gKCRtb3ZpZSkgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgXEFwcFxNb2RlbFxEYXJrXFJlc291cmNlICRtb3ZpZSAqLwogICAgICAgICAgICAgICAgcmV0dXJuICRtb3ZpZS0+dG9Nb3ZpZSgpOwogICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>()</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JHJlcXVlc3QtPmdldFBhcmFtcygp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpxdWVyeSgpLT51cGRhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -481,15 +481,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Redis</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>Redis</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>15</entry>
         <entry>502</entry>
         <entry>httpclient</entry>
         <entry>state</entry>
@@ -509,6 +508,7 @@
         <entry>getBody</entry>
         <entry>request</entry>
         <entry>Redis</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
