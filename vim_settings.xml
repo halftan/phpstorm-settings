@@ -100,11 +100,11 @@
         <mark key="." line="150" column="152" />
         <mark key="^" line="131" column="21" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1501138678511">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1501142467205">
         <mark key="'" line="135" column="8" />
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="253" column="36" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
