@@ -140,12 +140,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501138497440">
-        <mark key="'" line="505" column="0" />
-        <mark key="[" line="345" column="7" />
-        <mark key="]" line="334" column="0" />
-        <mark key="." line="334" column="0" />
-        <mark key="^" line="334" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501150217125">
+        <mark key="'" line="391" column="43" />
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="399" column="4" />
+        <mark key="." line="398" column="18" />
+        <mark key="^" line="398" column="18" />
       </file>
       <file name="$USER_HOME$/git/darkcms/README.md" timestamp="1501040540763" />
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1498723870112">
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="101" column="61" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="103" column="39" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="189" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="191" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
@@ -406,6 +404,8 @@
       <jump line="322" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="135" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" />
       <jump line="505" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="95" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="391" column="43" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -430,13 +430,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>build</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXR0cnNBdHRyaWJ1dGUoKQogICAgewogICAgICAgIGlmIChlbXB0eSgkdGhpcy0+YXR0cmlidXRlc1snYXR0cnMnXSkpIHsKICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBbXSwKICAgICAgICAgICAgXTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuICR0aGlzLT5hdHRyaWJ1dGVzWydhdHRycyddOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gc3RyaW5nCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRVcmxBdHRyaWJ1dGUoKQogICAgewogICAgICAgIC8vIFdBUk46IGhhcmQgY29kZWQgY2xhc3NfaWQKICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmF0dHJpYnV0ZXNbJ2NsYXNzX2lkJ10sIFsxNSwgMTYsIDE3LCAxOCwgMTksIDIyXSkpIHsKICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -450,28 +450,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndGl0bGUnLCAnTElLRScsICclJyAuICRuYW1lIC4gJyUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>$movies</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndGl0bGUnLCAnTElLRScsICclJyAuICRuYW1lIC4gJyUnKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmZvcm1hdFF1ZXJ5KCRyZXF1ZXN0KTsKICAgICAgICAgICAgJHBhZ2UgPSAoaW50KSBjZWlsKCRzdGFydCAvICRsaW1pdCkgKyAxOwogICAgICAgICAgICAkcGFnZXIgPSAkcXVlcnktPnBhZ2luYXRlKCRsaW1pdCwgWycqJ10sICdwYWdlJywgJHBhZ2UpOwogICAgICAgICAgICAkbW92aWVzID0gY29sbGVjdCgkcGFnZXItPml0ZW1zKCkpLT5tYXAoZnVuY3Rpb24gKCRtb3ZpZSkgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgXEFwcFxNb2RlbFxEYXJrXFJlc291cmNlICRtb3ZpZSAqLwogICAgICAgICAgICAgICAgcmV0dXJuICRtb3ZpZS0+dG9Nb3ZpZSgpOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>()</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmdldFBhcmFtcygp</text>
+      <register name="7" type="4">
+        <text>$movies</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5ID0gJHRoaXMtPmZvcm1hdFF1ZXJ5KCRyZXF1ZXN0KTsKICAgICAgICAgICAgJHBhZ2UgPSAoaW50KSBjZWlsKCRzdGFydCAvICRsaW1pdCkgKyAxOwogICAgICAgICAgICAkcGFnZXIgPSAkcXVlcnktPnBhZ2luYXRlKCRsaW1pdCwgWycqJ10sICdwYWdlJywgJHBhZ2UpOwogICAgICAgICAgICAkbW92aWVzID0gY29sbGVjdCgkcGFnZXItPml0ZW1zKCkpLT5tYXAoZnVuY3Rpb24gKCRtb3ZpZSkgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgXEFwcFxNb2RlbFxEYXJrXFJlc291cmNlICRtb3ZpZSAqLwogICAgICAgICAgICAgICAgcmV0dXJuICRtb3ZpZS0+dG9Nb3ZpZSgpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
