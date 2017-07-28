@@ -81,10 +81,12 @@
         <mark key="." line="57" column="50" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1501137543648">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1501214336483">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="35" column="8" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1500976827885">
         <mark key="'" line="22" column="43" />
@@ -435,8 +437,8 @@
       <register name="/" type="4">
         <text>playurl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQbGF5VXJsQXR0cmlidXRlKCkKICAgIHsKICAgICAgICBpZiAoaXNfc3RyaW5nKCR0aGlzLT5hdHRyaWJ1dGVzWyd1cmwnXSkpIHsKICAgICAgICAgICAgcmV0dXJuIGpzb25fZGVjb2RlKCR0aGlzLT5hdHRyaWJ1dGVzWyd1cmwnXSwgdHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>10.212.116.56</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
