@@ -81,12 +81,12 @@
         <mark key="." line="57" column="50" />
         <mark key="^" line="57" column="50" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1501214336483">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1501487983383">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+        <mark key="[" line="112" column="30" />
+        <mark key="]" line="112" column="43" />
+        <mark key="^" line="112" column="43" />
+        <mark key="." line="112" column="43" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1500976827885">
         <mark key="'" line="22" column="43" />
@@ -194,12 +194,12 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1501485806778">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1501488063166">
         <mark key="'" line="102" column="24" />
-        <mark key="[" line="136" column="9" />
-        <mark key="]" line="142" column="41" />
-        <mark key="." line="142" column="41" />
-        <mark key="^" line="142" column="41" />
+        <mark key="[" line="140" column="30" />
+        <mark key="]" line="140" column="31" />
+        <mark key="." line="140" column="31" />
+        <mark key="^" line="140" column="31" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1497322320382">
         <mark key="'" line="0" column="0" />
@@ -424,16 +424,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>request body too large</text>
       </register>
       <register name="/" type="4">
         <text>playurl</text>
       </register>
-      <register name="0" type="4">
-        <text>10.212.116.56</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aEpzb24oWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+IDQxMywKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAncmVxdWVzdCBib2R5IHRvbyBsYXJnZScsCiAgICAgICAgICAgICAgICAnZGF0YScgPT4gW10sCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,28 +444,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbW92aWVzID0gJG1vdmllcy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICByZXR1cm4gJGl0ZW0tPnRvTW92aWUoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW92aWVzID0gJG1vdmllcy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICByZXR1cm4gJGl0ZW0tPnRvTW92aWUoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndGl0bGUnLCAnTElLRScsICclJyAuICRuYW1lIC4gJyUnKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>()</text>
-      </register>
       <register name="9" type="4">
-        <text>$movies</text>
+        <text>()</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
