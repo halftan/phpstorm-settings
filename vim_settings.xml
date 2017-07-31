@@ -15,12 +15,12 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1501137565585">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1501490168497">
         <mark key="'" line="32" column="4" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="16" />
+        <mark key="." line="97" column="16" />
+        <mark key="^" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1497263805782">
         <mark key="'" line="86" column="51" />
@@ -34,11 +34,6 @@
         <mark key="[" line="36" column="34" />
         <mark key="]" line="36" column="35" />
         <mark key="." line="36" column="34" />
-      </file>
-      <file name="$USER_HOME$/Downloads/application.properties" timestamp="1499830900657">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="74" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/SearchController.php" timestamp="1499833857583">
         <mark key="'" line="38" column="27" />
@@ -169,11 +164,6 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1497428822340">
-        <mark key="'" line="885" column="16" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="1506" column="4" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1500978674655">
         <mark key="'" line="104" column="87" />
         <mark key="[" line="105" column="48" />
@@ -222,11 +212,10 @@
         <mark key="." line="110" column="59" />
         <mark key="^" line="110" column="59" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1497332108680">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1501489969998">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
         <mark key="[" line="5" column="25" />
@@ -424,7 +413,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>request body too large</text>
+        <text>!empty($cache)</text>
       </register>
       <register name="/" type="4">
         <text>playurl</text>
@@ -433,7 +422,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZS0+d2l0aEpzb24oWwogICAgICAgICAgICAgICAgJ2NvZGUnID0+IDQxMywKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAncmVxdWVzdCBib2R5IHRvbyBsYXJnZScsCiAgICAgICAgICAgICAgICAnZGF0YScgPT4gW10sCiAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">cGhwaW5mbygpOwpkaWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -444,28 +433,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyB4ZGVidWdfZ2V0X3Byb2ZpbGVyX2ZpbGVuYW1lKCk7CmRpZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbW92aWVzID0gJG1vdmllcy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICByZXR1cm4gJGl0ZW0tPnRvTW92aWUoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAkbW92aWVzID0gJG1vdmllcy0+bWFwKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICByZXR1cm4gJGl0ZW0tPnRvTW92aWUoKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFycmF5X3BvcCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndGl0bGUnLCAnTElLRScsICclJyAuICRuYW1lIC4gJyUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
