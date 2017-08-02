@@ -131,11 +131,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501661464799">
-        <mark key="'" line="467" column="23" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="266" column="0" />
-        <mark key="." line="266" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1501668452276">
+        <mark key="'" line="432" column="12" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="47" />
+        <mark key="^" line="86" column="46" />
+        <mark key="." line="86" column="46" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1501571892068">
         <mark key="'" line="45" column="0" />
@@ -156,8 +157,8 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1501659385511">
-        <mark key="'" line="70" column="12" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1501668374634">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="105" column="48" />
         <mark key="]" line="106" column="23" />
         <mark key="." line="106" column="23" />
@@ -183,12 +184,12 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1501570445550">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1501668080533">
         <mark key="'" line="102" column="24" />
-        <mark key="[" line="137" column="18" />
-        <mark key="]" line="137" column="18" />
-        <mark key="." line="137" column="18" />
-        <mark key="^" line="137" column="18" />
+        <mark key="[" line="155" column="51" />
+        <mark key="]" line="155" column="52" />
+        <mark key="." line="155" column="52" />
+        <mark key="^" line="155" column="52" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1501647980549">
         <mark key="'" line="47" column="0" />
@@ -280,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="95" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="391" column="43" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="384" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -371,7 +371,6 @@
       <jump line="96" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="1203" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="100" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="70" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="662" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
       <jump line="291" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -380,6 +379,8 @@
       <jump line="466" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="393" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="84" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="431" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -407,13 +408,13 @@
         <text>intersect</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text>resource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEdBcHA6OkdHKCdsb2dnZXInKS0+aW5mbygnYnVpbGRpbmcgdGFncyBjYWNoZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXRbJ3Jhd1VybCddID0gJGl0ZW0tPnJhd1VybDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFxBcHBcRwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHRoaXMtPmF0dHJpYnV0ZXNbJ2NsYXNzX2lkJ10sIFsxNSwgMTYsIDE3LCAxOCwgMTksIDIyXSkpIHsKICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -465,46 +466,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBXQVJOOiBoYXJkIGNvZGVkIGNsYXNzX2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxBcHBcRwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdib29sJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXVzdF9ub3QnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+ICRleGNsdWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXJtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJHR5cGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdib29sJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXVzdF9ub3QnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+ICRleGNsdWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXJtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJHR5cGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGNvbmZpZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdib29sJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXVzdF9ub3QnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+ICRleGNsdWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXJtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJHR5cGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdib29sJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXVzdF9ub3QnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+ICRleGNsdWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXJtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJHR5cGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFczo6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsdGVyJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdib29sJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbXVzdF9ub3QnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndGVybXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnID0+ICRleGNsdWRlZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3VsZCcgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXJtcycgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZScgPT4gJHR5cGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>Redis</entry>
         <entry>build</entry>
         <entry>playurl</entry>
@@ -524,13 +524,14 @@
         <entry>logg</entry>
         <entry>GApp</entry>
         <entry>backup</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
