@@ -56,8 +56,8 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" timestamp="1501740961168">
-        <mark key="'" line="23" column="8" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" timestamp="1501755182652">
+        <mark key="'" line="23" column="41" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -310,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="7" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
-      <jump line="3" column="4" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="33" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/composer.json" />
@@ -410,6 +408,8 @@
       <jump line="1016" column="8" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
       <jump line="59" column="97" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
       <jump line="104" column="88" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
+      <jump line="23" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
+      <jump line="454" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -522,7 +522,7 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -559,8 +559,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
