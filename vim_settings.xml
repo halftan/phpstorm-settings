@@ -29,8 +29,8 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1501731861317">
-        <mark key="'" line="59" column="97" />
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1501823196466">
+        <mark key="'" line="6" column="4" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -310,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
-      <jump line="33" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/composer.json" />
       <jump line="413" column="60" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="414" column="61" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -410,6 +408,8 @@
       <jump line="104" column="88" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="23" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
       <jump line="454" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
+      <jump line="82" column="0" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
+      <jump line="6" column="4" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,7 +437,7 @@
         <text>self::</text>
       </register>
       <register name="/" type="4">
-        <text>union</text>
+        <text>split</text>
       </register>
       <register name="0" type="4">
         <text>darkcms_brandservice_cache_brandmap</text>
@@ -526,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>union</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern>union</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -542,7 +542,6 @@
         <entry>version</entry>
         <entry>external</entry>
         <entry encoding="base64">XDxtb3ZpZUhvc3RcPg==</entry>
-        <entry>split</entry>
         <entry>diff</entry>
         <entry>logg</entry>
         <entry>GApp</entry>
@@ -554,6 +553,7 @@
         <entry>7200</entry>
         <entry>setex</entry>
         <entry>union</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
