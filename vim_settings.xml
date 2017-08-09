@@ -172,9 +172,10 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1502080363261">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="24" column="10" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1502270157824">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="0" />
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
@@ -218,6 +219,13 @@
         <mark key="]" line="40" column="31" />
         <mark key="^" line="40" column="31" />
         <mark key="." line="40" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" timestamp="1502271418051">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="23" column="94" />
+        <mark key="^" line="23" column="94" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" timestamp="1501573647757">
         <mark key="'" line="40" column="54" />
@@ -307,16 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="66" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="421" column="69" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="423" column="51" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="424" column="52" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="425" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="426" column="51" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="429" column="58" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="433" column="59" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="437" column="65" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="438" column="63" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="440" column="76" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="441" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="442" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -407,6 +405,16 @@
       <jump line="133" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="48" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="219" column="6" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="8" column="48" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="24" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="33" column="47" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="40" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="23" column="95" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -431,16 +439,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>while</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
         <text>listMovie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWVtcHR5KCR0YWdzKSkgewogICAgICAgICAgICAkaWRzID0gVGFnOjpxdWVyeSgpCiAgICAgICAgICAgICAgICAtPndoZXJlSW4oJ25hbWUnLCAkdGFncykKICAgICAgICAgICAgICAgIC0+c2VsZWN0KCdpZCcpCiAgICAgICAgICAgICAgICAtPmdldCgnaWQnKQogICAgICAgICAgICAgICAgLT5wbHVjaygnaWQnKTsKICAgICAgICAgICAgd2hpbGUgKCRpZHMtPmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB1c2UgKCYkaWRzKSB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAoJGlkcyBhcyAkaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZVJhdygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdKU09OX0NPTlRBSU5TKGBhdHRyc2AsID8sICIkLnRhZ3MiKScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc29uX2VuY29kZSgkaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ29yJwogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">PD9waHAKbmFtZXNwYWNlIEFwcFxDbGk7Cgp1c2UgQXBwXE1vZGVsXERhcmtcTW92aWU7CnVzZSBBcHBcTW9kZWxcRGFya1xSZXNvdXJjZTsKdXNlIFxQc3JcSHR0cFxNZXNzYWdlXFNlcnZlclJlcXVlc3RJbnRlcmZhY2UgYXMgUmVxdWVzdDsKdXNlIFxQc3JcSHR0cFxNZXNzYWdlXFJlc3BvbnNlSW50ZXJmYWNlIGFzIFJlc3BvbnNlOwoKLy8gcGhwNyBzcmMvcHVibGljL2luZGV4LnBocCAvY2xpL1N5bmNMaXZlU3RyZWFtICJ0W109ZiZmPWRmJnNbXT1mc2QiCmNsYXNzIFN5bmNMaXZlU3RyZWFtQ2xpIGV4dGVuZHMgQ2xpCnsKICAgIHB1YmxpYyBmdW5jdGlvbiBydW4oUmVxdWVzdCAkcmVxLCBSZXNwb25zZSAkcmVzLCBhcnJheSAkYXJncykKICAgIHsKICAgICAgICAkbW92aWVzID0gTW92aWU6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgndHlwZScsIE1vdmllOjpUWVBFX1hCQVNFX1VSTF9aSElCTykKICAgICAgICAgICAgLT5nZXQoKTsKCiAgICAgICAgUmVzb3VyY2U6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgnY2xhc3NfaWQnLCAxNikKICAgICAgICAgICAgLT5lYWNoKGZ1bmN0aW9uICgkaXRlbSkgdXNlICgmJG1vdmllcykgewogICAgICAgICAgICAgICAgLyoqIEB2YXIgXEFwcFxNb2RlbFxEYXJrXFJlc291cmNlICRpdGVtICovCiAgICAgICAgICAgICAgICAvKiogQHZhciBcQXBwXE1vZGVsXERhcmtcTW92aWUgJG1vdmllICovCiAgICAgICAgICAgICAgICAkbW92aWUgPSAkbW92aWVzLT53aGVyZSgnaWQnLCAkaXRlbS0+b2lkKS0+Zmlyc3QoKTsKICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJG1vdmllKSAmJiBzdHJ0b3RpbWUoJG1vdmllLT51cGRhdGVfdGltZSkgPiBzdHJ0b3RpbWUoJGl0ZW0tPnVwZGF0ZWRfYXQpKSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygkbW92aWUtPmlkKTsKICAgICAgICAgICAgICAgICAgICAkaXRlbS0+dGl0bGUgPSAkbW92aWUtPm5hbWU7CiAgICAgICAgICAgICAgICAgICAgJGl0ZW0tPmJyaWVmID0gJG1vdmllLT5kZXNjOwogICAgICAgICAgICAgICAgICAgICRpdGVtLT5kZXRhaWwgPSAkbW92aWUtPmZ1bGxfZGVzYzsKICAgICAgICAgICAgICAgICAgICAkaXRlbS0+dGh1bWJuYWlsID0gJG1vdmllLT50aHVtYm5haWxfczsKICAgICAgICAgICAgICAgICAgICAkaXRlbS0+Y292ZXIgPSAkbW92aWUtPnRodW1ibmFpbF9iOwogICAgICAgICAgICAgICAgICAgICRpdGVtLT5zdGF0ZSA9ICRtb3ZpZS0+c3RhdHVzOwogICAgICAgICAgICAgICAgICAgICRpdGVtLT51cGRhdGVkX2F0ID0gJG1vdmllLT51cGRhdGVfdGltZTsKICAgICAgICAgICAgICAgICAgICAkb2sgPSAkaXRlbS0+c2F2ZSgpOwoKICAgICAgICAgICAgICAgICAgICBpZiAoJG9rKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICR0aGlzLT5sb2dnZXItPmluZm8oJ2RvbmUnKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdmYWlsZWQnKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGRkKCRvayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFxJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbiAkZ3JvdXAgKi8KICAgICAgICAgICAgICAgICRncm91cCA9ICRpZHMtPnBvcCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,28 +500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC0+c2VsZWN0KCdpZCcsICduYW1lJykKICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0KCduYW1lJywgJ2lkJykKICAgICAgICAgICAgICAgICAgICAgIC0+Z3JvdXBCeSgnbmFtZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZ3JvdXAtPmVhY2goZnVuY3Rpb24gKCRpdGVtLCAka2V5KSB1c2UgKCYkcXVlcnkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgJGlkID0gQGludHZhbCgkaXRlbVsnaWQnXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgkaWQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVSYXcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0pTT05fQ09OVEFJTlMoYGF0dHJzYCwgPywgIiQudGFncyIpJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBqc29uX2VuY29kZSgkaWQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICRrZXkgPiAwID8gJ29yJyA6ICdhbmQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdkb25lJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWQ1ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCRtb3ZpZS0+c3RhdHVzIC4gJyAgLS0tPiAgJyAuICRpdGVtLT5zdGF0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbW92aWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoc2VsZjo6JGJyYW5kTWFwLT50b0FycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaXRlbS0+dGl0bGUgPSAkbW92aWUtPm5hbWU7CiAgICAgICAgICAgICAgICAgICAgJGl0ZW0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2FjaGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
