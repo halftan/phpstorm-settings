@@ -15,8 +15,8 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502272346544">
-        <mark key="'" line="52" column="26" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502349244981">
+        <mark key="'" line="379" column="23" />
         <mark key="j" line="107" column="12" />
         <mark key="[" line="187" column="0" />
         <mark key="]" line="189" column="35" />
@@ -86,19 +86,19 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1501813582630">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1502349186421">
         <mark key="'" line="104" column="88" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="39" />
+        <mark key="[" line="104" column="23" />
+        <mark key="]" line="104" column="86" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1501655432166">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1502349199189">
         <mark key="'" line="98" column="5" />
-        <mark key="[" line="104" column="89" />
-        <mark key="]" line="104" column="93" />
+        <mark key="[" line="107" column="30" />
+        <mark key="]" line="107" column="41" />
         <mark key="^" line="104" column="93" />
-        <mark key="." line="104" column="93" />
+        <mark key="." line="107" column="30" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1499830787056">
         <mark key="'" line="114" column="0" />
@@ -146,12 +146,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502333881445">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502349342778">
         <mark key="'" line="266" column="16" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="^" line="424" column="0" />
-        <mark key="." line="424" column="0" />
+        <mark key="[" line="426" column="15" />
+        <mark key="]" line="426" column="17" />
+        <mark key="^" line="426" column="17" />
+        <mark key="." line="426" column="17" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Facades/AppLogger.php" timestamp="1501732015808">
         <mark key="[" line="7" column="0" />
@@ -315,11 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="442" column="70" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="327" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="83" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="30" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="49" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="57" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
@@ -415,6 +410,11 @@
       <jump line="23" column="95" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
       <jump line="860" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="439" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="61" column="15" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="72" column="40" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="81" column="82" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="379" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -439,13 +439,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>jj</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
-        <text>listMovie</text>
+        <text>recommend</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Tm9uZVplcm9JZEF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgaWYgKGVtcHR5KCR0aGlzWydvaWQnXSkpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzWydpZCddOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXNbJ29pZCddOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>http://cq02-sw-sj00.cq02.baidu.com:8299/api/v3/product/vrbrowser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0K</text>
@@ -531,15 +531,14 @@
       </register>
     </registers>
     <search>
-      <last-search>listMovie</last-search>
+      <last-search>recommend</last-search>
       <last-offset />
-      <last-pattern>listMovie</last-pattern>
+      <last-pattern>recommend</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bulk</entry>
         <entry>scope</entry>
         <entry>dd</entry>
         <entry>version</entry>
@@ -559,6 +558,7 @@
         <entry>split</entry>
         <entry>cms_movie</entry>
         <entry>listMovie</entry>
+        <entry>recommend</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
