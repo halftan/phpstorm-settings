@@ -146,12 +146,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502333133092">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502333881445">
         <mark key="'" line="266" column="16" />
-        <mark key="[" line="386" column="7" />
-        <mark key="]" line="387" column="26" />
-        <mark key="^" line="387" column="26" />
-        <mark key="." line="387" column="26" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="0" />
+        <mark key="^" line="424" column="0" />
+        <mark key="." line="424" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Facades/AppLogger.php" timestamp="1501732015808">
         <mark key="[" line="7" column="0" />
@@ -439,13 +439,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFyYW0g</text>
+        <text>jj</text>
       </register>
       <register name="/" type="4">
         <text>listMovie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbGFzdFVwZGF0ZSA9IFJlc291cmNlOjpxdWVyeSgpCiAgICAgICAgICAgIC0+d2hlcmUoJ2NsYXNzX2lkJywgMTYpCiAgICAgICAgICAgIC0+bWF4KCd1cGRhdGVkX2F0Jyk7CiAgICAgICAgJG1vdmllcyA9IE1vdmllOjpxdWVyeSgpCiAgICAgICAgICAgIC0+d2hlcmUoJ3R5cGUnLCBNb3ZpZTo6VFlQRV9YQkFTRV9VUkxfWkhJQk8pCiAgICAgICAgICAgIC0+d2hlcmUoJ3VwZGF0ZV90aW1lJywgJz4nLCAkbGFzdFVwZGF0ZSkKICAgICAgICAgICAgLT5nZXQoKTsK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0Tm9uZVplcm9JZEF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgaWYgKGVtcHR5KCR0aGlzWydvaWQnXSkpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzWydpZCddOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHRoaXNbJ29pZCddOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0K</text>
