@@ -81,12 +81,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1502349199189">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1502360095611">
         <mark key="'" line="98" column="5" />
-        <mark key="[" line="107" column="30" />
-        <mark key="]" line="107" column="41" />
+        <mark key="[" line="104" column="41" />
+        <mark key="]" line="104" column="41" />
         <mark key="^" line="104" column="93" />
-        <mark key="." line="107" column="30" />
+        <mark key="." line="104" column="41" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1499830787056">
         <mark key="'" line="114" column="0" />
@@ -362,7 +362,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>:8299</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
