@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502359126453">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502679628027">
         <mark key="'" line="379" column="23" />
         <mark key="j" line="107" column="12" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="189" column="35" />
-        <mark key="." line="70" column="38" />
-        <mark key="^" line="70" column="38" />
+        <mark key="[" line="399" column="129" />
+        <mark key="]" line="400" column="21" />
+        <mark key="." line="400" column="21" />
+        <mark key="^" line="400" column="21" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1497263805782">
         <mark key="'" line="86" column="51" />
@@ -360,16 +360,16 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>:8299</text>
+        <text>$query</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
       </register>
       <register name="0" type="4">
-        <text>http://cq02-sw-sj00.cq02.baidu.com:8299/api/v3/product/vrbrowser</text>
+        <text encoding="base64">JHRoaXMtPmNvbmZpZy0+Z2V0KCdtb3ZpZS5yZWNvbW1lbmQuY291bnQnLCA2KSArIDM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtb3ZpZUlkLAogICAgICAgICAgICAgICAgJHRoaXMtPmNvbmZpZy0+Z2V0KCdtb3ZpZS5yZWNvbW1lbmQuY291bnQnLCA2KSArIDMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -421,34 +421,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhcmdldFVybCA9IHNwcmludGYoCiAgICAgICAgICAgICAgICAnJXMvY29udGVudD9vYmplY3RfaWQ9JWQmcXVlcnlfY291bnQ9JWQnLAogICAgICAgICAgICAgICAgJHRoaXMtPmNvbmZpZy0+Z2V0KCdtb3ZpZS5yZWNvbW1lbmQuaG9zdCcsICdodHRwOi8vaHowMS1zdy10YXNrMDEuaHowMS5iYWlkdS5jb206ODI5OS9hcGkvdjIvcHJvZHVjdC92cmJyb3dzZXInKSwKICAgICAgICAgICAgICAgICRtb3ZpZUlkLAogICAgICAgICAgICAgICAgJHRoaXMtPmNvbmZpZy0+Z2V0KCdtb3ZpZS5yZWNvbW1lbmQuY291bnQnLCA2KSArIDMKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoc3RyaW5nKSBhcnJheV9wb3AoJHVybERhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIChzdHJpbmcpIGFycmF5X3BvcCgkdXJsRGF0YSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewo=</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoc3RyaW5nKSBhcnJheV9wb3AoJHVybERhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVybERhdGEgPSBAanNvbkRlY29kZSgkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10pOwogICAgICAgICAgICBpZiAoIWVtcHR5KCR1cmxEYXRhKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdkb25lJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCRtb3ZpZS0+c3RhdHVzIC4gJyAgLS0tPiAgJyAuICRpdGVtLT5zdGF0ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdkb25lJyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -485,8 +485,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
