@@ -15,12 +15,13 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502957471841">
-        <mark key="'" line="393" column="16" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502960002063">
+        <mark key="'" line="394" column="16" />
         <mark key="j" line="107" column="12" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
+        <mark key="[" line="242" column="12" />
+        <mark key="]" line="242" column="37" />
+        <mark key="." line="242" column="37" />
+        <mark key="^" line="242" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1502789842910">
         <mark key="[" line="0" column="0" />
@@ -440,11 +441,11 @@
       <register name="/" type="4">
         <text>oid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKCR2YWx1ZSkpIHsKICAgICAgICAgICAgaWYgKHN0YXJ0c193aXRoKCR2YWx1ZSwgJ2h0dHAnKSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddID0ganNvbkVuY29kZShuZXcgXEFycmF5T2JqZWN0KFsKICAgICAgICAgICAgICAgICAgICAwID0+ICR2YWx1ZSwKICAgICAgICAgICAgICAgIF0pKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGpzb24gc3RyaW5nCiAgICAgICAgICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10gPSAkdmFsdWU7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBuZWVkcyBlbmNvZGluZwogICAgICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10gPSBqc29uRW5jb2RlKCR2YWx1ZSk7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>目前该字段仅好玩（GAME类型资源）在使用。默认值为</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXJyYXkKICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAg5peg5q2k5a2X5q61Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,28 +497,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXJyYXkKICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXQVJOOiBoYXJkIGNvZGVkIGNsYXNzX2lkCiAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5hdHRyaWJ1dGVzWydjbGFzc19pZCddLCBbMTUsIDE2LCAxNywgMTgsIDE5LCAyMl0pKSB7CiAgICAgICAgICAgIC8vIGFsbG93IGVkaXQgdXJsCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBXQVJOOiBoYXJkIGNvZGVkIGNsYXNzX2lkCiAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5hdHRyaWJ1dGVzWydjbGFzc19pZCddLCBbMTUsIDE2LCAxNywgMTgsIDE5LCAyMl0pKSB7CiAgICAgICAgICAgIC8vIGFsbG93IGVkaXQgdXJsCiAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddID0ganNvbkVuY29kZShuZXcgXEFycmF5T2JqZWN0KFsKICAgICAgICAgICAgICAgIDAgPT4gJHZhbHVlLAogICAgICAgICAgICBdKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
