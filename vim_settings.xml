@@ -163,12 +163,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502935320330">
-        <mark key="'" line="218" column="31" />
-        <mark key="[" line="555" column="6" />
-        <mark key="]" line="555" column="6" />
-        <mark key="." line="555" column="6" />
-        <mark key="^" line="557" column="18" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502950870990">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="404" column="8" />
+        <mark key="." line="403" column="57" />
+        <mark key="^" line="403" column="57" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1501571892068">
         <mark key="'" line="45" column="0" />
@@ -311,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="928" column="90" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="1082" column="56" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="1132" column="85" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="1164" column="90" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
@@ -411,6 +410,7 @@
       <jump line="430" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="428" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="218" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -435,16 +435,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
         <text>oid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vdmllRGF0YVsncmlkJ10gPSAkaXRlbVsnaWQnXTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfc3RyaW5nKCR2YWx1ZSkpIHsKICAgICAgICAgICAgaWYgKHN0YXJ0c193aXRoKCR2YWx1ZSwgJ2h0dHAnKSkgewogICAgICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddID0ganNvbkVuY29kZShuZXcgXEFycmF5T2JqZWN0KFsKICAgICAgICAgICAgICAgICAgICAwID0+ICR2YWx1ZSwKICAgICAgICAgICAgICAgIF0pKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGpzb24gc3RyaW5nCiAgICAgICAgICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10gPSAkdmFsdWU7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyBuZWVkcyBlbmNvZGluZwogICAgICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1sndXJsJ10gPSBqc29uRW5jb2RlKCR2YWx1ZSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXJyYXkKICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,29 +495,29 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>全部数量：</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogICAgICAgICR0aGlzLT5sb2dnZXItPmluZm8oJ1ZlcmlmeWluZyB1cmwgcmVzb3VyY2UgYXZhaWxhYmlsaXR5Jyk7CgogICAgICAgICRyZXNvdXJjZXMgPSBSZXNvdXJjZTo6cXVlcnkoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmVJbignY2xhc3NfaWQnLCBbMTUsIDE3LCAxOCwgMTldKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0KCk7CgogICAgICAgICR1bmF2YWlsID0gJGZhaWxlZCA9IDA7CiAgICAgICAgJGFsbENudCA9ICRyZXNvdXJjZXMtPmNvdW50KCk7CgogICAgICAgICRyZXNvdXJjZXMtPmVhY2goZnVuY3Rpb24gKCRyZXNvdXJjZSkgdXNlICgmJHVuYXZhaWwsICYkZmFpbGVkKSB7CiAgICAgICAgICAgIC8qKiBAdmFyICRyZXNvdXJjZSBcQXBwXE1vZGVsXERhcmtcUmVzb3VyY2UgKi8KICAgICAgICAgICAgJHVybCA9ICRyZXNvdXJjZS0+dXJsOwogICAgICAgICAgICAkZG9SZXZva2UgPSBmYWxzZTsKICAgICAgICAgICAgaWYgKGVtcHR5KCR1cmwpKSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5ub3RpY2UoIlVybCBvZiByZXNvdXJjZVt7JHJlc291cmNlLT5pZH1dIGlzIGVtcHR5OiAiIC4gJHJlc291cmNlLT5yYXdVcmwpOwogICAgICAgICAgICAgICAgJHVuYXZhaWwrKzsKICAgICAgICAgICAgICAgICRkb1Jldm9rZSA9IHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdDaGVja2luZyB1cmwgJyAuICR1cmwpOwogICAgICAgICAgICAgICAgaWYgKCEkdGhpcy0+Y2hlY2tVcmwoJHVybCkpIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5ub3RpY2UoIlVybCBpcyB1bmF2YWlsYWJsZS4gcmVzb3VyY2VbeyRyZXNvdXJjZS0+aWR9XSwgdXJsOiAkdXJsIik7CiAgICAgICAgICAgICAgICAgICAgJHVuYXZhaWwrKzsKICAgICAgICAgICAgICAgICAgICAkZG9SZXZva2UgPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkZG9SZXZva2UpIHsKICAgICAgICAgICAgICAgICRvayA9ICRyZXNvdXJjZS0+ZG9SZXZva2UoKTsKICAgICAgICAgICAgICAgIGlmICgkb2spIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCJSZXZva2VkIHJlc291cmNlW3skcmVzb3VyY2UtPmlkfV0iKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+ZXJyb3IoIkZhaWxlZCB0byByZXZva2UgcmVzb3VyY2VbeyRyZXNvdXJjZS0+aWR9XSIpOwogICAgICAgICAgICAgICAgICAgICRmYWlsZWQrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pOwoKICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCJEb25lLiBBbGw6ICRhbGxDbnQsIHVuYXZhaWxhYmxlOiAkdW5hdmFpbCwgZmFpbGVkOiAkZmFpbGVkLCByZXZva2VkOiB7JHVuYXZhaWwgLSAkZmFpbGVkfSIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9rID0gJHJlc291cmNlLT5kb1Jldm9rZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBXQVJOOiBoYXJkIGNvZGVkIGNsYXNzX2lkCiAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5hdHRyaWJ1dGVzWydjbGFzc19pZCddLCBbMTUsIDE2LCAxNywgMTgsIDE5LCAyMl0pKSB7CiAgICAgICAgICAgIC8vIGFsbG93IGVkaXQgdXJsCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzb3VyY2UtPmRvUmV2b2tlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3VybCddID0ganNvbkVuY29kZShuZXcgXEFycmF5T2JqZWN0KFsKICAgICAgICAgICAgICAgIDAgPT4gJHZhbHVlLAogICAgICAgICAgICBdKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
