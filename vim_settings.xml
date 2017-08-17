@@ -163,8 +163,8 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502851764335">
-        <mark key="'" line="266" column="16" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502935320330">
+        <mark key="'" line="218" column="31" />
         <mark key="[" line="555" column="6" />
         <mark key="]" line="555" column="6" />
         <mark key="." line="555" column="6" />
@@ -215,12 +215,12 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1502249899960">
-        <mark key="'" line="220" column="6" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="235" column="4" />
-        <mark key="." line="234" column="10" />
-        <mark key="^" line="234" column="10" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1502935131092">
+        <mark key="'" line="221" column="6" />
+        <mark key="[" line="201" column="39" />
+        <mark key="]" line="201" column="39" />
+        <mark key="." line="201" column="39" />
+        <mark key="^" line="201" column="39" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -311,14 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="857" column="49" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="374" column="57" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="375" column="55" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="690" column="51" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="691" column="49" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="764" column="51" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
-      <jump line="765" column="49" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="928" column="90" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="1082" column="56" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="1132" column="85" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
@@ -411,6 +403,14 @@
       <jump line="57" column="33" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" />
       <jump line="69" column="33" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" />
       <jump line="59" column="61" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" />
+      <jump line="454" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="133" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="565" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="131" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="433" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="430" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="428" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="218" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -438,10 +438,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>oid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCJSZXZva2VkIHJlc291cmNlW3skcmVzb3VyY2UtPmlkfV0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1vdmllRGF0YVsncmlkJ10gPSAkaXRlbVsnaWQnXTsK</text>
       </register>
       <register name="1" type="4">
         <text>&quot;&quot;</text>
@@ -523,19 +523,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>oid</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>oid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>external</entry>
         <entry encoding="base64">XDxtb3ZpZUhvc3RcPg==</entry>
         <entry>diff</entry>
         <entry>logg</entry>
@@ -555,13 +554,14 @@
         <entry>type</entry>
         <entry>notice</entry>
         <entry>mail</entry>
+        <entry>oid</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
