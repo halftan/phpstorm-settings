@@ -40,12 +40,12 @@
         <mark key="." line="66" column="86" />
         <mark key="^" line="66" column="86" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1502852281903">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1503285093966">
         <mark key="'" line="59" column="61" />
-        <mark key="[" line="60" column="55" />
-        <mark key="]" line="60" column="96" />
-        <mark key="." line="60" column="96" />
-        <mark key="^" line="60" column="96" />
+        <mark key="[" line="60" column="86" />
+        <mark key="]" line="60" column="90" />
+        <mark key="." line="60" column="90" />
+        <mark key="^" line="60" column="90" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/SearchController.php" timestamp="1499833857583">
         <mark key="'" line="38" column="27" />
@@ -436,7 +436,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Legacy</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>oid</text>
