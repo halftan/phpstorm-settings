@@ -189,12 +189,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1503391476145">
-        <mark key="'" line="11" column="19" />
-        <mark key="[" line="77" column="17" />
-        <mark key="]" line="78" column="35" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="35" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1503393342017">
+        <mark key="'" line="961" column="12" />
+        <mark key="[" line="1290" column="33" />
+        <mark key="]" line="1290" column="39" />
+        <mark key="." line="1290" column="39" />
+        <mark key="^" line="1290" column="39" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1501647440799">
         <mark key="'" line="298" column="16" />
@@ -237,12 +237,12 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" timestamp="1502788872609">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="1" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" timestamp="1503393331400">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+        <mark key="." line="46" column="7" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
         <mark key="[" line="5" column="25" />
@@ -312,9 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="22" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="23" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="67" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="55" column="9" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="127" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
@@ -412,6 +409,9 @@
       <jump line="1246" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="1256" column="29" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="11" column="19" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="50" column="63" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" />
+      <jump line="961" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -436,16 +436,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>file_size</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb3ZpZUZsb3dcPg==</text>
+        <text>typeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KE1vdmllRmxvdzo6Y3JlYXRlKCRmbG93KSkpIHsvL+WmguaenOaPkuWFpeaVsOaNruW6k+aIkOWKnyDlkJHlkI7lj7Dnu4Tlj5Hor7fmsYIK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxEYXJrXE1vdmllOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlLT5vaWQgPSAkcnN0WydkYXRhJ107CiAgICAgICAgICAgICRvayA9ICRyZXNvdXJjZS0+c2F2ZSgpOwogICAgICAgICAgICBpZiAoISRvaykgewogICAgICAgICAgICAgICAgJGNvZGUgPSA0OwogICAgICAgICAgICAgICAgJG1zZyA9ICdVcGRhdGUgb2lkIHRvIHJlc291cmNlIGZhaWxlZCEnOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpbGVTaXplID0gW107CiAgICAgICAgICAgIGZvcmVhY2ggKCRmbG93cyBhcyAkZmxvdykgewogICAgICAgICAgICAgICAgJGZpbGVTaXplWyRmbG93Wyd0eXBlJ11dID0gJGZsb3dbJ2ZpbGVfc2l6ZSddOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,46 +497,45 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJzdCA9IGpzb25EZWNvZGUoJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZsb3dzID0gTW92aWVGbG93SGM6OndoZXJlKCdtb3ZpZV9pZCcsICRyZXNvdXJjZS0+b2lkKS0+Z2V0KFsndHlwZScsICdmaWxlX3NpemUnXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyUmVzKCRyZXEsICRyZXMsICRhcmdzLCAxLCAsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmVSYXcoJ0pTT05fQ09OVEFJTlNfUEFUSChgYXR0cnNgLCBcJ29uZVwnLCBcJyQuZmlsZV9zaXplXCcpID0gMCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcldoZXJlUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmllRmxvdzo6cmVsZXZhbmNlUmVzb3VyY2VJZEFuZEpvYklkKCRyZXNvdXJjZS0+aWQsIFsnam9iX2lkJyA9PiAoaW50KSAkcnN0WydkYXRhJ11dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZVJhdygnSlNPTl9DT05UQUlOU19QQVRIKGBhdHRyc2AsIFwnb25lXCcsIFwnJC5maWxlX3NpemVcJykgPSAwJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUluKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eShNb3ZpZUZsb3c6OmNyZWF0ZSgkZmxvdykpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdHRyc1snbW92aWVUaW1lJ10gPSAkbW92aWVUaW1lOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb3ZpZUZsb3dcPg==</last-search>
+      <last-search>typeMap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb3ZpZUZsb3dcPg==</last-pattern>
+      <last-pattern>typeMap</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>diff</entry>
         <entry>logg</entry>
         <entry>GApp</entry>
         <entry>backup</entry>
@@ -556,13 +555,14 @@
         <entry>mail</entry>
         <entry>oid</entry>
         <entry encoding="base64">XDxNb3ZpZUZsb3dcPg==</entry>
+        <entry>typeMap</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
