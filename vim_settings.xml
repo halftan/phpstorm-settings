@@ -110,10 +110,10 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1502957651932">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="104" column="41" />
-        <mark key="]" line="104" column="41" />
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1503373007205">
+        <mark key="'" line="116" column="43" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="38" />
         <mark key="^" line="104" column="93" />
         <mark key="." line="104" column="41" />
       </file>
@@ -312,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1165" column="89" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="238" column="49" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="275" column="78" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
       <jump line="298" column="16" filename="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" />
@@ -412,6 +411,7 @@
       <jump line="228" column="40" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="368" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="32" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="116" column="43" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -442,7 +442,7 @@
         <text>oid</text>
       </register>
       <register name="0" type="4">
-        <text>目前该字段仅好玩（GAME类型资源）在使用。默认值为</text>
+        <text>C8te6HfcsNk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAkcmV0WydleHRyYSddID0gJHJldAo=</text>
