@@ -189,12 +189,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1503389599363">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1503391476145">
         <mark key="'" line="11" column="19" />
-        <mark key="[" line="72" column="56" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="73" column="21" />
+        <mark key="[" line="77" column="17" />
+        <mark key="]" line="78" column="35" />
+        <mark key="." line="78" column="35" />
+        <mark key="^" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1501647440799">
         <mark key="'" line="298" column="16" />
@@ -445,7 +445,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWVtcHR5KE1vdmllRmxvdzo6Y3JlYXRlKCRmbG93KSkpIHsvL+WmguaenOaPkuWFpeaVsOaNruW6k+aIkOWKnyDlkJHlkI7lj7Dnu4Tlj5Hor7fmsYIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyUmVzKCRyZXEsICRyZXMsICRhcmdzLCAxLCAsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlLT5vaWQgPSAkcnN0WydkYXRhJ107CiAgICAgICAgICAgICRvayA9ICRyZXNvdXJjZS0+c2F2ZSgpOwogICAgICAgICAgICBpZiAoISRvaykgewogICAgICAgICAgICAgICAgJGNvZGUgPSA0OwogICAgICAgICAgICAgICAgJG1zZyA9ICdVcGRhdGUgb2lkIHRvIHJlc291cmNlIGZhaWxlZCEnOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,28 +497,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJzdCA9IGpzb25EZWNvZGUoJHJlc3BvbnNlLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVuZGVyUmVzKCRyZXEsICRyZXMsICRhcmdzLCAxLCAsIG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmllRmxvdzo6cmVsZXZhbmNlUmVzb3VyY2VJZEFuZEpvYklkKCRyZXNvdXJjZS0+aWQsIFsnam9iX2lkJyA9PiAoaW50KSAkcnN0WydkYXRhJ11dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eShNb3ZpZUZsb3c6OmNyZWF0ZSgkZmxvdykpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vdmllRmxvdzo6cmVsZXZhbmNlUmVzb3VyY2VJZEFuZEpvYklkKCRyZXNvdXJjZS0+aWQsIFsnam9iX2lkJyA9PiAoaW50KSAkcnN0WydkYXRhJ11dKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IOacuuWZqOmqjOivgeWFpeW6kwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbXB0eShNb3ZpZUZsb3c6OmNyZWF0ZSgkZmxvdykpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRNYWlsKAogICAgICAgICAgICAgICAgICAgIFsnemhhbmdmZW5nbWluZ0BiYWlkdS5jb20nLCd3dWxpYW5nMDZAYmFpZHUuY29tJ10sCiAgICAgICAgICAgICAgICAgICAgJ+WIhueJh+ivt+axguWksei0pScsJ+ivpue7huS/oeaBrzonLmpzb25FbmNvZGUoJHNlbmREYXRhKQogICAgICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlID0gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
