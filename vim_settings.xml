@@ -164,12 +164,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1502963588141">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1503633911137">
         <mark key="'" line="32" column="26" />
-        <mark key="[" line="368" column="34" />
-        <mark key="]" line="370" column="21" />
-        <mark key="." line="370" column="21" />
-        <mark key="^" line="370" column="21" />
+        <mark key="[" line="371" column="9" />
+        <mark key="]" line="372" column="24" />
+        <mark key="." line="372" column="24" />
+        <mark key="^" line="372" column="24" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1501571892068">
         <mark key="'" line="45" column="0" />
@@ -436,7 +436,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGNsYXNzLT5pZA==</text>
+        <text encoding="base64">dGhpcy0+cGxheVVybA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</text>
@@ -445,7 +445,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRwYXJhbXNbJ2NhdGVfaWQnXSkgJiYgIWVtcHR5KCRwYXJhbXNbJ2NhdGVfbmFtZSddKSkgewogICAgICAgICAgICAgICAgJHBhcmFtc1snY2F0ZV9uYW1lJ10gICAgPSB0cmltKEAkcGFyYW1zWydjYXRlX25hbWUnXSk7CiAgICAgICAgICAgICAgICBpZiAoZW1wdHkoJHBhcmFtc1snY2F0ZV9uYW1lJ10pKSB7CiAgICAgICAgICAgICAgICAgICAgJGNvZGUgPSAxMDA7CiAgICAgICAgICAgICAgICAgICAgJG1zZyAuPSAn5YiG57G75Li656m6JzsKICAgICAgICAgICAgICAgICAgICAkcmV0ID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkY2F0ZWdvcnkgPSBDYXRlZ29yeTo6d2hlcmUoJ25hbWUnLCAkcGFyYW1zWydjYXRlX25hbWUnXSktPndoZXJlKCdsZXZlbCcsIDIpLT5maXJzdCgpOwogICAgICAgICAgICAgICAgaWYgKGVtcHR5KCRjYXRlZ29yeSkpIHsKICAgICAgICAgICAgICAgICAgICAkY29kZSA9IDEwMDsKICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICfliIbnsbvplJnor68nOwogICAgICAgICAgICAgICAgICAgICRyZXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NhdGVnb3J5X2lkJ10gPSAkY2F0ZWdvcnktPmlkOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgJHBhcmFtc1snY2F0ZWdvcnlfaWQnXSA9ICRwYXJhbXNbJ2NhdGVfaWQnXTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoZW1wdHkoJHBhcmFtc1snY2xhc3NfaWQnXSkgJiYgIWVtcHR5KCRwYXJhbXNbJ2NsYXNzX25hbWUnXSkpIHsKICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX25hbWUnXSAgPSB0cmltKEAkcGFyYW1zWydjbGFzc19uYW1lJ10pOwogICAgICAgICAgICAgICAgaWYgKGVtcHR5KCRwYXJhbXNbJ2NsYXNzX25hbWUnXSkpIHsKICAgICAgICAgICAgICAgICAgICAkY29kZSA9IDEwMDsKICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICfnsbvnm67kuLrnqbonOwogICAgICAgICAgICAgICAgICAgICRyZXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRjbGFzcyA9IENhdGVnb3J5Ojp3aGVyZSgnbmFtZScsICRwYXJhbXNbJ2NsYXNzX25hbWUnXSktPndoZXJlKCdsZXZlbCcsIDMpLT5maXJzdCgpOwogICAgICAgICAgICAgICAgaWYgKGVtcHR5KCRjbGFzcykpIHsKICAgICAgICAgICAgICAgICAgICAkY29kZSA9IDEwMDsKICAgICAgICAgICAgICAgICAgICAkbXNnIC49ICfnsbvnm67plJnor68nOwogICAgICAgICAgICAgICAgICAgICRyZXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX2lkJ10gPSAkY2xhc3MtPmlkOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICB1YXNvcnQoJHBsYXlVcmwsIGZ1bmN0aW9uICgkYSwgJGIpIHsKCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,28 +497,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX2lkJ10gPSAkcGFyYW1zW107Cg==</text>
+        <text encoding="base64">ICAgICAgICB1YXNvcnQoJHBsYXlVcmwsIGZ1bmN0aW9uICgkYSwgJGIpIHsKCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGxheQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snY2xhc3NfbmFtZSddICA9IHRyaW0oQCRwYXJhbXNbJ2NsYXNzX25hbWUnXSk7CiAgICAgICAgICAgIGlmIChlbXB0eSgkcGFyYW1zWydjbGFzc19uYW1lJ10pKSB7CiAgICAgICAgICAgICAgICAkY29kZSA9IDEwMDsKICAgICAgICAgICAgICAgICRtc2cgLj0gJ+exu+ebruS4uuepuic7CiAgICAgICAgICAgICAgICAkcmV0ID0gZmFsc2U7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICAkY2xhc3MgPSBDYXRlZ29yeTo6d2hlcmUoJ25hbWUnLCAkcGFyYW1zWydjbGFzc19uYW1lJ10pLT53aGVyZSgnbGV2ZWwnLCAzKS0+Zmlyc3QoKTsKICAgICAgICAgICAgaWYgKGVtcHR5KCRjbGFzcykpIHsKICAgICAgICAgICAgICAgICRjb2RlID0gMTAwOwogICAgICAgICAgICAgICAgJG1zZyAuPSAn57G755uu6ZSZ6K+vJzsKICAgICAgICAgICAgICAgICRyZXQgPSBmYWxzZTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX2lkJ10gPSAkY2xhc3MtPmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX2lkJ10gPSAkcGFyYW1zW107Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpbGVTaXplID0gW107CiAgICAgICAgICAgIGZvcmVhY2ggKCRmbG93cyBhcyAkZmxvdykgewogICAgICAgICAgICAgICAgJGZpbGVTaXplWyRmbG93Wyd0eXBlJ11dID0gJGZsb3dbJ2ZpbGVfc2l6ZSddOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
