@@ -40,6 +40,13 @@
         <mark key="." line="6" column="111" />
         <mark key="^" line="6" column="111" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" timestamp="1503916251538">
+        <mark key="'" line="49" column="42" />
+        <mark key="[" line="30" column="39" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1503285093966">
         <mark key="'" line="59" column="61" />
         <mark key="[" line="60" column="86" />
@@ -124,10 +131,10 @@
         <mark key="." line="91" column="28" />
         <mark key="^" line="91" column="28" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1502355935354">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Services/MovieService.php" timestamp="1503911668435">
         <mark key="'" line="162" column="16" />
-        <mark key="[" line="96" column="25" />
-        <mark key="]" line="96" column="25" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="283" column="22" />
         <mark key="." line="96" column="25" />
         <mark key="^" line="37" column="44" />
       </file>
@@ -184,7 +191,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1502270157824">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1503911579265">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
@@ -312,20 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="70" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="662" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
-      <jump line="291" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="516" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="4" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="466" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="84" column="45" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="431" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="113" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="131" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="47" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="51" column="13" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="52" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="170" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="16" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
@@ -350,7 +343,6 @@
       <jump line="219" column="6" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
       <jump line="20" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
       <jump line="17" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
       <jump line="8" column="48" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
       <jump line="24" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" />
@@ -412,6 +404,21 @@
       <jump line="582" column="21" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="37" column="24" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="593" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" />
+      <jump line="13" column="18" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="17" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="14" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="21" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="20" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="28" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="41" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="39" column="37" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="43" column="75" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="44" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="45" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="37" column="42" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -436,16 +443,16 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+cGxheVVybA==</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</text>
+        <text>first</text>
       </register>
-      <register name="0" type="4">
-        <text>10.207.177.125</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1cmwnID0+ICdodHRwczovL3ZyLmJhaWR1LmNvbS9hcGkvdjEvbW92aWUvJyAuICRmaXJzdFsnaWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZmlyc3RbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdkZXNjJyA9PiAkZmlyc3RbJ2Rlc2MnXSwKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBpbXBsb2RlKCcsJywgJGZpcnN0Wyd0YWcnXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxheVVybCA9IGFycmF5X3JldmVyc2UoJHBsYXlVcmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -497,28 +504,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1YXNvcnQoJHBsYXlVcmwsIGZ1bmN0aW9uICgkYSwgJGIpIHsKCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1YXNvcnQoJHBsYXlVcmwsIGZ1bmN0aW9uICgkYSwgJGIpIHsKCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpcnN0ID0gJHJlY29yZHMtPnNoaWZ0KCk7CiAgICAgICAgICAgICRvdXRjb21lID0gWwogICAgICAgICAgICAgICAgJ3dvcmQnID0+ICR3b3JkLAogICAgICAgICAgICAgICAgJ3RvdGFsJyA9PiAkaGl0cywKICAgICAgICAgICAgICAgICdmZXRjaGVkJyA9PiAkcmVjb3Jkcy0+Y291bnQoKSArIDEsCiAgICAgICAgICAgICAgICAndXJsJyA9PiAnaHR0cHM6Ly92ci5iYWlkdS5jb20vYXBpL3YxL21vdmllLycgLiAkZmlyc3RbJ2lkJ10sCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGZpcnN0WyduYW1lJ10sCiAgICAgICAgICAgICAgICAnZGVzYycgPT4gJGZpcnN0WydkZXNjJ10sCiAgICAgICAgICAgICAgICAndGFncycgPT4gaW1wbG9kZSgnLCcsIChhcnJheSkgJGZpcnN0Wyd0YWcnXSksCiAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxheQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG91dGNvbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YScgPT4gaW1wbG9kZSgnICcsICRyZWNvcmQpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJyA9PiBpbXBsb2RlKCcgJywgJGZpcnN0KSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXNbJ2NsYXNzX2lkJ10gPSAkcGFyYW1zW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpcnN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpcnN0KTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -528,15 +535,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</last-search>
+      <last-search>first</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</last-pattern>
+      <last-pattern>first</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GApp</entry>
         <entry>backup</entry>
         <entry>resource</entry>
         <entry>mainBrand</entry>
@@ -556,6 +562,7 @@
         <entry encoding="base64">XDxNb3ZpZUZsb3dcPg==</entry>
         <entry>typeMap</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</entry>
+        <entry>first</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
