@@ -223,8 +223,8 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1502935131092">
-        <mark key="'" line="221" column="6" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1504059129777">
+        <mark key="'" line="201" column="27" />
         <mark key="[" line="201" column="39" />
         <mark key="]" line="201" column="39" />
         <mark key="." line="201" column="39" />
@@ -319,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="170" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="16" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="86" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -419,6 +418,7 @@
       <jump line="44" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
       <jump line="45" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
       <jump line="37" column="42" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
+      <jump line="201" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -446,7 +446,7 @@
         <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>first</text>
+        <text>listmovie</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICd1cmwnID0+ICdodHRwczovL3ZyLmJhaWR1LmNvbS9hcGkvdjEvbW92aWUvJyAuICRmaXJzdFsnaWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZmlyc3RbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdkZXNjJyA9PiAkZmlyc3RbJ2Rlc2MnXSwKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBpbXBsb2RlKCcsJywgJGZpcnN0Wyd0YWcnXSksCg==</text>
@@ -531,19 +531,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>first</last-search>
+      <last-search>listmovie</last-search>
       <last-offset />
-      <last-pattern>first</last-pattern>
+      <last-pattern>listmovie</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>backup</entry>
         <entry>resource</entry>
         <entry>mainBrand</entry>
         <entry encoding="base64">XDxnZXRCcmFuZFw+</entry>
@@ -563,13 +562,14 @@
         <entry>typeMap</entry>
         <entry encoding="base64">XDxoYW5kbGVBZGRQYXJhbXNcPg==</entry>
         <entry>first</entry>
+        <entry>listmovie</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
