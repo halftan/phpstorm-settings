@@ -171,12 +171,12 @@
         <mark key="^" line="37" column="38" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1504252693078">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="345" column="63" />
-        <mark key="]" line="345" column="66" />
-        <mark key="." line="345" column="66" />
-        <mark key="^" line="345" column="66" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1504490949588">
+        <mark key="'" line="463" column="12" />
+        <mark key="[" line="344" column="59" />
+        <mark key="]" line="344" column="66" />
+        <mark key="^" line="344" column="66" />
+        <mark key="." line="344" column="66" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1501571892068">
         <mark key="'" line="45" column="0" />
@@ -329,8 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
-      <jump line="86" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="26" column="59" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
       <jump line="263" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="30" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
@@ -390,7 +388,6 @@
       <jump line="430" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="428" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="218" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="228" column="40" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="368" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="32" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -429,6 +426,9 @@
       <jump line="37" column="42" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/QueryEsCli.php" />
       <jump line="201" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
       <jump line="160" column="9" filename="$USER_HOME$/git/darkcms/src/app/inc/func.php" />
+      <jump line="467" column="49" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="464" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -456,13 +456,13 @@
         <text>300x</text>
       </register>
       <register name="/" type="4">
-        <text>ips</text>
+        <text>dd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICd1cmwnID0+ICdodHRwczovL3ZyLmJhaWR1LmNvbS9hcGkvdjEvbW92aWUvJyAuICRmaXJzdFsnaWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZmlyc3RbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdkZXNjJyA9PiAkZmlyc3RbJ2Rlc2MnXSwKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBpbXBsb2RlKCcsJywgJGZpcnN0Wyd0YWcnXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR0YWdJZHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -517,22 +517,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpcnN0ID0gJHJlY29yZHMtPnNoaWZ0KCk7CiAgICAgICAgICAgICRvdXRjb21lID0gWwogICAgICAgICAgICAgICAgJ3dvcmQnID0+ICR3b3JkLAogICAgICAgICAgICAgICAgJ3RvdGFsJyA9PiAkaGl0cywKICAgICAgICAgICAgICAgICdmZXRjaGVkJyA9PiAkcmVjb3Jkcy0+Y291bnQoKSArIDEsCiAgICAgICAgICAgICAgICAndXJsJyA9PiAnaHR0cHM6Ly92ci5iYWlkdS5jb20vYXBpL3YxL21vdmllLycgLiAkZmlyc3RbJ2lkJ10sCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGZpcnN0WyduYW1lJ10sCiAgICAgICAgICAgICAgICAnZGVzYycgPT4gJGZpcnN0WydkZXNjJ10sCiAgICAgICAgICAgICAgICAndGFncycgPT4gaW1wbG9kZSgnLCcsIChhcnJheSkgJGZpcnN0Wyd0YWcnXSksCiAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZpcnN0ID0gJHJlY29yZHMtPnNoaWZ0KCk7CiAgICAgICAgICAgICRvdXRjb21lID0gWwogICAgICAgICAgICAgICAgJ3dvcmQnID0+ICR3b3JkLAogICAgICAgICAgICAgICAgJ3RvdGFsJyA9PiAkaGl0cywKICAgICAgICAgICAgICAgICdmZXRjaGVkJyA9PiAkcmVjb3Jkcy0+Y291bnQoKSArIDEsCiAgICAgICAgICAgICAgICAndXJsJyA9PiAnaHR0cHM6Ly92ci5iYWlkdS5jb20vYXBpL3YxL21vdmllLycgLiAkZmlyc3RbJ2lkJ10sCiAgICAgICAgICAgICAgICAnbmFtZScgPT4gJGZpcnN0WyduYW1lJ10sCiAgICAgICAgICAgICAgICAnZGVzYycgPT4gJGZpcnN0WydkZXNjJ10sCiAgICAgICAgICAgICAgICAndGFncycgPT4gaW1wbG9kZSgnLCcsIChhcnJheSkgJGZpcnN0Wyd0YWcnXSksCiAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG91dGNvbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YScgPT4gaW1wbG9kZSgnICcsICRyZWNvcmQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG91dGNvbWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJyA9PiBpbXBsb2RlKCcgJywgJGZpcnN0KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZGF0YScgPT4gaW1wbG9kZSgnICcsICRyZWNvcmQpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpcnN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJyA9PiBpbXBsb2RlKCcgJywgJGZpcnN0KSwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpcnN0KTsK</text>
@@ -541,21 +541,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ips</last-search>
+      <last-search>dd</last-search>
       <last-offset />
-      <last-pattern>ips</last-pattern>
+      <last-pattern>dd</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mainBrand</entry>
-        <entry encoding="base64">XDxnZXRCcmFuZFw+</entry>
-        <entry>Redis</entry>
         <entry>7200</entry>
         <entry>setex</entry>
         <entry>union</entry>
@@ -573,13 +570,16 @@
         <entry>first</entry>
         <entry>listmovie</entry>
         <entry>ips</entry>
+        <entry encoding="base64">XDxjb3ZlclVybFw+</entry>
+        <entry>coverUrl</entry>
+        <entry>dd</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
