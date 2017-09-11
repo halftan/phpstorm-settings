@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/git/darkcms/src/app/inc/mysql.php" timestamp="1497322066622">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Link.php" timestamp="1497515637594">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1502963514577">
         <mark key="'" line="228" column="40" />
         <mark key="j" line="107" column="12" />
@@ -70,6 +82,13 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="51" column="29" />
       </file>
+      <file name="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" timestamp="1505097776144">
+        <mark key="'" line="134" column="33" />
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="48" />
+        <mark key="." line="68" column="48" />
+        <mark key="^" line="68" column="48" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1497335356967">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -126,6 +145,12 @@
         <mark key="." line="96" column="25" />
         <mark key="^" line="37" column="44" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/composer.json" timestamp="1501646106100">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="41" />
@@ -139,6 +164,12 @@
         <mark key="]" line="379" column="92" />
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/MovieFlow.php" timestamp="1500979311387">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/boot.php" timestamp="1496723360168">
         <mark key="'" line="26" column="1" />
@@ -167,17 +198,23 @@
         <mark key="^" line="80" column="103" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/README_DB.md" timestamp="1497238993583">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/TestCli.php" timestamp="1503911579265">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1504852767837">
-        <mark key="'" line="482" column="43" />
-        <mark key="[" line="37" column="104" />
-        <mark key="]" line="37" column="104" />
-        <mark key="." line="37" column="104" />
-        <mark key="^" line="37" column="104" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505097977619">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="57" column="68" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="21" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Client.php" timestamp="1501647440799">
         <mark key="'" line="298" column="16" />
@@ -192,6 +229,12 @@
         <mark key="]" line="119" column="7" />
         <mark key="." line="119" column="7" />
         <mark key="^" line="119" column="7" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/facades/Es.php" timestamp="1497322309896">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1504059129777">
         <mark key="'" line="201" column="27" />
@@ -221,6 +264,12 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/App.php" timestamp="1497515577924">
         <mark key="'" line="15" column="17" />
         <mark key="[" line="54" column="77" />
@@ -234,6 +283,12 @@
       <file name="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/App.php" timestamp="1501648020212">
         <mark key="'" line="584" column="16" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/public/qa_app.php" timestamp="1497853139231">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/services.php" timestamp="1496723548191">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="4" column="0" />
@@ -246,6 +301,24 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/MovieController.php" timestamp="1499833828119">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/crappy/resources/assets/sass/app.scss" timestamp="1505097102199">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/Cli.php" timestamp="1497256535125">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" timestamp="1501731417235">
         <mark key="'" line="1016" column="8" />
@@ -261,16 +334,27 @@
         <mark key="'" line="160" column="9" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/public/image_scale.php" timestamp="1504252645093" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/MovieFlowHc.php" timestamp="1501573525528">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/crappy/public/css/app.css" timestamp="1505097055690">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/PgcUser.php" timestamp="1498186706464">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="30" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
-      <jump line="132" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
-      <jump line="192" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
-      <jump line="193" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
-      <jump line="22" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
-      <jump line="266" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="1016" column="8" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
       <jump line="59" column="97" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
       <jump line="104" column="88" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="23" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
@@ -363,6 +447,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="464" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="481" column="43" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="320" column="12" filename="$USER_HOME$/git/crappy/public/css/app.css" />
+      <jump line="321" column="416" filename="$USER_HOME$/git/crappy/public/css/app.css" />
+      <jump line="0" column="26" filename="$USER_HOME$/git/crappy/public/css/app.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
+      <jump line="67" column="25" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
+      <jump line="60" column="15" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
+      <jump line="134" column="33" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
+      <jump line="40" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -387,10 +479,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'darkcms.dev'</text>
       </register>
       <register name="/" type="4">
-        <text>dd</text>
+        <text>host</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICd1cmwnID0+ICdodHRwczovL3ZyLmJhaWR1LmNvbS9hcGkvdjEvbW92aWUvJyAuICRmaXJzdFsnaWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZmlyc3RbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdkZXNjJyA9PiAkZmlyc3RbJ2Rlc2MnXSwKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBpbXBsb2RlKCcsJywgJGZpcnN0Wyd0YWcnXSksCg==</text>
@@ -479,19 +571,14 @@
       </register>
     </registers>
     <search>
-      <last-search>dd</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>dd</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>7200</entry>
-        <entry>setex</entry>
-        <entry>union</entry>
-        <entry>split</entry>
-        <entry>cms_movie</entry>
         <entry>listMovie</entry>
         <entry>recommend</entry>
         <entry>type</entry>
@@ -507,6 +594,11 @@
         <entry encoding="base64">XDxjb3ZlclVybFw+</entry>
         <entry>coverUrl</entry>
         <entry>dd</entry>
+        <entry>fonts</entry>
+        <entry>google</entry>
+        <entry>darkcms</entry>
+        <entry>$host</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
