@@ -434,6 +434,9 @@
         <mark key="." line="57" column="83" />
         <mark key="^" line="57" column="83" />
       </file>
+      <file name="$USER_HOME$/git/crappy/config/mail.php" timestamp="1505123111835">
+        <mark key="'" line="51" column="71" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/func.php" timestamp="1504252293014">
         <mark key="'" line="160" column="9" />
       </file>
@@ -462,9 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="133" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="565" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="131" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="433" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="430" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
@@ -562,6 +562,9 @@
       <jump line="94" column="13" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="43" column="49" filename="$USER_HOME$/git/crappy/app/Console/Commands/HcFeedAutoUpdate.php" />
       <jump line="45" column="72" filename="$USER_HOME$/git/crappy/app/Console/Commands/HcFeedAutoUpdate.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/config/mail.php" />
+      <jump line="48" column="14" filename="$USER_HOME$/git/crappy/config/mail.php" />
+      <jump line="51" column="71" filename="$USER_HOME$/git/crappy/config/mail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -592,7 +595,7 @@
         <text>$feed =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWVkXD4=</text>
+        <text>from</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmFwcC0+ZW52aXJvbm1lbnQoKSAhPT0gJ3Byb2R1Y3Rpb24n</text>
@@ -677,19 +680,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWVkXD4=</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWVkXD4=</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
         <entry>listmovie</entry>
         <entry>ips</entry>
         <entry encoding="base64">XDxjb3ZlclVybFw+</entry>
@@ -709,13 +711,14 @@
         <entry>movietype</entry>
         <entry>tomovietype</entry>
         <entry encoding="base64">XDxmZWVkXD4=</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
