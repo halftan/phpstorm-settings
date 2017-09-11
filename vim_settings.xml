@@ -280,6 +280,13 @@
       <file name="/Dummy.txt" timestamp="1502851951485">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/crappy/.env" timestamp="1505099099082">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/App.php" timestamp="1501648020212">
         <mark key="'" line="584" column="16" />
       </file>
@@ -355,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="97" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
       <jump line="104" column="88" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="23" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Services/BrandService.php" />
       <jump line="454" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
@@ -455,6 +461,7 @@
       <jump line="60" column="15" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
       <jump line="134" column="33" filename="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" />
       <jump line="40" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/git/crappy/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -567,7 +574,7 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -604,8 +611,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
