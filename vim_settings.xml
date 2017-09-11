@@ -15,10 +15,11 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="9" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/Feed.php" timestamp="1505100756730">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/git/crappy/app/Feed.php" timestamp="1505104998129">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="55" column="3" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1497263805782">
         <mark key="'" line="86" column="51" />
@@ -258,16 +259,6 @@
         <mark key="^" line="46" column="7" />
         <mark key="." line="46" column="7" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Facades/Logger.php" timestamp="1501732028699">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="$USER_HOME$/git/darkcms/src/public/dev.php" timestamp="1501489969998">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="8" column="29" />
@@ -281,18 +272,18 @@
         <mark key="." line="54" column="77" />
         <mark key="^" line="54" column="77" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/FeedItem.php" timestamp="1505100766364">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="$USER_HOME$/git/crappy/app/FeedItem.php" timestamp="1505105008550">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/git/crappy/.env" timestamp="1505099099082">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/git/crappy/.env" timestamp="1505104930738">
+        <mark key="'" line="5" column="25" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/App.php" timestamp="1501648020212">
         <mark key="'" line="584" column="16" />
@@ -321,6 +312,10 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/crappy/_ide_helper_models.php" timestamp="1505105006359">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="88" column="2" />
       </file>
       <file name="$USER_HOME$/git/crappy/resources/assets/sass/app.scss" timestamp="1505097102199">
         <mark key="[" line="2" column="26" />
@@ -369,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="20" filename="$USER_HOME$/git/darkcms/vendor/illuminate/support/Collection.php" />
       <jump line="6" column="4" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
       <jump line="82" column="0" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
       <jump line="133" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
@@ -469,6 +463,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/git/crappy/.env" />
       <jump line="6" column="10" filename="$USER_HOME$/git/crappy/app/Feed.php" />
       <jump line="13" column="0" filename="$USER_HOME$/git/crappy/app/Feed.php" />
+      <jump line="5" column="25" filename="$USER_HOME$/git/crappy/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -493,13 +488,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>movieflow</text>
+        <text>crappy</text>
       </register>
       <register name="/" type="4">
-        <text>host</text>
+        <text>connec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1cmwnID0+ICdodHRwczovL3ZyLmJhaWR1LmNvbS9hcGkvdjEvbW92aWUvJyAuICRmaXJzdFsnaWQnXSwKICAgICAgICAgICAgICAgICduYW1lJyA9PiAkZmlyc3RbJ25hbWUnXSwKICAgICAgICAgICAgICAgICdkZXNjJyA9PiAkZmlyc3RbJ2Rlc2MnXSwKICAgICAgICAgICAgICAgICd0YWdzJyA9PiBpbXBsb2RlKCcsJywgJGZpcnN0Wyd0YWcnXSksCg==</text>
+        <text encoding="base64">LyoqCiAqIEFwcFxGZWVkSXRlbQogKgogKiBAcHJvcGVydHkgaW50ICRpZAogKiBAcHJvcGVydHkgc3RyaW5nICRuYW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmd8bnVsbCAkZGVzYwogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJHRodW1ibmFpbAogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJHVybAogKiBAcHJvcGVydHkgc3RyaW5nfG51bGwgJHJlc291cmNlX2lkCiAqIEBwcm9wZXJ0eSBpbnR8bnVsbCAkcmVzb3VyY2VfdHlwZQogKiBAcHJvcGVydHkgaW50ICRzdGF0dXMgMTplbmFibGUgMjogZGlzYWJsZQogKiBAcHJvcGVydHkgXENhcmJvblxDYXJib24gJGNyZWF0ZV90aW1lCiAqIEBwcm9wZXJ0eSBcQ2FyYm9uXENhcmJvbiAkdXBkYXRlX3RpbWUKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXEZlZWRJdGVtIHdoZXJlQ3JlYXRlVGltZSgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxGZWVkSXRlbSB3aGVyZURlc2MoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcRmVlZEl0ZW0gd2hlcmVJZCgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxGZWVkSXRlbSB3aGVyZU5hbWUoJHZhbHVlKQogKiBAbWV0aG9kIHN0YXRpYyBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxBcHBcRmVlZEl0ZW0gd2hlcmVSZXNvdXJjZUlkKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXEZlZWRJdGVtIHdoZXJlUmVzb3VyY2VUeXBlKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXEZlZWRJdGVtIHdoZXJlU3RhdHVzKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXEZlZWRJdGVtIHdoZXJlVGh1bWJuYWlsKCR2YWx1ZSkKICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcnxcQXBwXEZlZWRJdGVtIHdoZXJlVXBkYXRlVGltZSgkdmFsdWUpCiAqIEBtZXRob2Qgc3RhdGljIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XEFwcFxGZWVkSXRlbSB3aGVyZVVybCgkdmFsdWUpCiAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -585,15 +580,14 @@
       </register>
     </registers>
     <search>
-      <last-search>host</last-search>
+      <last-search>connec</last-search>
       <last-offset />
-      <last-pattern>host</last-pattern>
+      <last-pattern>connec</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>listMovie</entry>
         <entry>recommend</entry>
         <entry>type</entry>
         <entry>notice</entry>
@@ -613,6 +607,7 @@
         <entry>darkcms</entry>
         <entry>$host</entry>
         <entry>host</entry>
+        <entry>connec</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
