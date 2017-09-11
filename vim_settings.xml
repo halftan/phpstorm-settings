@@ -21,19 +21,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1505117038559">
-        <mark key="'" line="218" column="27" />
-        <mark key="j" line="107" column="12" />
-        <mark key="[" line="219" column="39" />
-        <mark key="]" line="220" column="34" />
-        <mark key="." line="220" column="34" />
-        <mark key="^" line="220" column="34" />
-      </file>
-      <file name="$USER_HOME$/git/crappy/app/Feed.php" timestamp="1505120667132">
-        <mark key="'" line="91" column="8" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/git/crappy/app/Feed.php" timestamp="1505125302553">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="84" column="6" />
+        <mark key="." line="84" column="6" />
+        <mark key="^" line="84" column="6" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1497263805782">
         <mark key="'" line="86" column="51" />
@@ -184,6 +177,12 @@
         <mark key="." line="96" column="25" />
         <mark key="^" line="37" column="44" />
       </file>
+      <file name="$USER_HOME$/git/crappy/webpack.mix.js" timestamp="1505125285128">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="11" column="26" />
@@ -276,11 +275,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/Category.php" timestamp="1505119840005">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="28" />
-        <mark key="." line="59" column="28" />
-        <mark key="^" line="59" column="28" />
+      <file name="$USER_HOME$/git/crappy/app/Category.php" timestamp="1505125318150">
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="14" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1504059129777">
         <mark key="'" line="201" column="27" />
@@ -295,12 +294,6 @@
         <mark key="]" line="28" column="1" />
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/MovieController.php" timestamp="1499842366847">
-        <mark key="'" line="368" column="37" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Kernel.php" timestamp="1505121673049">
         <mark key="[" line="45" column="33" />
@@ -360,18 +353,19 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/SearchController.php" timestamp="1499743450177">
-        <mark key="'" line="55" column="83" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/git/crappy/.env" timestamp="1505111628156">
         <mark key="'" line="5" column="25" />
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="27" />
         <mark key="^" line="24" column="27" />
         <mark key="." line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" timestamp="1505125122583">
+        <mark key="'" line="73" column="20" />
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/slim/slim/Slim/App.php" timestamp="1501648020212">
         <mark key="'" line="584" column="16" />
@@ -465,13 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="433" column="22" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="430" column="25" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="428" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="218" column="31" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="368" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="32" column="26" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="116" column="43" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
       <jump line="59" column="23" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="69" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
@@ -565,6 +552,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/crappy/config/mail.php" />
       <jump line="48" column="14" filename="$USER_HOME$/git/crappy/config/mail.php" />
       <jump line="51" column="71" filename="$USER_HOME$/git/crappy/config/mail.php" />
+      <jump line="49" column="53" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="1" column="23" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="10" column="22" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="13" column="31" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="73" column="20" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
+      <jump line="61" column="0" filename="$USER_HOME$/git/crappy/app/Feed.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -592,10 +586,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>$feed =</text>
+        <text>types</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text encoding="base64">XDxhc3NldFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHRoaXMtPmFwcC0+ZW52aXJvbm1lbnQoKSAhPT0gJ3Byb2R1Y3Rpb24n</text>
@@ -680,21 +674,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search encoding="base64">XDxhc3NldFw+</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NldFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>listmovie</entry>
-        <entry>ips</entry>
-        <entry encoding="base64">XDxjb3ZlclVybFw+</entry>
         <entry>coverUrl</entry>
         <entry>dd</entry>
         <entry>fonts</entry>
@@ -712,13 +703,16 @@
         <entry>tomovietype</entry>
         <entry encoding="base64">XDxmZWVkXD4=</entry>
         <entry>from</entry>
+        <entry>app.js</entry>
+        <entry>app</entry>
+        <entry encoding="base64">XDxhc3NldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
