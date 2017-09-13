@@ -105,10 +105,10 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1505111718551">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1505294111656">
         <mark key="'" line="104" column="88" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="50" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
@@ -630,8 +630,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFudGl0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uCg==</text>
+      <register name="0" type="4">
+        <text>st01-sw-gaccqa1.st01</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
