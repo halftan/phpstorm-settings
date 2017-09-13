@@ -105,7 +105,7 @@
         <mark key="." line="44" column="49" />
         <mark key="^" line="44" column="49" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1505294111656">
+      <file name="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" timestamp="1505297667781">
         <mark key="'" line="104" column="88" />
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="50" />
@@ -359,8 +359,8 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505284221518">
-        <mark key="'" line="577" column="12" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505297634986">
+        <mark key="'" line="65" column="53" />
         <mark key="[" line="1305" column="53" />
         <mark key="]" line="1306" column="23" />
         <mark key="." line="1306" column="23" />
@@ -498,12 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="14" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="12" column="1" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="13" column="0" filename="$USER_HOME$/git/crappy/app/Tag.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="485" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="228" column="40" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="220" column="29" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="218" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
@@ -598,6 +592,12 @@
       <jump line="179" column="29" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="92" column="9" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="86" column="54" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="1282" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1288" column="54" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="32" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="62" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="65" column="53" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -628,7 +628,7 @@
         <text>dd</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWFudGl0eVw+</text>
+        <text>split</text>
       </register>
       <register name="0" type="4">
         <text>st01-sw-gaccqa1.st01</text>
@@ -717,15 +717,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWFudGl0eVw+</last-search>
+      <last-search>split</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWFudGl0eVw+</last-pattern>
+      <last-pattern>split</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json_con</entry>
         <entry>extra</entry>
         <entry>movietype</entry>
         <entry>tomovietype</entry>
@@ -745,6 +744,7 @@
         <entry>touch</entry>
         <entry>query</entry>
         <entry encoding="base64">XDxxdWFudGl0eVw+</entry>
+        <entry>split</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
