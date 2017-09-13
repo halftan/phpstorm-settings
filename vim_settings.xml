@@ -63,12 +63,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505210588757">
-        <mark key="'" line="84" column="12" />
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-        <mark key="^" line="41" column="25" />
+      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505292685142">
+        <mark key="'" line="84" column="54" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" timestamp="1505269504438" />
       <file name="$USER_HOME$/git/crappy/app/Services/ContentPlatformService.php" timestamp="1505097776144">
@@ -237,6 +236,13 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="5" column="16" />
       </file>
+      <file name="$USER_HOME$/git/crappy/app/VideoStat.php" timestamp="1505292508633">
+        <mark key="'" line="40" column="48" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/vendor/elasticsearch/elasticsearch/src/Elasticsearch/Transport.php" timestamp="1497263805782">
         <mark key="'" line="86" column="51" />
         <mark key="[" line="43" column="36" />
@@ -380,6 +386,12 @@
         <mark key="^" line="28" column="1" />
         <mark key="." line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/MovieController.php" timestamp="1499842366847">
+        <mark key="'" line="368" column="37" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/git/crappy/resources/views/pietask/show.blade.php" timestamp="1505205816321">
         <mark key="'" line="2" column="0" />
       </file>
@@ -410,6 +422,12 @@
         <mark key="]" line="47" column="13" />
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/Sdk/SearchController.php" timestamp="1499743450177">
+        <mark key="'" line="55" column="83" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/git/crappy/.env" timestamp="1505111628156">
         <mark key="'" line="5" column="25" />
@@ -480,14 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="1" filename="$USER_HOME$/git/crappy/_ide_helper_models.php" />
-      <jump line="82" column="9" filename="$USER_HOME$/git/crappy/app/Resource.php" />
-      <jump line="20" column="18" filename="$USER_HOME$/git/crappy/app/Resource.php" />
-      <jump line="351" column="0" filename="$USER_HOME$/git/crappy/_ide_helper_models.php" />
-      <jump line="62" column="4" filename="$USER_HOME$/git/crappy/app/Feed.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/app/MovieFlow.php" />
-      <jump line="63" column="0" filename="$USER_HOME$/git/crappy/app/Feed.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/git/crappy/app/FeedItem.php" />
       <jump line="11" column="14" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="12" column="1" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="13" column="0" filename="$USER_HOME$/git/crappy/app/Tag.php" />
@@ -580,6 +590,14 @@
       <jump line="518" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="488" column="66" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="577" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="34" column="48" filename="$USER_HOME$/git/crappy/app/VideoStat.php" />
+      <jump line="37" column="48" filename="$USER_HOME$/git/crappy/app/VideoStat.php" />
+      <jump line="163" column="46" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="171" column="15" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="175" column="42" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="179" column="29" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="92" column="9" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="86" column="54" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -601,22 +619,22 @@
         <text>@,</text>
       </register>
       <register name="*" type="4">
-        <text>[]</text>
+        <text>()</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>dd</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text encoding="base64">XDxxdWFudGl0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N1cHBvcnREb3dubG9hZCcgPT4gKGludCkgQCR0aGlzLT5hdHRyaWJ1dGVzWydzdXBwb3J0ZG93bmxvYWQnXSA/OiAxLAo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RhdGljOjphZGRHbG9iYWxTY29wZSgnbWVkaWFUeXBlJywgZnVuY3Rpb24gKEJ1aWxkZXIgJGJ1aWxkZXIpIHsKICAgICAgICAgICAgJGJ1aWxkZXItPndoZXJlKCd0eXBlJywgJzwnLCBzZWxmOjpUWVBFX0JSQU5EKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -667,29 +685,29 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>[]</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>'supportshare'</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N1cHBvcnREb3dubG9hZCcgPT4gKGludCkgQCR0aGlzLT5hdHRyaWJ1dGVzWydzdXBwb3J0ZG93bmxvYWQnXSA/OiAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlciAkcXVlcnkgKi8K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5pblJhbmRvbU9yZGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -699,15 +717,14 @@
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search encoding="base64">XDxxdWFudGl0eVw+</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFudGl0eVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>json_con</entry>
         <entry>extra</entry>
         <entry>movietype</entry>
@@ -727,6 +744,7 @@
         <entry>exist</entry>
         <entry>touch</entry>
         <entry>query</entry>
+        <entry encoding="base64">XDxxdWFudGl0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
