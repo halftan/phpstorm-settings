@@ -335,6 +335,14 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="61" />
       </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1505272644109">
+        <mark key="'" line="488" column="66" />
+        <mark key="[" line="488" column="68" />
+        <mark key="]" line="488" column="68" />
+        <mark key="." line="488" column="68" />
+        <mark key="^" line="488" column="52" />
+        <mark key="o" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1505198348938">
         <mark key="'" line="185" column="5" />
         <mark key="[" line="88" column="0" />
@@ -477,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/git/crappy/app/Feed.php" />
       <jump line="5" column="25" filename="$USER_HOME$/git/crappy/.env" />
       <jump line="239" column="1" filename="$USER_HOME$/git/crappy/_ide_helper_models.php" />
       <jump line="82" column="9" filename="$USER_HOME$/git/crappy/app/Resource.php" />
@@ -577,6 +584,7 @@
       <jump line="80" column="0" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="83" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="518" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="488" column="66" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -598,22 +606,22 @@
         <text>@,</text>
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>[]</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>&quot;\&quot;$tag\&quot;&quot;</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5vcmRlckJ5RGVzYygndXBkYXRlZF9hdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N1cHBvcnREb3dubG9hZCcgPT4gKGludCkgQCR0aGlzLT5hdHRyaWJ1dGVzWydzdXBwb3J0ZG93bmxvYWQnXSA/OiAxLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlciAkcXVlcnkgKi8K</text>
+      <register name="1" type="4">
+        <text>[]</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -664,29 +672,29 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5pblJhbmRvbU9yZGVyKCkK</text>
+      <register name="2" type="4">
+        <text>'supportshare'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N1cHBvcnREb3dubG9hZCcgPT4gKGludCkgQCR0aGlzLT5hdHRyaWJ1dGVzWydzdXBwb3J0ZG93bmxvYWQnXSA/OiAxLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlciAkcXVlcnkgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5pblJhbmRvbU9yZGVyKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBNYW51YWxseSB1cGRhdGUgdGhlIGZlZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIFxBcHBcQXV0b0ZlZWRJbmZvICRhdXRvRmVlZEluZm8KICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIE1hbnVhbGx5IHVwZGF0ZSB0aGUgZmVlZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
