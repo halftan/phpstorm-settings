@@ -359,8 +359,8 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505297634986">
-        <mark key="'" line="65" column="53" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505364008297">
+        <mark key="'" line="192" column="24" />
         <mark key="[" line="1305" column="53" />
         <mark key="]" line="1306" column="23" />
         <mark key="." line="1306" column="23" />
@@ -498,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="40" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="220" column="29" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="218" column="27" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="1152" column="20" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="74" column="27" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="655" column="36" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
@@ -598,6 +595,9 @@
       <jump line="32" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="62" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="65" column="53" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="169" column="48" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="1326" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="192" column="24" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,7 +713,7 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -750,8 +750,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
