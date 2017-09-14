@@ -359,12 +359,12 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505372031738">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505376004806">
         <mark key="'" line="1267" column="42" />
-        <mark key="[" line="1274" column="53" />
-        <mark key="]" line="1274" column="71" />
-        <mark key="^" line="1274" column="71" />
-        <mark key="." line="1274" column="71" />
+        <mark key="[" line="1304" column="50" />
+        <mark key="]" line="1305" column="45" />
+        <mark key="." line="1305" column="45" />
+        <mark key="^" line="1305" column="45" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
@@ -625,7 +625,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">cXVlcnkg</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
@@ -633,8 +633,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW5zZXJ0Wydqb2JfaWQnXSAgICAgICA9ICRkYXRhWydyZXN1bHQnXVsnaWQnXTsgLy/ku7vliqFpZAogICAgICAgICAgICAgICAgICAgICRpbnNlcnRbJ3Jlc291cmNlX2lkJ10gID0gJGl0ZW1bJ3Jlc291cmNlX2lkJ107IC8v6LWE5rqQaWQKICAgICAgICAgICAgICAgICAgICAkaW5zZXJ0WydvcmlnaW5hbF91cmwnXSA9ICRpdGVtWydvcmlnaW5hbF91cmwnXTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkdXJhdGlvbiA9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -685,29 +685,29 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>result</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhcnJheSkK</text>
       </register>
       <register name="3" type="4">
-        <text>[]</text>
-      </register>
-      <register name="4" type="4">
-        <text>'result'</text>
-      </register>
-      <register name="5" type="4">
         <text>''</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>result</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW5zZXJ0Wydqb2JfaWQnXSAgICAgICA9ICRkYXRhWydyZXN1bHQnXVsnaWQnXTsgLy/ku7vliqFpZAo=</text>
+      <register name="5" type="4">
+        <text>[]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGluc2VydFsnam9iX2lkJ10gICAgICAgPSAkZGF0YVsncmVzdWx0J11bJ2lkJ107IC8v5Lu75YqhaWQK</text>
+      <register name="6" type="4">
+        <text>'result'</text>
+      </register>
+      <register name="7" type="4">
+        <text>''</text>
+      </register>
+      <register name="8" type="4">
+        <text>result</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaW5zZXJ0Wydqb2JfaWQnXSAgICAgICA9ICRkYXRhWydyZXN1bHQnXVsnaWQnXTsgLy/ku7vliqFpZAo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
