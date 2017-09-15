@@ -63,12 +63,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505448737650">
-        <mark key="'" line="110" column="12" />
-        <mark key="[" line="136" column="56" />
-        <mark key="]" line="136" column="72" />
-        <mark key="." line="136" column="72" />
-        <mark key="^" line="136" column="72" />
+      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505457009989">
+        <mark key="'" line="156" column="31" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="48" />
+        <mark key="." line="153" column="47" />
+        <mark key="^" line="153" column="44" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" timestamp="1505385540833">
         <mark key="'" line="503" column="26" />
@@ -483,8 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="89" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
-      <jump line="30" column="69" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="50" column="110" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
       <jump line="24" column="39" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="20" column="0" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
@@ -583,6 +581,8 @@
       <jump line="86" column="8" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="119" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="110" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="155" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="203" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,16 +610,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGludElkID0gKGludCkgJHQ7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICghZW1wdHkoJGludElkKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGF0dHJzWyd0YWdzJ11bXSA9ICRpbnRJZDsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICR0YWcgPSBUYWc6OmZpcnN0T3JDcmVhdGUoWyd0eXBlJyA9PiAkcGFyYW1zWyd0eXBlJ10sICduYW1lJyA9PiAkdF0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGF0dHJzWyd0YWdzJ11bXSA9ICR0YWctPmlkOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUJldHdlZW4oJ2NsYXNzX2lkJywgWzksIDE0XSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlc1snY2xhc3NfaWQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUJldHdlZW4oJ2NsYXNzX2lkJywgOSwgMTQpIC8vIGZpbHRlciBub24tdXJsIHJlc291cmNlcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,28 +671,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlc1snY2xhc3NfaWQnXSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text>()</text>
+      </register>
+      <register name="5" type="4">
         <text>$res</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkaWQpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc0NsYXNzLT50b0FycmF5KCkpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGFzc2lkKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkcXVlcnktPmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGFzc2lkKTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
