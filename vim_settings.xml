@@ -28,11 +28,11 @@
         <mark key="." line="105" column="30" />
         <mark key="^" line="105" column="28" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1505203713229">
-        <mark key="'" line="59" column="52" />
-        <mark key="[" line="6" column="106" />
-        <mark key="]" line="6" column="111" />
-        <mark key="." line="6" column="111" />
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" timestamp="1505441073350">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="85" column="2" />
+        <mark key="]" line="85" column="10" />
+        <mark key="." line="85" column="2" />
         <mark key="^" line="6" column="111" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1503285093966">
@@ -179,11 +179,11 @@
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1504059129777">
-        <mark key="'" line="201" column="27" />
-        <mark key="[" line="201" column="39" />
-        <mark key="]" line="201" column="39" />
-        <mark key="." line="201" column="39" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" timestamp="1505441095518">
+        <mark key="'" line="199" column="38" />
+        <mark key="[" line="199" column="38" />
+        <mark key="]" line="199" column="46" />
+        <mark key="." line="199" column="38" />
         <mark key="^" line="201" column="39" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" timestamp="1502333184468">
@@ -343,8 +343,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1505387143199">
-        <mark key="'" line="241" column="12" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1505441103875">
+        <mark key="'" line="89" column="10" />
         <mark key="[" line="89" column="10" />
         <mark key="]" line="89" column="10" />
         <mark key="." line="89" column="10" />
@@ -464,10 +464,6 @@
         <mark key="." line="117" column="37" />
         <mark key="^" line="83" column="3" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/Http/Controllers/YoutubeTaskController.php" timestamp="1505206775874">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="9" />
-      </file>
       <file name="$USER_HOME$/git/crappy/resources/assets/sass/app.scss" timestamp="1505097102199">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="32" />
@@ -490,10 +486,6 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Category.php" timestamp="1505119809945">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="66" column="4" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/PgcUser.php" timestamp="1498186706464">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="29" />
@@ -502,9 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="13" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="43" column="49" filename="$USER_HOME$/git/crappy/app/Console/Commands/HcFeedAutoUpdate.php" />
-      <jump line="45" column="72" filename="$USER_HOME$/git/crappy/app/Console/Commands/HcFeedAutoUpdate.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/crappy/config/mail.php" />
       <jump line="48" column="14" filename="$USER_HOME$/git/crappy/config/mail.php" />
       <jump line="51" column="71" filename="$USER_HOME$/git/crappy/config/mail.php" />
@@ -600,8 +589,11 @@
       <jump line="62" column="44" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="65" column="53" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="172" column="48" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
-      <jump line="89" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="141" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/darkcms/src/app/routes/cms_routes.php" />
+      <jump line="37" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="199" column="38" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/LegacyApiController.php" />
+      <jump line="89" column="10" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
