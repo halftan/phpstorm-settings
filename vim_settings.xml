@@ -63,12 +63,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="51" column="29" />
       </file>
-      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505457009989">
-        <mark key="'" line="156" column="31" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="48" />
-        <mark key="." line="153" column="47" />
-        <mark key="^" line="153" column="44" />
+      <file name="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" timestamp="1505469028740">
+        <mark key="'" line="153" column="47" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="43" />
+        <mark key="." line="206" column="0" />
+        <mark key="^" line="205" column="26" />
       </file>
       <file name="$USER_HOME$/git/darkcms/vendor/illuminate/database/Query/Builder.php" timestamp="1505385540833">
         <mark key="'" line="503" column="26" />
@@ -483,7 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="110" filename="$USER_HOME$/git/crappy/resources/views/layouts/app.blade.php" />
       <jump line="24" column="39" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="20" column="0" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="17" column="0" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
@@ -583,6 +582,7 @@
       <jump line="110" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="155" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="203" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
+      <jump line="153" column="47" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,16 +610,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>random</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUJldHdlZW4oJ2NsYXNzX2lkJywgWzksIDE0XSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUJldHdlZW4oJ2NsYXNzX2lkJywgOSwgMTQpIC8vIGZpbHRlciBub24tdXJsIHJlc291cmNlcwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRzID0gJGlkcy0+cmFuZG9tKCRxdWFudGl0eSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,28 +671,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlc1snY2xhc3NfaWQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGlkcy0+c2xpKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZUJldHdlZW4oJ2NsYXNzX2lkJywgOSwgMTQpIC8vIGZpbHRlciBub24tdXJsIHJlc291cmNlcwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>$res</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlc1snY2xhc3NfaWQnXSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlcigkaWQpOwo=</text>
+      <register name="7" type="4">
+        <text>()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc0NsYXNzLT50b0FycmF5KCkpOwo=</text>
+      <register name="8" type="4">
+        <text>$res</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjbGFzc2lkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRpZCwgJHJlcyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -702,15 +702,14 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>random</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>random</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app.js</entry>
         <entry>app</entry>
         <entry encoding="base64">XDxhc3NldFw+</entry>
         <entry>listResour</entry>
@@ -730,6 +729,7 @@
         <entry>clone</entry>
         <entry>where</entry>
         <entry>logger</entry>
+        <entry>random</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
