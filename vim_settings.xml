@@ -176,8 +176,8 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1503889875650">
-        <mark key="'" line="116" column="43" />
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1505718815340">
+        <mark key="'" line="11" column="31" />
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="44" />
         <mark key="^" line="104" column="93" />
@@ -283,6 +283,9 @@
         <mark key="." line="89" column="10" />
         <mark key="^" line="559" column="52" />
         <mark key="o" line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" timestamp="1505718772031">
+        <mark key="'" line="212" column="30" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Movie.php" timestamp="1505284198475">
         <mark key="'" line="185" column="5" />
@@ -495,10 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
-      <jump line="8" column="16" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
-      <jump line="14" column="31" filename="$USER_HOME$/git/crappy/resources/views/pieuser/list.blade.php" />
       <jump line="26" column="52" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="32" column="49" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="22" column="35" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
@@ -595,6 +594,10 @@
       <jump line="203" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="153" column="47" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
       <jump line="216" column="55" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="135" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
+      <jump line="206" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
+      <jump line="212" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
+      <jump line="11" column="31" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -625,7 +628,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>fileUpload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiRhcHAtPmdyb3VwKCcvYXBpL3YxJywgZnVuY3Rpb24gKCkgewogICAgJHRoaXMtPmdldCgnL21vdmllJywgJ1xBcHBcQ29udHJvbGxlclxBcHBcdjFcTW92aWVDb250cm9sbGVyOmluZGV4Jyk7CiAgICAkdGhpcy0+Z2V0KCcvbW92aWUvY291bnQnLCAnXEFwcFxDb250cm9sbGVyXEFwcFx2MVxNb3ZpZUNvbnRyb2xsZXI6Y291bnQnKTsKICAgICR0aGlzLT5nZXQoJy9tb3ZpZS9yZWNvbW1lbmQve21vdmllSWR9JywgJ1xBcHBcQ29udHJvbGxlclxBcHBcdjFcTW92aWVDb250cm9sbGVyOmdldFJlY29tbWVuZHMnKTsKICAgICR0aGlzLT5nZXQoJy9tb3ZpZS97bW92aWVJZH0nLCAnXEFwcFxDb250cm9sbGVyXEFwcFx2MVxNb3ZpZUNvbnRyb2xsZXI6ZGV0YWlsJyk7CiAgICAkdGhpcy0+Z2V0KCcvcXVlcnkvZnV6enknLCAnXEFwcFxDb250cm9sbGVyXEFwcFxMZWdhY3lcU2VhcmNoQ29udHJvbGxlcjpmdXp6eScpOwp9KS0+YWRkKG5ldyBcQXBwXE1pZGRsZXdhcmVcTG9nTWlkZGxld2FyZSgkY29udGFpbmVyLCAnbG9nZ2VyJykpOwo=</text>
@@ -710,20 +713,18 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>fileUpload</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>fileUpload</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
-        <entry encoding="base64">XDxhc3NldFw+</entry>
         <entry>listResour</entry>
         <entry>pie</entry>
         <entry>infos</entry>
@@ -742,13 +743,15 @@
         <entry>where</entry>
         <entry>logger</entry>
         <entry>random</entry>
+        <entry>uploadfil</entry>
+        <entry>fileUpload</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
         <entry>;w</entry>
+        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
