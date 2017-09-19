@@ -452,11 +452,12 @@
         <mark key="." line="2" column="32" />
         <mark key="^" line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" timestamp="1505719937889">
-        <mark key="[" line="30" column="56" />
-        <mark key="]" line="30" column="61" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" timestamp="1505805732874">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="57" />
         <mark key="^" line="30" column="61" />
-        <mark key="." line="30" column="61" />
+        <mark key="." line="58" column="14" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/Cli.php" timestamp="1497256535125">
         <mark key="[" line="21" column="21" />
@@ -504,11 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="35" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
-      <jump line="4" column="18" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/crappy/resources/views/pieuser/list.blade.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/resources/views/pieuser/list.blade.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="46" column="0" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
       <jump line="2" column="0" filename="$USER_HOME$/git/crappy/resources/views/pietask/show.blade.php" />
@@ -604,6 +600,11 @@
       <jump line="11" column="31" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
       <jump line="205" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="448" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="50" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
+      <jump line="59" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
