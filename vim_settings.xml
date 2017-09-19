@@ -21,12 +21,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1505721898460">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1505793146378">
         <mark key="'" line="205" column="0" />
-        <mark key="[" line="221" column="25" />
-        <mark key="]" line="221" column="25" />
-        <mark key="." line="221" column="25" />
-        <mark key="^" line="221" column="25" />
+        <mark key="[" line="223" column="14" />
+        <mark key="]" line="223" column="14" />
+        <mark key="." line="223" column="14" />
+        <mark key="^" line="223" column="14" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/VideoStat.php" timestamp="1505292508633">
         <mark key="'" line="40" column="48" />
@@ -441,10 +441,10 @@
         <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1505718106130">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1505793034149">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="58" />
       </file>
       <file name="$USER_HOME$/git/crappy/resources/assets/sass/app.scss" timestamp="1505097102199">
         <mark key="[" line="2" column="26" />
@@ -719,7 +719,7 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -756,8 +756,8 @@
         <entry>nohl</entry>
         <entry>;w</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
