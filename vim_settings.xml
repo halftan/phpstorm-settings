@@ -21,8 +21,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1505793146378">
-        <mark key="'" line="205" column="0" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1506420305126">
+        <mark key="'" line="448" column="46" />
         <mark key="[" line="223" column="14" />
         <mark key="]" line="223" column="14" />
         <mark key="." line="223" column="14" />
@@ -176,8 +176,8 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1505718815340">
-        <mark key="'" line="11" column="31" />
+      <file name="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" timestamp="1506420336859">
+        <mark key="'" line="60" column="5" />
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="44" />
         <mark key="^" line="104" column="93" />
@@ -276,12 +276,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1505721881170">
-        <mark key="'" line="448" column="16" />
-        <mark key="[" line="89" column="10" />
-        <mark key="]" line="89" column="10" />
-        <mark key="." line="89" column="10" />
-        <mark key="^" line="559" column="52" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" timestamp="1506420301407">
+        <mark key="'" line="291" column="41" />
+        <mark key="[" line="299" column="37" />
+        <mark key="]" line="299" column="40" />
+        <mark key="." line="299" column="40" />
+        <mark key="^" line="299" column="40" />
         <mark key="o" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" timestamp="1505718772031">
@@ -505,10 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="52" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/list.blade.php" />
-      <jump line="4" column="4" filename="$USER_HOME$/git/crappy/resources/views/youtubetask/create.blade.php" />
-      <jump line="28" column="127" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/create.blade.php" />
-      <jump line="18" column="115" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/create.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php" />
       <jump line="1657" column="20" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="29" column="34" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
@@ -605,6 +601,10 @@
       <jump line="45" column="14" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="6" column="14" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
       <jump line="34" column="29" filename="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" />
+      <jump line="291" column="41" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="60" column="1" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
+      <jump line="448" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="60" column="5" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -632,13 +632,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Resource</text>
       </register>
       <register name="/" type="4">
-        <text>river</text>
+        <text>external</text>
       </register>
-      <register name="0" type="4">
-        <text>10.212.116.56</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCdzdGF0ZScsIFJlc291cmNlOjpTVEFURV9QUkVQVUIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -724,15 +724,14 @@
       </register>
     </registers>
     <search>
-      <last-search>river</last-search>
+      <last-search>external</last-search>
       <last-offset />
-      <last-pattern>river</last-pattern>
+      <last-pattern>external</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pie</entry>
         <entry>infos</entry>
         <entry>all</entry>
         <entry>option</entry>
@@ -752,6 +751,7 @@
         <entry>uploadfil</entry>
         <entry>fileUpload</entry>
         <entry>river</entry>
+        <entry>external</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
