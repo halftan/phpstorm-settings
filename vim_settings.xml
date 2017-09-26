@@ -70,12 +70,12 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1506411438759">
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyUrlAvailabilityCli.php" timestamp="1506414587895">
         <mark key="'" line="34" column="29" />
-        <mark key="[" line="83" column="75" />
-        <mark key="]" line="84" column="42" />
-        <mark key="." line="84" column="42" />
-        <mark key="^" line="84" column="42" />
+        <mark key="[" line="58" column="62" />
+        <mark key="]" line="58" column="88" />
+        <mark key="." line="58" column="88" />
+        <mark key="^" line="58" column="88" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/SearchController.php" timestamp="1499833857583">
         <mark key="'" line="38" column="27" />
