@@ -21,8 +21,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1506495615986">
-        <mark key="'" line="448" column="46" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1506570662396">
+        <mark key="'" line="49" column="36" />
         <mark key="[" line="223" column="14" />
         <mark key="]" line="223" column="14" />
         <mark key="." line="223" column="14" />
@@ -505,7 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php" />
       <jump line="1657" column="20" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="29" column="34" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="41" column="8" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
@@ -605,6 +604,7 @@
       <jump line="60" column="1" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
       <jump line="448" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="60" column="5" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
+      <jump line="49" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -635,7 +635,7 @@
         <text>Resource</text>
       </register>
       <register name="/" type="4">
-        <text>external</text>
+        <text>score</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCdzdGF0ZScsIFJlc291cmNlOjpTVEFURV9QUkVQVUIpCg==</text>
@@ -724,15 +724,14 @@
       </register>
     </registers>
     <search>
-      <last-search>external</last-search>
+      <last-search>score</last-search>
       <last-offset />
-      <last-pattern>external</last-pattern>
+      <last-pattern>score</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>infos</entry>
         <entry>all</entry>
         <entry>option</entry>
         <entry>vid</entry>
@@ -752,6 +751,7 @@
         <entry>fileUpload</entry>
         <entry>river</entry>
         <entry>external</entry>
+        <entry>score</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
