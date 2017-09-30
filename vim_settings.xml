@@ -132,13 +132,6 @@
         <mark key="." line="68" column="48" />
         <mark key="^" line="68" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1497335356967">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="1" />
-        <mark key="." line="42" column="1" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/DecodeHtml.php" timestamp="1498615019698">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -307,12 +300,12 @@
         <mark key="^" line="857" column="49" />
         <mark key="." line="857" column="49" />
       </file>
-      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1505445102952">
-        <mark key="'" line="141" column="8" />
-        <mark key="[" line="700" column="0" />
-        <mark key="]" line="706" column="24" />
-        <mark key="." line="704" column="86" />
-        <mark key="^" line="704" column="86" />
+      <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" timestamp="1506762170181">
+        <mark key="'" line="358" column="36" />
+        <mark key="[" line="1146" column="36" />
+        <mark key="]" line="1146" column="41" />
+        <mark key="." line="1146" column="41" />
+        <mark key="^" line="1146" column="41" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Console/Commands/ExportToHeichaMovie.php" timestamp="1498727963019">
         <mark key="'" line="118" column="60" />
@@ -497,6 +490,13 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1497335356967">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/PgcUser.php" timestamp="1498186706464">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="29" />
@@ -505,8 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1657" column="20" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="29" column="34" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="41" column="8" filename="$USER_HOME$/git/crappy/app/Http/Controllers/AutoFeedInfoController.php" />
       <jump line="84" column="5" filename="$USER_HOME$/git/crappy/app/Feed.php" />
       <jump line="11" column="63" filename="$USER_HOME$/git/crappy/resources/views/auto_feed_info/create.blade.php" />
@@ -605,6 +603,8 @@
       <jump line="448" column="46" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
       <jump line="60" column="5" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
       <jump line="49" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
+      <jump line="335" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
+      <jump line="358" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -632,10 +632,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Resource</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>score</text>
+        <text>geticv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPndoZXJlKCdzdGF0ZScsIFJlc291cmNlOjpTVEFURV9QUkVQVUIpCg==</text>
@@ -724,15 +724,14 @@
       </register>
     </registers>
     <search>
-      <last-search>score</last-search>
+      <last-search>geticv</last-search>
       <last-offset />
-      <last-pattern>score</last-pattern>
+      <last-pattern>geticv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
         <entry>option</entry>
         <entry>vid</entry>
         <entry>getOld</entry>
@@ -752,6 +751,7 @@
         <entry>river</entry>
         <entry>external</entry>
         <entry>score</entry>
+        <entry>geticv</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
