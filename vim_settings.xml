@@ -223,11 +223,11 @@
         <mark key="." line="96" column="25" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="$USER_HOME$/git/panoconf/database/migrations/2017_10_17_181753_CreatePanoramaTable.php" timestamp="1508235588630">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="45" />
-        <mark key="^" line="18" column="45" />
+      <file name="$USER_HOME$/git/panoconf/database/migrations/2017_10_17_181753_CreatePanoramaTable.php" timestamp="1508237097159">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
@@ -660,7 +660,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>filesystems</text>
+        <text>integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhYmFzZVw+</text>
@@ -669,7 +669,7 @@
         <text encoding="base64">JGFwcC0+Y29uZmlndXJlKCdmaWxlc3lzdGVtcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCd1c2VyX2lkJykKICAgICAgICAgICAgICAgIC0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ3VzZXInKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -721,28 +721,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+aW5kZXgoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mbwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mbwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
