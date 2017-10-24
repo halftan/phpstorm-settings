@@ -357,6 +357,13 @@
         <mark key="^" line="31" column="60" />
         <mark key="." line="31" column="60" />
       </file>
+      <file name="$USER_HOME$/git/adpano/.env" timestamp="1508837254067">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+      </file>
       <file name="$USER_HOME$/git/crappy/routes/web.php" timestamp="1505210398137">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="44" column="3" />
@@ -511,6 +518,10 @@
         <mark key="]" line="48" column="28" />
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="28" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/config/passport.php" timestamp="1508837238663">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" timestamp="1505207975445">
         <mark key="'" line="62" column="0" />
@@ -668,7 +679,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="60" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="49" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="32" column="34" filename="$USER_HOME$/git/darkcms/src/app/config/qa/conf.php" />
@@ -768,6 +778,7 @@
       <jump line="264" column="5" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="220" column="26" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="251" column="20" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/git/adpano/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -795,13 +806,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>SESSION_SERVER</text>
       </register>
       <register name="/" type="4">
         <text>sessionInfo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXBwKCktPmVudmlyb25tZW50KCkgIT09ICdwcm9kdWN0aW9uJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gc2VsZjo6U1NOX1JTVEFUVVNfT0ssCiAgICAgICAgICAgICAgICAndWlkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiAnb2snLAogICAgICAgICAgICBdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRzZXNzaW9uSWQgPSBcUmVxdWVzdDo6Y29va2llKCdCRFVTUycpOwogICAgICAgICAgICBpZiAoZW1wdHkoJHNlc3Npb25JZCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+Z2V0U2Vzc2lvbigkc2Vzc2lvbklkKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>SESSION_SERVER</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IHNlbGY6OlNTTl9SU1RBVFVTX09LLAogICAgICAgICAgICAgICAgJ3VpZCcgPT4gMSwKICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ29rJywKICAgICAgICAgICAgXTsK</text>
