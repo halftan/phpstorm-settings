@@ -434,12 +434,12 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508840220635">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="100" column="13" />
-        <mark key="]" line="100" column="21" />
-        <mark key="." line="100" column="21" />
-        <mark key="^" line="100" column="21" />
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508842462454">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="341" column="33" />
+        <mark key="]" line="341" column="40" />
+        <mark key="." line="341" column="40" />
+        <mark key="^" line="341" column="40" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/App.php" timestamp="1508397433915">
         <mark key="[" line="8" column="0" />
@@ -683,7 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="12" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="358" column="36" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ApiController.php" />
       <jump line="101" column="17" filename="$USER_HOME$/git/panoconf/bootstrap/app.php" />
       <jump line="21" column="0" filename="$USER_HOME$/git/panoconf/database/migrations/2017_10_17_181333_CreateUserTable.php" />
@@ -783,6 +782,7 @@
       <jump line="52" column="15" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="43" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="51" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="100" column="12" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -810,7 +810,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cip</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>apid</text>
