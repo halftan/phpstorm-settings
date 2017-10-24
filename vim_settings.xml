@@ -118,6 +118,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1508832984593">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1502790166262">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="91" column="24" />
@@ -158,18 +163,22 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/git/adpano/.phpstorm.meta.php" timestamp="1508833795879">
+        <mark key="'" line="27" column="62" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/MovieFlow.php" timestamp="1500979311387">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Providers/AppServiceProvider.php" timestamp="1508753875494">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Providers/AppServiceProvider.php" timestamp="1508833317614">
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="49" />
+        <mark key="." line="30" column="49" />
+        <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" timestamp="1508820401568">
+      <file name="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" timestamp="1508832529415">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -213,18 +222,18 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Providers/PassportServiceProvider.php" timestamp="1508752109730">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="35" column="25" />
-        <mark key="." line="35" column="25" />
-        <mark key="^" line="35" column="25" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" timestamp="1502333184468">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="25" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/app/Traits/IpOrBns.php" timestamp="1508833634504">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
         <mark key="[" line="5" column="25" />
@@ -289,6 +298,12 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
         <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" timestamp="1508834597357">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
       </file>
       <file name="$USER_HOME$/git/adpano/app/Http/Middleware/AuthenticateUser.php" timestamp="1508751275295">
         <mark key="[" line="1" column="0" />
@@ -410,12 +425,12 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508827051573">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="61" column="6" />
-        <mark key="." line="61" column="6" />
-        <mark key="^" line="61" column="6" />
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508834856376">
+        <mark key="'" line="258" column="20" />
+        <mark key="[" line="294" column="45" />
+        <mark key="]" line="294" column="51" />
+        <mark key="." line="294" column="51" />
+        <mark key="^" line="294" column="51" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/App.php" timestamp="1508397433915">
         <mark key="[" line="8" column="0" />
@@ -490,8 +505,8 @@
         <mark key="." line="18" column="112" />
         <mark key="^" line="18" column="112" />
       </file>
-      <file name="$USER_HOME$/git/adpano/config/ide-helper.php" timestamp="1508753466833">
-        <mark key="'" line="21" column="44" />
+      <file name="$USER_HOME$/git/adpano/config/ide-helper.php" timestamp="1508833686604">
+        <mark key="'" line="89" column="4" />
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="28" />
         <mark key="." line="48" column="28" />
@@ -516,6 +531,9 @@
         <mark key="]" line="24" column="61" />
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/_ide_helper.php" timestamp="1508833696604">
+        <mark key="'" line="11539" column="35" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/FeedItem.php" timestamp="1505121800514">
         <mark key="'" line="6" column="0" />
@@ -610,10 +628,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1508820877493">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1508834574680">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="212" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/User.php" timestamp="1508397383350">
         <mark key="'" line="8" column="55" />
@@ -650,34 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="339" column="24" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="342" column="93" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="361" column="32" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="372" column="19" filename="$USER_HOME$/git/crappy/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="172" column="28" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="177" column="80" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="183" column="0" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="205" column="1" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="178" column="23" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="180" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="66" column="8" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="80" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="83" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="86" column="8" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="119" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="110" column="12" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="155" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="203" column="31" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="153" column="47" filename="$USER_HOME$/git/crappy/app/AutoFeedInfo.php" />
-      <jump line="216" column="55" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="135" column="4" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
-      <jump line="206" column="20" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
-      <jump line="212" column="30" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Cms/ResourceController.php" />
-      <jump line="11" column="31" filename="$USER_HOME$/git/darkcms/src/app/config/production/conf.php" />
-      <jump line="205" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" />
-      <jump line="448" column="16" filename="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/Resource.php" />
-      <jump line="50" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
-      <jump line="59" column="8" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="74" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="60" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
       <jump line="49" column="0" filename="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v2/MovieController.php" />
@@ -747,9 +737,37 @@
       <jump line="17" column="0" filename="$USER_HOME$/git/adpano/database/factories/UserFactory.php" />
       <jump line="24" column="0" filename="$USER_HOME$/git/adpano/database/factories/UserFactory.php" />
       <jump line="5" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="78" column="12" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="30" column="0" filename="$USER_HOME$/git/adpano/routes/api.php" />
       <jump line="15" column="0" filename="$USER_HOME$/git/adpano/app/Providers/MacroServiceProvider.php" />
+      <jump line="78" column="38" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="61" column="22" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="65" column="39" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="89" column="4" filename="$USER_HOME$/git/adpano/config/ide-helper.php" />
+      <jump line="11539" column="35" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="149" column="8" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="163" column="65" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="289" column="65" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="415" column="65" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="541" column="65" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="667" column="65" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="911" column="4" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="32" column="41" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="33" column="39" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="34" column="92" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="41" column="26" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="152" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="278" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="404" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="530" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="656" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="782" column="76" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="27" column="62" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
+      <jump line="83" column="8" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="136" column="72" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="264" column="5" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="220" column="26" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="251" column="20" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -777,89 +795,57 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>PanoConf</text>
+        <text>sessionInfo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQXBwKCktPmVudmlyb25tZW50KCkgIT09ICdwcm9kdWN0aW9uJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gc2VsZjo6U1NOX1JTVEFUVVNfT0ssCiAgICAgICAgICAgICAgICAndWlkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiAnb2snLAogICAgICAgICAgICBdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRzZXNzaW9uSWQgPSBcUmVxdWVzdDo6Y29va2llKCdCRFVTUycpOwogICAgICAgICAgICBpZiAoZW1wdHkoJHNlc3Npb25JZCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+Z2V0U2Vzc2lvbigkc2Vzc2lvbklkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IHNlbGY6OlNTTl9SU1RBVFVTX09LLAogICAgICAgICAgICAgICAgJ3VpZCcgPT4gMSwKICAgICAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ29rJywKICAgICAgICAgICAgXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
           <key char="120" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="37" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
-          <key char="63" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="102" code="0" mods="0" />
           <key char="41" code="0" mods="0" />
           <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zZXNzaW9uSW5mbygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBcUmVzcG9uc2U6Om1hY3JvKCdzdWNjZXNzJywgZnVuY3Rpb24oJHBheWxvYWQgPSBudWxsLCAkbXNnID0gJ29rJywgJGNvZGUgPSAwLCAkc3RhdHVzID0gMjAwKSB7CiAgICAgICAgICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKFsKICAgICAgICAgICAgICAgICdtc2cnICAgICA9PiAkbXNnLAogICAgICAgICAgICAgICAgJ2NvZGUnICAgID0+ICRjb2RlLAogICAgICAgICAgICAgICAgJ3BheWxvYWQnID0+ICRwYXlsb2FkLAogICAgICAgICAgICBdLCAkc3RhdHVzKTsKICAgICAgICB9KTsKCiAgICAgICAgXFJlc3BvbnNlOjptYWNybygnZmFpbCcsIGZ1bmN0aW9uKCRjb2RlLCAkbXNnID0gJ2ZhaWxlZCcsICRzdGF0dXMgPSA0MDAsICRwYXlsb2FkID0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbihbCiAgICAgICAgICAgICAgICAnbXNnJyAgICAgPT4gJG1zZywKICAgICAgICAgICAgICAgICdjb2RlJyAgICA9PiAkY29kZSwKICAgICAgICAgICAgICAgICdwYXlsb2FkJyA9PiAkcGF5bG9hZCwKICAgICAgICAgICAgXSwgJHN0YXR1cyk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRiZHVzcykpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJkdXNzID0gXFJlcXVlc3Q6OmNvb2tpZSgnQkRVU1MnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0Y28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlc3Npb25JZCA9IFxSZXF1ZXN0Ojpjb29raWUoJ0JEVVNTJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYmR1aWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBpbXBsZW1lbnQKICAgICAgICAkYmR1c3MgPSBcUmVxdWVzdDo6Y29va2llKCdCRFVTUycpOwogICAgICAgIGlmIChlbXB0eSgkYmR1c3MpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5zZXNzaW9uSW5mbygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBcUmVxdWVzdDo6Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2Vzc2lvbi0+Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -869,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PanoConf</last-search>
+      <last-search>sessionInfo</last-search>
       <last-offset />
-      <last-pattern>PanoConf</last-pattern>
+      <last-pattern>sessionInfo</last-pattern>
       <last-replace>; /</last-replace>
       <last-substitute encoding="base64">IC8=</last-substitute>
       <last-dir>1</last-dir>
@@ -879,14 +865,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geticv</entry>
-        <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
-        <entry>index</entry>
-        <entry>null</entry>
-        <entry>,</entry>
-        <entry>authser</entry>
-        <entry>pass</entry>
-        <entry>tap</entry>
         <entry>reque</entry>
         <entry>0x</entry>
         <entry encoding="base64">IC8=</entry>
@@ -899,6 +877,14 @@
         <entry>getuser</entry>
         <entry>panoconf</entry>
         <entry>PanoConf</entry>
+        <entry encoding="base64">XDxhT3B0aW9uXD4=</entry>
+        <entry>session</entry>
+        <entry>resolve</entry>
+        <entry>Session</entry>
+        <entry>Eloquent</entry>
+        <entry>Http</entry>
+        <entry encoding="base64">XDxwYXJzZV9zdHJcPg==</entry>
+        <entry>sessionInfo</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
