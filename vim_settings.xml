@@ -437,11 +437,11 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508898181441">
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508899162924">
         <mark key="'" line="221" column="26" />
-        <mark key="[" line="234" column="36" />
-        <mark key="]" line="235" column="15" />
-        <mark key="." line="235" column="15" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="." line="265" column="0" />
         <mark key="^" line="235" column="15" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/App.php" timestamp="1508397433915">
@@ -824,7 +824,7 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdFZhbGlkYXRlU2Vzc2lvbigpCiAgICB7CiAgICAgICAgJHNlc3Npb24gPSByZXNvbHZlKFBhc3NTZXNzaW9uOjpjbGFzcyk7CiAgICAgICAgJHNlc3Npb25JZCA9ICdXSXdhelo0T0hveVZtTnNSR2t4U2tGNmNpMXRhMUotUmxNeVMyNDJUekZHVW5kQlUxTkhma040YzJaeWVGcGhTVkZCUVVGQkpDUUFBQUFBQUFBQUFBRUFBQUQ1RUFtVlltRnBaSFZmZG5KZmRHVnpkQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCOGk3MWtmSXU5WkwnOwoKICAgICAgICBSZXF1ZXN0OjpzaG91bGRSZWNlaXZlKCdjb29raWUnKQogICAgICAgICAgICAtPm9uY2UoKQogICAgICAgICAgICAtPndpdGgoJ0JEVVNTJykKICAgICAgICAgICAgLT5hbmRSZXR1cm4oJHNlc3Npb25JZCk7CiAgICAgICAgUmVxdWVzdDo6c2hvdWxkUmVjZWl2ZSgnaXAnKQogICAgICAgICAgICAtPm9uY2UoKQogICAgICAgICAgICAtPmFuZFJldHVybignMTcyLjE4LjE4LjE1NycpOwoKICAgICAgICAkcmVzdWx0ID0gJHNlc3Npb24tPnZhbGlkYXRlU2Vzc2lvbigpOwogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHModHJ1ZSwgJHJlc3VsdCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -844,28 +844,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Vzc2lvbi0+c2hvdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRTZXNzaW9uKCRzZXNzaW9uSWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQXBwKCktPmVudmlyb25tZW50KCkgIT09ICdwcm9kdWN0aW9uJykgewogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gc2VsZjo6U1NOX1JTVEFUVVNfT0ssCiAgICAgICAgICAgICAgICAndWlkJyA9PiAxLAogICAgICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiAnb2snLAogICAgICAgICAgICBdOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NrCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkc2Vzc2lvbi0+c2hvdQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[]</text>
-      </register>
-      <register name="6" type="4">
-        <text>'username', $ssnInfo['username']</text>
-      </register>
-      <register name="7" type="4">
-        <text>[]</text>
-      </register>
       <register name="8" type="4">
-        <text>'account_type', User::ACCOUNT_TYPE_PASSPORT</text>
+        <text>[]</text>
       </register>
       <register name="9" type="4">
-        <text>[]</text>
+        <text>'username', $ssnInfo['username']</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
