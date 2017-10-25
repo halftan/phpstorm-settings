@@ -121,11 +121,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1508902426231">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1508925129807">
+        <mark key="'" line="57" column="55" />
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="55" />
+        <mark key="." line="57" column="55" />
+        <mark key="^" line="57" column="55" />
       </file>
       <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1508919325691">
         <mark key="'" line="4" column="12" />
@@ -759,8 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="39" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="89" column="4" filename="$USER_HOME$/git/adpano/config/ide-helper.php" />
       <jump line="11539" column="35" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
       <jump line="149" column="8" filename="$USER_HOME$/git/adpano/.phpstorm.meta.php" />
@@ -859,6 +858,8 @@
       <jump line="52" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" />
       <jump line="5" column="30" filename="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" />
       <jump line="4" column="12" filename="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" />
+      <jump line="35" column="62" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
+      <jump line="57" column="55" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -886,7 +887,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">JHBhbm9Db25mLT4sIFsnX2lkJyA9PiAkcGFub0NvbmYtPmFkX2lkXQ==</text>
       </register>
       <register name="/" type="4">
         <text>ing</text>
@@ -895,7 +896,7 @@
         <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBhdHRyaWJ1dGVzIHRoYXQgYXJlIG1hc3MgYXNzaWduYWJsZS4KICAgICAqCiAgICAgKiBAdmFyIGFycmF5CiAgICAgKi8KICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbCiAgICAgICAgJ3VzZXJuYW1lJywgJ2FjY291bnRfaWQnLCAnYWNjb3VudF90eXBlJywKICAgIF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnLCAnYWNjb3VudF9pZCcsICdhY2NvdW50X3R5cGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFub3JhbWE6OnF1ZXJ5KCktPmZpcnN0T3JGYWlsKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -915,28 +916,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAndXNlcm5hbWUnLCAnYWNjb3VudF9pZCcsICdhY2NvdW50X3R5cGUnLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEEgYmFzaWMgdGVzdCBleGFtcGxlLgogICAgICoK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAqIEEgYmFzaWMgdGVzdCBleGFtcGxlLgogICAgICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3duZXIoKS0+Cg==</text>
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
