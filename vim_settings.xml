@@ -118,11 +118,12 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1508989676957">
-        <mark key="'" line="121" column="36" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1508991471052">
+        <mark key="'" line="122" column="36" />
+        <mark key="[" line="86" column="70" />
+        <mark key="]" line="86" column="71" />
+        <mark key="." line="86" column="71" />
+        <mark key="^" line="86" column="72" />
       </file>
       <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1508928097122">
         <mark key="'" line="4" column="12" />
@@ -177,11 +178,11 @@
       <file name="$USER_HOME$/git/adpano/.phpstorm.meta.php" timestamp="1508833795879">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1508989576516">
+      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1508991498910">
         <mark key="'" line="126" column="4" />
-        <mark key="[" line="121" column="7" />
-        <mark key="]" line="122" column="16" />
-        <mark key="." line="122" column="16" />
+        <mark key="[" line="136" column="34" />
+        <mark key="]" line="136" column="35" />
+        <mark key="." line="136" column="35" />
         <mark key="^" line="122" column="16" />
       </file>
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1508927487954">
@@ -523,12 +524,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/User.php" timestamp="1508989283074">
+      <file name="$USER_HOME$/git/adpano/app/User.php" timestamp="1508991483055">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="62" column="4" />
-        <mark key="]" line="64" column="18" />
-        <mark key="." line="64" column="18" />
-        <mark key="^" line="64" column="18" />
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+        <mark key="^" line="80" column="7" />
       </file>
       <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1508903315442">
         <mark key="'" line="1" column="0" />
@@ -899,7 +900,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHBhbm9Db25mLT5vd25lciAhPSAkcmVxdWVzdC0+dXNlcigp</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text>unio</text>
@@ -908,7 +909,7 @@
         <text encoding="base64">ICAgICAgICAkb3RoZXJVc2VyID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpOwogICAgICAgICRvdGhlclBhbm8gPSBmYWN0b3J5KFBhbm9yYW1hOjpjbGFzcywgMiktPmNyZWF0ZShbJ3VzZXJfaWQnID0+ICRvdGhlclVzZXItPmlkXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmZhaWwoMSwgJ0hhdmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -928,28 +929,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb2RlJyA9PiAxLAogICAgICAgICAgICBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBwcm9wcmlhdGVBZElkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRwYW5vLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDMsIGNvdW50KCRyZXN1bHRbJ2RhdGEnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHBhbm8gaW5zdGFuY2VvZiBQYW5vcmFtYSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDUsIGNvdW50KCRyZXN1bHRbJ2RhdGEnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRwYW5vLT51c2VyX2lkID09PSAkdGhpcy0+aWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRyZXF1ZXN0LT51c2VyKCktPmlzQWRtaW4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKCktPmZhaWwoMSwgJ0hhdmUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb2RlJyA9PiAxLAogICAgICAgICAgICBdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZXIgPSAkcmVxdWVzdC0+dXNlcigpLT5wYW5vcygpLT5wYWdpbmF0ZShhYnMoJHJlcXVlc3QtPmlucHV0KCdsaW1pdCcsIDIwKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwcm9wcmlhdGVBZElkcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RXF1YWxzKDMsIGNvdW50KCRyZXN1bHRbJ2RhdGEnXSkpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
