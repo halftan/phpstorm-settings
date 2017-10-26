@@ -593,12 +593,11 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509008534425">
-        <mark key="'" line="107" column="34" />
-        <mark key="[" line="121" column="64" />
-        <mark key="]" line="123" column="28" />
-        <mark key="." line="123" column="28" />
-        <mark key="^" line="123" column="28" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509012097852">
+        <mark key="'" line="108" column="34" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -934,7 +933,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIoKS0+ZGVidWcoJ2ZhaWxlZCEnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb2sgPSBTdG9yYWdlOjpjb3B5KCRmaWxlcGF0aCwgJGRlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -960,22 +959,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRvayA9IFN0b3JhZ2U6OmNvcHkoJGZpbGVwYXRoLCAkZGVzdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXFN0b3JhZ2U6Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb2sgPSBTdG9yYWdlOjpjb3B5KCRmaWxlcGF0aCwgJGRlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3RvcmFnZSA9IHVyaV90b19zdG9yYWdlKCR1cmkpOwogICAgICAgICR0aGlzLT5hc3NlcnRTdHJpbmdTdGFydHNXaXRoKCdwdWJsaWMvcGFubycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvayA9IFN0b3JhZ2U6OmNvcHkoJGZpbGVwYXRoLCAkZGVzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBkYXRhUHJvdmlkZXIgaW1hZ2VQYXRocwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXFN0b3JhZ2U6Ogo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3RvcmFnZSA9IHVyaV90b19zdG9yYWdlKCR1cmkpOwogICAgICAgICR0aGlzLT5hc3NlcnRTdHJpbmdTdGFydHNXaXRoKCdwdWJsaWMvcGFubycpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
