@@ -51,12 +51,12 @@
         <mark key="." line="58" column="88" />
         <mark key="^" line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Support/helpers.php" timestamp="1509007520143">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="104" column="9" />
-        <mark key="." line="104" column="9" />
-        <mark key="^" line="104" column="9" />
+      <file name="$USER_HOME$/git/adpano/app/Support/helpers.php" timestamp="1509098285766">
+        <mark key="'" line="108" column="10" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="104" column="16" />
+        <mark key="." line="104" column="16" />
+        <mark key="^" line="104" column="16" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/Sdk/Legacy/SearchController.php" timestamp="1499833857583">
         <mark key="'" line="38" column="27" />
@@ -318,12 +318,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" timestamp="1509074416076">
+      <file name="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" timestamp="1509098305353">
         <mark key="'" line="18" column="38" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="33" column="64" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/services.php" timestamp="1496723548191">
         <mark key="'" line="2" column="0" />
@@ -798,7 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="137" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="183" column="53" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="171" column="28" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -898,6 +897,7 @@
       <jump line="53" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="143" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="385" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="104" column="10" filename="$USER_HOME$/git/adpano/app/Support/helpers.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
