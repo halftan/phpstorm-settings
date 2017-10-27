@@ -180,12 +180,12 @@
       <file name="$USER_HOME$/git/adpano/.phpstorm.meta.php" timestamp="1508833795879">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1509077070206">
-        <mark key="'" line="373" column="36" />
-        <mark key="[" line="373" column="2353" />
-        <mark key="]" line="373" column="2358" />
-        <mark key="^" line="373" column="2358" />
-        <mark key="." line="373" column="2358" />
+      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1509078582744">
+        <mark key="'" line="384" column="0" />
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="^" line="376" column="44" />
+        <mark key="." line="353" column="0" />
       </file>
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1508927487954">
         <mark key="'" line="97" column="35" />
@@ -594,11 +594,11 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509077043194">
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509078564318">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -798,13 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="86" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="104" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="117" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="149" column="33" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="119" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="137" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="183" column="53" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -898,6 +891,13 @@
       <jump line="372" column="687" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="126" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="373" column="36" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="104" column="31" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="97" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="140" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="377" column="45" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="53" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="143" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="385" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -910,23 +910,23 @@
       <register name="f" type="4">
         <text>@,</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlci0+dHlwZSA9IFVzZXI6OlVTRVJfVFlQRV9BRE1JTjsKICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhpcy0+dXNlci0+c2F2ZSgpKTsK</text>
+      <register name="*" type="4">
+        <text>()</text>
       </register>
       <register name="j" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>andReturn(true);</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>Other</text>
+        <text>group</text>
       </register>
-      <register name="0" type="4">
-        <text>11111111111111111111111111111111</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkaW1hZ2VzID0gY29sbGVjdChhcnJheV9mbGF0dGVuKCR0aGlzLT5jb25maWcpKS0+ZmlsdGVyKGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgaWYgKGlzX3N0cmluZygkdmFsdWUpID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBzdGFydHNfd2l0aCgkdmFsdWUsICcvc3RvcmFnZS9wYW5vLycpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -946,28 +946,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFuby0+Y29uZmlnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBcU3RvcmFnZTo6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2VuZXJhdGUgYSBuZXcgMzItY2hhciBhZF9pZAogICAgICAgICAgICAkaXRlbS0+YWRfaWQgPSBiaW4yaGV4KHJhbmRvbV9ieXRlcygxNikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkdmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydEpzb25GcmFnbWVudChbJ2NvZGUnID0+IDBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmFzc2VydEpzb25GcmFnbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SnNvblN0cmluZ0VxdWFsc0pzb25TdHJpbmcoCiAgICAgICAgICAgICd7Il9pZCI6IjU5ZTZkYmI4YmIyMmI3NTIxNTdmYjhjMyIsImlkIjoiMWFycGJkbXV0YzMiLCJ0aXRsZSI6InRlc3QxIiwiZm92IjoxMDAsIm1pbkZvdiI6MjAsIm1heEZvdiI6MTIwLCJkZXNjcmlwdGlvbiI6IiIsInRodW1iIjoicHVibGljL2FkLzExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExLzAyYTY4YTE0Zjc4ZDE5ZjQxMjY0ZDIwYWQ0MzExZDVjLnBuZyIsImxvZ28iOiIiLCJzY2VuZXMiOlt7ImlkIjoiMWFycGJlNjMyNHUiLCJ0aXRsZSI6IjEiLCJ0aHVtYiI6InB1YmxpYy9hZC8xMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMS8wMmE2OGExNGY3OGQxOWY0MTI2NGQyMGFkNDMxMWQ1Yy5wbmciLCJpbWFnZVNvdXJjZSI6InB1YmxpYy9hZC8xMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMS81YjlmNWIwMDA1MThhMWZmZWVkM2VjMjExNzJjZTMwNi5qcGVnIiwiZGVmYXVsdFRodW1iIjoicHVibGljL2FkLzExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExLzAyYTY4YTE0Zjc4ZDE5ZjQxMjY0ZDIwYWQ0MzExZDVjLnBuZyIsImZvdiI6MTAwLCJtaW5Gb3YiOjIwLCJtYXhGb3YiOjEyMCwic3BvdHMiOlt7ImltYWdlIjoicHVibGljL2FkLzExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExLzdhMjM3MDdlMzkzNDcwYWNmOGRjM2E4Zjc5NDAyYzZjLmpwZWciLCJ0aXRsZSI6IuaWueWQkeebmCIsImRlc2MiOiLmgbbpo47liqDnj63otLnogonnsbvliqDlt6XooqvmlLvlh7vnrKzkuInmlrnnmoTpn6nlm73ku6PotK3pgJLkuobov4fmnaXotL7ojIPlvrfokKjlj5HmkpLkuL3pg73ppa3lupfoiJLmnI3nmoTlvojlpJrkuI3or7Tkuoblk4jpo47liIDpnJzliZHmsJvlm7TonILoirHnsokiLCJwb3NpdGlvbiI6Wy03LjIzNjM1MjA2MjkzOTQsLTcuNDE5MjgyMjg1NTU1OCwxMF0sImljb25DbGFzcyI6InNwb3RzLTMiLCJhY3Rpb24iOjEsImlkIjoiMWFycGdtNTYzajgifSx7InRpdGxlIjoi5ZCO5aSH566xIiwidGl0bGVUeXBlIjoxLCJ0YXJnZXQiOiIxYXJwYmVlZmFxOCIsImRlc2MiOiIiLCJ4IjowLCJ5IjowLCJpY29uQ2xhc3MiOiJzcG90cy0yIiwicG9zaXRpb24iOlsyLjg5OTIxOTM1MjkzOSwtNi4wMDAxNzY0Njk1NzAyLDEwXSwic2VsZWN0ZWQiOiIiLCJhY3Rpb24iOjAsImlkIjoiMWFycGhrYWZsZm8ifSx7ImltYWdlIjoicHVibGljL2FkLzExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExLzlhN2YzMjJiYzFmNmUyODlhMmUyNDk0ZWQxNzIxOWRkLmpwZWciLCJ0aXRsZSI6InNoZHNmIiwiZGVzYyI6ImRmZGZoZGhkc2poIHNmZHN1ZmhzZHVpZmgg5aW95qC355qE6Iqx6LS55aSa5bCR57mB5Y2O6YO95biC5Y+R5Yqo5py65Y+R6LSn55qEc2hka3NoZmtkc2hmZGhraiBzamRzaGZka3NoZmsgc2RzZGgg6YW46L6j57KJ6L+H5q615pe26Ze05Y+R5pS26LS555qE6IKh5Lu9IiwicG9zaXRpb24iOlswLDAsMTBdLCJpY29uQ2xhc3MiOiJzcG90cy0zIiwiYWN0aW9uIjoxLCJpZCI6IjFhcnVtZzRhZHYxIn0seyJpbWFnZSI6InB1YmxpYy9hZC8xMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMS85YTdmMzIyYmMxZjZlMjg5YTJlMjQ5NGVkMTcyMTlkZC5qcGVnIiwidGl0bGUiOiLnqbrosIMiLCJkZXNjIjoiIiwicG9zaXRpb24iOls0ODkuOTgyMDU0MDkzMjgsLTk3LjYzMDU3OTA5MzMyNywtOS45NzMwNjI3MTU5OTldLCJpY29uQ2xhc3MiOiJzcG90cy0zIiwiYWN0aW9uIjoxLCJpZCI6IjFhc2RwZDVrZmdrIn1dLCJ2YWxpZCI6dHJ1ZSwiaG9yaXpvbnRhbE9mZnNldCI6MjAsInZlcnRpY2FsT2Zmc2V0IjoyMH0seyJpZCI6IjFhcnBiZWVmYXE4IiwidGl0bGUiOiIyIiwidGh1bWIiOiJwdWJsaWMvYWQvMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEvODk5OTdhMTExMGZiNWVhYzVlZGY1MWVmNzRlYzA3MzMucG5nIiwiaW1hZ2VTb3VyY2UiOiJwdWJsaWMvYWQvMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEvNjcyOWViNTExOGVlMzJhYjE4NGJkZjcyZWU2MWQyZTEuanBlZyIsImRlZmF1bHRUaHVtYiI6InB1YmxpYy9hZC8xMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMS84OTk5N2ExMTEwZmI1ZWFjNWVkZjUxZWY3NGVjMDczMy5wbmciLCJmb3YiOjEwMCwibWluRm92IjoyMCwibWF4Rm92IjoxMjAsInNwb3RzIjpbXSwidmFsaWQiOnRydWUsImhvcml6b250YWxPZmZzZXQiOjIwLCJ2ZXJ0aWNhbE9mZnNldCI6MjB9LHsiaWQiOiIxYXJwYmVuOGprcSIsInRpdGxlIjoi5rWL6K+V6L6D6ZW/5LitIiwidGh1bWIiOiJwdWJsaWMvYWQvMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEvNzg4ZTczMGFmOGU0YjcyZWU1ZTdiZWNiOTdhYzQ1ZTYucG5nIiwiaW1hZ2VTb3VyY2UiOiJwdWJsaWMvYWQvMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTEvNjJjZDhmYjlkMTU3OWMxYjhhYTg4YzVlODY4YmQ2ZDkuanBlZyIsImRlZmF1bHRUaHVtYiI6InB1YmxpYy9hZC8xMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMS83ODhlNzMwYWY4ZTRiNzJlZTVlN2JlY2I5N2FjNDVlNi5wbmciLCJmb3YiOjEwMCwibWluRm92IjoyMCwibWF4Rm92IjoxMjAsInNwb3RzIjpbXSwidmFsaWQiOnRydWUsImhvcml6b250YWxPZmZzZXQiOjIwLCJ2ZXJ0aWNhbE9mZnNldCI6MjB9XSwiYXV0b1Jlc2V0VmVydGljYWwiOmZhbHNlLCJmb3ZBbmltYXRpb24iOmZhbHNlLCJmb3ZBbmltYXRpb25EdXJhdGlvbiI6MzAwMCwic2hvd1RodW1iU2NlbmVTZWxlY3RvciI6ZmFsc2UsInVwZGF0ZWRfYXQiOiIyMDE3LTEwLTI2IDE1OjUwOjQ5IiwiY3JlYXRlZF9hdCI6IjIwMTctMTAtMTggMTI6NDI6MzIiLCJzdGFydFNjZW5lSWQiOiIxYXJwYmU2MzI0dSIsImNvbnRhaW5lciI6InBhbm9DYW52YXMifScsCiAgICAgICAgICAgICRwYW5vLT5yYXdfY29uZmlnCiAgICAgICAgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -977,9 +977,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Other</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>Other</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -987,8 +987,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toArray</entry>
-        <entry>toarray</entry>
         <entry>clone</entry>
         <entry>cast</entry>
         <entry>casts</entry>
@@ -1005,8 +1003,10 @@
         <entry>unex</entry>
         <entry>admin</entry>
         <entry>Others</entry>
-        <entry>group</entry>
         <entry>Other</entry>
+        <entry>dd</entry>
+        <entry>dump</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
