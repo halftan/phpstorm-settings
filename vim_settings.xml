@@ -266,6 +266,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/git/adpano/app/Providers/PassportServiceProvider.php" timestamp="1508844487604">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/SyncLiveStreamCli.php" timestamp="1502333184468">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="25" />
@@ -392,11 +398,11 @@
         <mark key="." line="223" column="14" />
         <mark key="^" line="223" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/config/filesystems.php" timestamp="1509331291061">
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="73" />
-        <mark key="^" line="68" column="73" />
-        <mark key="." line="68" column="73" />
+      <file name="$USER_HOME$/git/adpano/config/filesystems.php" timestamp="1509334678634">
+        <mark key="[" line="65" column="89" />
+        <mark key="]" line="65" column="92" />
+        <mark key="^" line="65" column="92" />
+        <mark key="." line="65" column="92" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/VideoStat.php" timestamp="1505292508633">
         <mark key="'" line="40" column="48" />
@@ -600,8 +606,8 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509332868488">
-        <mark key="'" line="74" column="32" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509335076962">
+        <mark key="'" line="111" column="8" />
         <mark key="[" line="96" column="9" />
         <mark key="]" line="97" column="7" />
         <mark key="." line="97" column="7" />
@@ -769,6 +775,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1508902265065">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+      </file>
       <file name="$USER_HOME$/git/panoconf/app/User.php" timestamp="1508397383350">
         <mark key="'" line="8" column="55" />
         <mark key="[" line="24" column="0" />
@@ -805,7 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="742" column="20" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="1749" column="17" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="1753" column="37" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="223" column="29" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -905,6 +916,7 @@
       <jump line="51" column="42" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="52" column="23" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="80" column="32" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="111" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -924,13 +936,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>comarch</text>
       </register>
       <register name="/" type="4">
         <text>ad_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaW1hZ2VzID0gY29sbGVjdChhcnJheV9mbGF0dGVuKCR0aGlzLT5jb25maWcpKS0+ZmlsdGVyKGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgaWYgKGlzX3N0cmluZygkdmFsdWUpID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBzdGFydHNfd2l0aCgkdmFsdWUsICcvc3RvcmFnZS9wYW5vLycpOwogICAgICAgIH0pOwo=</text>
+      <register name="0" type="4">
+        <text>env('PANO_CDN_PATH', '/home/work/web_uploads/uploads/dl/heicha/comarch')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2F2aW5nJyk7Cg==</text>
