@@ -600,12 +600,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509332112228">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="54" column="29" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="23" />
-        <mark key="^" line="55" column="23" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509332868488">
+        <mark key="'" line="74" column="32" />
+        <mark key="[" line="96" column="9" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -805,17 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="183" column="53" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="171" column="28" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="151" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="168" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="155" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="190" column="70" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="191" column="29" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="32" column="12" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="114" column="36" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
-      <jump line="7" column="37" filename="$USER_HOME$/git/adpano/database/factories/PanoramaFactory.php" />
       <jump line="742" column="20" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="1749" column="17" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="1753" column="37" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
@@ -875,7 +864,6 @@
       <jump line="194" column="27" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="127" column="30" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="94" column="30" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="95" column="34" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Support/helpers.php" />
       <jump line="105" column="34" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="189" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -899,12 +887,24 @@
       <jump line="373" column="36" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="104" column="31" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="97" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="140" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="377" column="45" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="53" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="385" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="104" column="10" filename="$USER_HOME$/git/adpano/app/Support/helpers.php" />
+      <jump line="122" column="16" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="143" column="31" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="103" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="140" column="61" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="113" column="49" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="102" column="24" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="101" column="29" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="100" column="25" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="95" column="52" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="15" column="21" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="50" column="29" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="51" column="42" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="52" column="23" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="80" column="32" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -927,13 +927,13 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>ad_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaW1hZ2VzID0gY29sbGVjdChhcnJheV9mbGF0dGVuKCR0aGlzLT5jb25maWcpKS0+ZmlsdGVyKGZ1bmN0aW9uICgkdmFsdWUpIHsKICAgICAgICAgICAgaWYgKGlzX3N0cmluZygkdmFsdWUpID09PSBmYWxzZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBzdGFydHNfd2l0aCgkdmFsdWUsICcvc3RvcmFnZS9wYW5vLycpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2F2aW5nJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,28 +953,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc3RhdGljOjpjcmVhdGluZyhmdW5jdGlvbiAoUGFub3JhbWEgJGl0ZW0pIHsKICAgICAgICAgICAgZHVtcCgnY3JlYXRpbmcnKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9rID0gJGl0ZW0tPm9yZ2FuaXplRmlsZXMoKTsKCiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRpdGVtLT5hZF9pZCkpIHsKICAgICAgICAgICAgICAgIC8vIGdlbmVyYXRlIGEgbmV3IDMyLWNoYXIgYWRfaWQKICAgICAgICAgICAgICAgICRpdGVtLT5hZF9pZCA9IGJpbjJoZXgocmFuZG9tX2J5dGVzKDE2KSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9rID0gJGl0ZW0tPm9yZ2FuaXplRmlsZXMoKTsKCiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2VuZXJhdGUgYSBuZXcgMzItY2hhciBhZF9pZAogICAgICAgICAgICAkaXRlbS0+YWRfaWQgPSBiaW4yaGV4KHJhbmRvbV9ieXRlcygxNikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -984,9 +984,9 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>ad_id</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>ad_id</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -994,7 +994,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clone</entry>
         <entry>cast</entry>
         <entry>casts</entry>
         <entry>ing</entry>
@@ -1014,6 +1013,7 @@
         <entry>dd</entry>
         <entry>dump</entry>
         <entry>group</entry>
+        <entry>ad_id</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
