@@ -180,12 +180,12 @@
       <file name="$USER_HOME$/git/adpano/.phpstorm.meta.php" timestamp="1508833795879">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1509078582744">
-        <mark key="'" line="384" column="0" />
-        <mark key="[" line="353" column="0" />
-        <mark key="]" line="353" column="0" />
-        <mark key="^" line="376" column="44" />
-        <mark key="." line="353" column="0" />
+      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1509357998385">
+        <mark key="'" line="160" column="4" />
+        <mark key="[" line="371" column="19" />
+        <mark key="]" line="371" column="18" />
+        <mark key="." line="371" column="18" />
+        <mark key="^" line="371" column="18" />
       </file>
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1508927487954">
         <mark key="'" line="97" column="35" />
@@ -606,12 +606,11 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509352243134">
-        <mark key="'" line="111" column="8" />
-        <mark key="[" line="111" column="27" />
-        <mark key="]" line="111" column="49" />
-        <mark key="." line="111" column="49" />
-        <mark key="^" line="111" column="49" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509357321844">
+        <mark key="'" line="134" column="16" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -817,7 +816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1749" column="17" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="1753" column="37" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
       <jump line="223" column="29" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="1722" column="23" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
@@ -829,7 +827,6 @@
       <jump line="235" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="125" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="232" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="160" column="5" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="158" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="249" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="122" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -917,6 +914,8 @@
       <jump line="52" column="23" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="80" column="32" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="111" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="134" column="16" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="160" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -936,16 +935,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3B1YmxpYy9hZC8nIC4gJHRoaXMtPmFkX2lkIC4gJy8n</text>
+        <text>FilesystemAdapter::url($arg)</text>
       </register>
       <register name="/" type="4">
         <text>ad_id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGVzdGluYXRpb25QYXRoID0gJ3B1YmxpYy9hZC8nIC4gJHRoaXMtPmFkX2lkIC4gJy8nOwo=</text>
+      <register name="0" type="4">
+        <text>11111111111111111111111111111111</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpzaG91bGRSZWNlaXZlKCd1cmwnKQogICAgICAgICAgICAtPmF0TGVhc3QoMSkKICAgICAgICAgICAgLT5hbmRSZXR1cm4oJy9zdG9yYWdlL2FkLzExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -965,28 +964,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2F2aW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpzaG91bGRSZWNlaXZlKCktPmFuZHJldHVybmsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RhdGljOjpjcmVhdGluZyhmdW5jdGlvbiAoUGFub3JhbWEgJGl0ZW0pIHsKICAgICAgICAgICAgZHVtcCgnY3JlYXRpbmcnKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RvcmFnZTo6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRpdGVtLT5hZF9pZCkpIHsKICAgICAgICAgICAgICAgIC8vIGdlbmVyYXRlIGEgbmV3IDMyLWNoYXIgYWRfaWQKICAgICAgICAgICAgICAgICRpdGVtLT5hZF9pZCA9IGJpbjJoZXgocmFuZG9tX2J5dGVzKDE2KSk7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2F2aW5nJyk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9rID0gJGl0ZW0tPm9yZ2FuaXplRmlsZXMoKTsKCiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgc3RhdGljOjpjcmVhdGluZyhmdW5jdGlvbiAoUGFub3JhbWEgJGl0ZW0pIHsKICAgICAgICAgICAgZHVtcCgnY3JlYXRpbmcnKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVtcHR5KCRpdGVtLT5hZF9pZCkpIHsKICAgICAgICAgICAgICAgIC8vIGdlbmVyYXRlIGEgbmV3IDMyLWNoYXIgYWRfaWQKICAgICAgICAgICAgICAgICRpdGVtLT5hZF9pZCA9IGJpbjJoZXgocmFuZG9tX2J5dGVzKDE2KSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJHZhbHVlKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiAkb2s7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
