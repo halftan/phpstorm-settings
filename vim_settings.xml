@@ -438,12 +438,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509517163971">
-        <mark key="'" line="13" column="63" />
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509526576668">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="54" />
+        <mark key="." line="28" column="54" />
+        <mark key="^" line="28" column="54" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Logic/Constant.php" timestamp="1505387137594">
         <mark key="'" line="21" column="27" />
@@ -531,11 +531,12 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1508901612340">
-        <mark key="'" line="278" column="35" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1509525859685">
+        <mark key="'" line="54" column="48" />
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="56" />
+        <mark key="." line="54" column="56" />
+        <mark key="^" line="54" column="56" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/App.php" timestamp="1508397433915">
         <mark key="[" line="8" column="0" />
@@ -563,12 +564,10 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1509517158280">
-        <mark key="'" line="105" column="22" />
-        <mark key="[" line="106" column="39" />
-        <mark key="]" line="106" column="39" />
-        <mark key="." line="106" column="39" />
-        <mark key="^" line="106" column="39" />
+      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1509526465183">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="102" column="3" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/git/adpano/database/migrations/2017_10_17_181333_CreateUserTable.php" timestamp="1508902101684">
         <mark key="[" line="21" column="32" />
@@ -662,6 +661,12 @@
         <mark key="]" line="30" column="22" />
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" timestamp="1509526372119">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="39" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="36" column="39" />
       </file>
       <file name="$USER_HOME$/git/adpano/tests/CreatesApplication.php" timestamp="1508926878032">
         <mark key="[" line="17" column="0" />
@@ -817,9 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="30" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="94" column="30" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Support/helpers.php" />
       <jump line="105" column="34" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="189" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="141" column="34" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -910,13 +912,16 @@
       <jump line="100" column="22" filename="$USER_HOME$/git/adpano/routes/web.php" />
       <jump line="101" column="31" filename="$USER_HOME$/git/adpano/routes/web.php" />
       <jump line="104" column="31" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="105" column="22" filename="$USER_HOME$/git/adpano/routes/web.php" />
       <jump line="13" column="63" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
       <jump line="133" column="12" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
       <jump line="24" column="55" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
       <jump line="20" column="5" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
       <jump line="26" column="40" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
       <jump line="24" column="31" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
+      <jump line="54" column="48" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/git/adpano/routes/web.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
+      <jump line="5" column="12" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -936,7 +941,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>UserController@authenticate</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -944,8 +949,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHBhZ2VyID0gUGFub3JhbWE6OnBhZ2luYXRlKGFicygkcmVxdWVzdC0+aW5wdXQoJ2xpbWl0JywgMjApKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -964,29 +969,29 @@
           <key char="48" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdkYXRhJyksIHRydWU=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="4" type="4">
-        <text>()</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdsaW1pdCcsIDIwKQ==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgJHJlcXVlc3QKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHVwZGF0ZShVc2VyICR1c2VyLCBSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBVc2Vyamtka2prCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ClJvdXRlOjpwb3N0KCcvY21zL2NsaWVudCcsIFsKICAgICdhcycgPT4gJ2Ntcy5jbGllbnQuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnQ2xpZW50Q29udHJvbGxlckBjcmVhdGUnLApdKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>()</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JHJlcXVlc3QtPmlucHV0KCdkYXRhJyksIHRydWU=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClJvdXRlOjpyZXNvdXJjZSgnY21zdXNlcicsICdDbXNVc2VyQ29udHJvbGxlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
