@@ -647,12 +647,12 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" timestamp="1509595117521">
-        <mark key="'" line="56" column="35" />
-        <mark key="[" line="62" column="36" />
-        <mark key="]" line="62" column="57" />
-        <mark key="." line="62" column="57" />
-        <mark key="^" line="62" column="57" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" timestamp="1509595160837">
+        <mark key="'" line="62" column="35" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/git/adpano/_ide_helper.php" timestamp="1508833696604">
         <mark key="'" line="11559" column="35" />
