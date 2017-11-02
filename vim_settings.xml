@@ -128,12 +128,11 @@
         <mark key="." line="24" column="43" />
         <mark key="^" line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1508928097122">
+      <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1509617394340">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="30" column="54" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1502790166262">
         <mark key="'" line="114" column="0" />
@@ -427,12 +426,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509612429096">
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509617224681">
         <mark key="'" line="40" column="65" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="31" column="7" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Logic/Constant.php" timestamp="1505387137594">
         <mark key="'" line="21" column="27" />
@@ -646,7 +644,7 @@
         <mark key="." line="55" column="64" />
         <mark key="^" line="55" column="64" />
       </file>
-      <file name="/PHP Console" timestamp="1509610873460">
+      <file name="/PHP Console" timestamp="1509617262278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/crappy/resources/lang/zh/form.php" timestamp="1505210032034">
@@ -916,16 +914,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'HalFtaN'</text>
+        <text>request</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
       </register>
-      <register name="0" type="4">
-        <text>sprintf('%s%s', $ts, 'vrwebapi.baidu.com')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnMScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE86IHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -945,28 +943,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGJkdWlkKSkgewogICAgICAgICAgICAvLyBpbnZhbGlkIHBhcmFtCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnMScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcm5hbWUgPSAkcmVxdWVzdC0+aW5wdXQoJ3VzZXJuYW1lJywgJycpOwogICAgICAgIGlmIChlbXB0eSgkYmR1aWQpKSB7CiAgICAgICAgICAgIC8vIGludmFsaWQgcGFyYW0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzInKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnYWRzZicpO2V4aXQoMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcC0+Cg==</text>
+        <text encoding="base64">ICAgICAqIFRPRE86IHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+anNvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGJkdWlkKSkgewogICAgICAgICAgICAvLyBpbnZhbGlkIHBhcmFtCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+c3VjY2VzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlcm5hbWUgPSAkcmVxdWVzdC0+aW5wdXQoJ3VzZXJuYW1lJywgJycpOwogICAgICAgIGlmIChlbXB0eSgkYmR1aWQpKSB7CiAgICAgICAgICAgIC8vIGludmFsaWQgcGFyYW0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>()</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHJlc3AtPmdldEJvZHkoKS0+Z2V0Q29udGVudHMoKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVzcC0+Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
