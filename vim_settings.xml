@@ -520,10 +520,10 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1509594128293">
-        <mark key="'" line="222" column="11" />
-        <mark key="[" line="226" column="29" />
-        <mark key="]" line="226" column="39" />
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1509605102918">
+        <mark key="'" line="226" column="40" />
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="97" />
         <mark key="." line="226" column="39" />
         <mark key="^" line="226" column="39" />
       </file>
@@ -859,7 +859,6 @@
       <jump line="72" column="8" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="125" column="53" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="133" column="27" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="226" column="29" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="342" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="120" column="24" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="325" column="38" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
@@ -885,6 +884,7 @@
       <jump line="29" column="32" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
       <jump line="51" column="81" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
       <jump line="56" column="35" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
+      <jump line="226" column="40" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -910,7 +910,7 @@
         <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFjdCA9ICRyZXF1ZXN0LT5pbnB1dCgnbmFtZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IHVucGFjaygnVnVzZXJpZGhpZ2hlci9OaXAvVnVzZXJpZGxvd2VyL2E2NHVzZXJuYW1lJywgc3Vic3RyKCRzZXNzaW9uSWQsIDYwLCAtOCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAkdXNlci0+Y29udGEK</text>
