@@ -564,11 +564,11 @@
         <mark key="." line="85" column="10" />
         <mark key="^" line="85" column="10" />
       </file>
-      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1509611211974">
-        <mark key="[" line="112" column="32" />
-        <mark key="]" line="112" column="36" />
-        <mark key="." line="112" column="36" />
-        <mark key="^" line="112" column="36" />
+      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1509953077361">
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="17" />
+        <mark key="." line="104" column="17" />
+        <mark key="^" line="104" column="17" />
       </file>
       <file name="$USER_HOME$/git/adpano/database/migrations/2017_10_17_181333_CreateUserTable.php" timestamp="1508902101684">
         <mark key="[" line="21" column="32" />
@@ -913,7 +913,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>aSession</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwbGF5bmFtZVw+</text>
