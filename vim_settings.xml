@@ -609,11 +609,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1509593480516">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="53" />
-        <mark key="." line="181" column="121" />
-        <mark key="^" line="181" column="121" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510040105861">
+        <mark key="'" line="73" column="51" />
+        <mark key="[" line="73" column="52" />
+        <mark key="]" line="73" column="62" />
+        <mark key="^" line="73" column="62" />
+        <mark key="." line="73" column="62" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -794,7 +795,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="134" column="16" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="160" column="4" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="158" column="19" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
@@ -894,6 +894,7 @@
       <jump line="234" column="40" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="86" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="41" column="4" filename="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" />
+      <jump line="73" column="51" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -913,16 +914,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXNwbGF5bmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNoYXJzZXQgPSBtYl9kZXRlY3RfZW5jb2RpbmcoJGFTZXNzaW9uWydkaXNwbGF5bmFtZSddLCAnVVRGLTgsIENQOTM2Jyk7CiAgICAgICAgICAgIGlmICgkY2hhcnNldCA9PT0gJ0NQOTM2JykgewogICAgICAgICAgICAgICAgJGRpc3BsYXluYW1lID0gaWNvbnYoJGNoYXJzZXQsICdVVEYtOCcsICRhU2Vzc2lvblsnZGlzcGxheW5hbWUnXSk7CiAgICAgICAgICAgICAgICAkYVNlc3Npb25bJ2Rpc3BsYXluYW1lJ10gPSAkZGlzcGxheW5hbWU7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICR0aGlzLT5tYWtlSGlkZGVuKCdpZCcsICd1c2VyX2lkJyk7CiAgICAgICAgJGRhdGFbJ2NvbmZpZyddWydpZCddID0gJGRhdGFbJ2FkX2lkJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICB1bnNldCgkZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -942,28 +943,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnX2lkJ10gPSAkZGF0YVsnYWRfaWQnXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmNvbmZpZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNoYXJzZXQgPSBtYl9kZXRlY3RfZW5jb2RpbmcoJGFTZXNzaW9uWydkaXNwbGF5bmFtZSddLCAnVVRGLTgsIENQOTM2Jyk7CiAgICAgICAgICAgIGlmICgkY2hhcnNldCA9PT0gJ0NQOTM2JykgewogICAgICAgICAgICAgICAgJGRpc3BsYXluYW1lID0gaWNvbnYoJGNoYXJzZXQsICdVVEYtOCcsICRhU2Vzc2lvblsnZGlzcGxheW5hbWUnXSk7CiAgICAgICAgICAgICAgICAkYVNlc3Npb25bJ2Rpc3BsYXluYW1lJ10gPSAkZGlzcGxheW5hbWU7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmNvbmZpZzsKICAgICAgICAkY29uZmlnWydfaWQnXSA9ICR0aGlzLT5hZF9pZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGljb252Owo=</text>
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkYVNlc3Npb25bJ2Rpc3BsYXluYW1lJ10gPSAkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGNoYXJzZXQgPSBtYl9kZXRlY3RfZW5jb2RpbmcoJGFTZXNzaW9uWydkaXNwbGF5bmFtZSddLCAnVVRGLTgsIENQOTM2Jyk7CiAgICAgICAgICAgIGlmICgkY2hhcnNldCA9PT0gJ0NQOTM2JykgewogICAgICAgICAgICAgICAgJGRpc3BsYXluYW1lID0gaWNvbnYoJGNoYXJzZXQsICdVVEYtOCcsICRhU2Vzc2lvblsnZGlzcGxheW5hbWUnXSk7CiAgICAgICAgICAgICAgICAkYVNlc3Npb25bJ2Rpc3BsYXluYW1lJ10gPSAkZGlzcGxheW5hbWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGljb252Owo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
