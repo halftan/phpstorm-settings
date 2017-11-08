@@ -65,6 +65,9 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" timestamp="1510112225890">
+        <mark key="'" line="453" column="83" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/BaseModel.php" timestamp="1496229319561">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -516,8 +519,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1508897670199">
-        <mark key="'" line="495" column="20" />
+      <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1510111985304">
+        <mark key="'" line="61" column="61" />
         <mark key="[" line="434" column="15" />
         <mark key="]" line="434" column="23" />
         <mark key="." line="434" column="23" />
@@ -803,20 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="40" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="162" column="28" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="110" column="13" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="113" column="66" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="139" column="17" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="145" column="67" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="149" column="21" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="150" column="30" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="356" column="37" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="146" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="143" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="212" column="39" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="184" column="22" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="419" column="90" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="183" column="52" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="233" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="203" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
@@ -903,6 +892,20 @@
       <jump line="151" column="7" filename="$USER_HOME$/git/adpano/readme.md" />
       <jump line="168" column="33" filename="$USER_HOME$/git/adpano/readme.md" />
       <jump line="170" column="36" filename="$USER_HOME$/git/adpano/readme.md" />
+      <jump line="173" column="14" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="61" column="61" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Http/Request.php" />
+      <jump line="314" column="27" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1939" column="8" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1826" column="47" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1816" column="43" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1818" column="51" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1822" column="40" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1889" column="16" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="1943" column="46" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="247" column="93" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="265" column="93" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="359" column="17" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
+      <jump line="453" column="83" filename="$USER_HOME$/git/adpano/vendor/symfony/http-foundation/Request.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -925,7 +928,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWRkbGV3YXJlXD4=</text>
+        <text>PATH_INFO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q0ROX0FSQ0hJVkVfUFJFRklYPWh0dHA6Ly9zY2xvdWQtZGxzdy5ici5iYWlkdS5jb20vcGFuby9jb21hcmNoLwo=</text>
@@ -982,9 +985,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWRkbGV3YXJlXD4=</last-search>
+      <last-search>PATH_INFO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWRkbGV3YXJlXD4=</last-pattern>
+      <last-pattern>PATH_INFO</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmxBcmNoaXZlUGF0aFw+</entry>
         <entry>url</entry>
         <entry>group</entry>
         <entry>_panoconf</entry>
@@ -1012,6 +1014,7 @@
         <entry encoding="base64">XDxkaXNwbGF5bmFtZVw+</entry>
         <entry>publish</entry>
         <entry encoding="base64">XDxtaWRkbGV3YXJlXD4=</entry>
+        <entry>PATH_INFO</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
