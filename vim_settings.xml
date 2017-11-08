@@ -121,11 +121,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1509593805049">
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" timestamp="1510107467241">
         <mark key="'" line="24" column="55" />
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1509617394340">
@@ -931,7 +931,7 @@
         <text encoding="base64">Q0ROX0FSQ0hJVkVfUFJFRklYPWh0dHA6Ly9zY2xvdWQtZGxzdy5ici5iYWlkdS5jb20vcGFuby9jb21hcmNoLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -951,28 +951,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">55So5oi35b+F6aG75Li6IuacquaOiOadgyLnirbmgIEgYHR5cGUgPSAwYCDvvIzlkKbliJnlsIbov5Tlm54gNDAzIOmUmeivrwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">55So5oi35b+F6aG75Li6IuacquaOiOadgyLnirbmgIEgYHR5cGUgPSAwYCDvvIzlkKbliJnlsIbov5Tlm54gNDAzIOmUmeivrwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFuby0+ZXhwb3J0QXJjaGl2ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFuby0+ZXhwb3J0QXJjaGl2ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZWRpcmVjdFJlc3BvbnNlfFxJbGx1bWluYXRlXFJvdXRpbmdcUmVkaXJlY3Rvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClJvdXRlOjpwb3N0KCcvcGFub2NvbmYve3Bhbm9yYW1hfS9wdWJsaXNoJywgWwogICAgJ2FzJyA9PiAncGFub2NvbmYucHVibGlzaCcsCiAgICAndXNlcycKXSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZWRpcmVjdFJlc3BvbnNlfFxJbGx1bWluYXRlXFJvdXRpbmdcUmVkaXJlY3Rvcgo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
