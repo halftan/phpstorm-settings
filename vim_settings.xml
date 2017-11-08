@@ -21,9 +21,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1509007556778">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/adpano/app/Providers/MacroServiceProvider.php" timestamp="1508821098414">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="24" column="0" />
@@ -131,11 +128,12 @@
         <mark key="." line="126" column="75" />
         <mark key="^" line="126" column="75" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1509617394340">
+      <file name="$USER_HOME$/git/adpano/tests/Unit/ModelRelationTest.php" timestamp="1510126788819">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+        <mark key="^" line="6" column="70" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/config/dev/conf.php" timestamp="1502790166262">
         <mark key="'" line="114" column="0" />
@@ -190,12 +188,12 @@
       <file name="$USER_HOME$/git/adpano/.phpstorm.meta.php" timestamp="1508833795879">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1509594028881">
-        <mark key="'" line="422" column="12" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="^" line="424" column="74" />
-        <mark key="." line="424" column="0" />
+      <file name="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" timestamp="1510126825254">
+        <mark key="'" line="392" column="6" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="55" />
       </file>
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1508927487954">
         <mark key="'" line="97" column="35" />
@@ -203,11 +201,14 @@
         <mark key="]" line="425" column="0" />
         <mark key="." line="425" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/HomePageTest.php" timestamp="1508903491280">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
+      <file name="$USER_HOME$/git/adpano/tests/Feature/HomePageTest.php" timestamp="1510126831924">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/config/database.php" timestamp="1510126532794">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/MovieFlow.php" timestamp="1500979311387">
         <mark key="[" line="13" column="37" />
@@ -227,12 +228,12 @@
         <mark key="^" line="18" column="46" />
         <mark key="." line="18" column="46" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" timestamp="1508916433638">
+      <file name="$USER_HOME$/git/adpano/tests/Feature/AuthenticateTest.php" timestamp="1510126842518">
         <mark key="'" line="5" column="30" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="10" column="3" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+        <mark key="^" line="5" column="55" />
       </file>
       <file name="$USER_HOME$/git/panoconf/config/database.php" timestamp="1508236080014">
         <mark key="[" line="75" column="49" />
@@ -308,8 +309,11 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="/a.sql" timestamp="1508396303932">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Console/Kernel.php" timestamp="1510126979551">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/BaseController.php" timestamp="1496888824031">
         <mark key="[" line="5" column="25" />
@@ -337,11 +341,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" timestamp="1509950023223">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" timestamp="1510126711725">
+        <mark key="'" line="33" column="44" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="33" column="43" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/services.php" timestamp="1496723548191">
         <mark key="'" line="2" column="0" />
@@ -376,17 +381,33 @@
         <mark key="." line="57" column="83" />
         <mark key="^" line="57" column="83" />
       </file>
+      <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php" timestamp="1508750537250">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Model/Dark/MovieFlowHc.php" timestamp="1501573525528">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" timestamp="1509594135265">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" timestamp="1510126812477">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/app/Http/Middleware/AuthenticateUser.php" timestamp="1508751275295">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php" timestamp="1508927921833">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/v1/MovieController.php" timestamp="1506570662396">
         <mark key="'" line="49" column="36" />
@@ -448,11 +469,11 @@
         <mark key="^" line="31" column="60" />
         <mark key="." line="31" column="60" />
       </file>
-      <file name="$USER_HOME$/git/adpano/.env" timestamp="1510043805711">
-        <mark key="'" line="28" column="17" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+      <file name="$USER_HOME$/git/adpano/.env" timestamp="1510125945910">
+        <mark key="'" line="35" column="31" />
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
         <mark key="^" line="36" column="63" />
       </file>
       <file name="$USER_HOME$/git/crappy/routes/web.php" timestamp="1505210398137">
@@ -488,11 +509,11 @@
         <mark key="." line="99" column="6" />
         <mark key="^" line="99" column="6" />
       </file>
-      <file name="$USER_HOME$/git/adpano/database/migrations/2017_11_02_115418_AddContactInfoToUser.php" timestamp="1509594900072">
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="28" column="43" />
-        <mark key="." line="28" column="43" />
-        <mark key="^" line="28" column="43" />
+      <file name="$USER_HOME$/git/adpano/database/migrations/2017_11_02_115418_AddContactInfoToUser.php" timestamp="1510125009206">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/git/crappy/app/Tag.php" timestamp="1505116227593">
         <mark key="[" line="29" column="0" />
@@ -574,6 +595,11 @@
         <mark key="." line="85" column="10" />
         <mark key="^" line="85" column="10" />
       </file>
+      <file name="$USER_HOME$/git/adpano/tests/Unit/ResolveBnsTest.php" timestamp="1510126719118">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1510042561317">
         <mark key="'" line="103" column="5" />
         <mark key="[" line="85" column="30" />
@@ -614,18 +640,22 @@
         <mark key="." line="119" column="7" />
         <mark key="^" line="119" column="7" />
       </file>
+      <file name="$USER_HOME$/git/adpano/app/Exceptions/Handler.php" timestamp="1509001973918">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/git/crappy/app/Category.php" timestamp="1505125318150">
         <mark key="[" line="34" column="10" />
         <mark key="]" line="34" column="14" />
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510121843744">
-        <mark key="'" line="124" column="30" />
-        <mark key="[" line="73" column="52" />
-        <mark key="]" line="73" column="62" />
-        <mark key="^" line="73" column="62" />
-        <mark key="." line="73" column="62" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510125851611">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -648,6 +678,11 @@
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="28" />
       </file>
+      <file name="$USER_HOME$/git/adpano/config/passport.php" timestamp="1508903110207">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Cli/VerifyFileSizeExistenceCli.php" timestamp="1505207975445">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="52" column="0" />
@@ -655,8 +690,11 @@
         <mark key="." line="55" column="64" />
         <mark key="^" line="55" column="64" />
       </file>
-      <file name="/PHP Console" timestamp="1509618457692">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/adpano/composer.json" timestamp="1510126553878">
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="8" />
+        <mark key="." line="50" column="8" />
+        <mark key="^" line="50" column="8" />
       </file>
       <file name="$USER_HOME$/git/crappy/resources/lang/zh/form.php" timestamp="1505210032034">
         <mark key="'" line="13" column="0" />
@@ -672,6 +710,11 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="26" />
       </file>
+      <file name="$USER_HOME$/git/adpano/tests/CreatesApplication.php" timestamp="1508926878032">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/git/adpano/_ide_helper.php" timestamp="1508833696604">
         <mark key="'" line="11559" column="35" />
       </file>
@@ -682,8 +725,12 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508751254658">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/git/adpano/phpunit.xml" timestamp="1510125889145">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="50" />
       </file>
       <file name="$USER_HOME$/git/crappy/.env" timestamp="1505111628156">
         <mark key="'" line="5" column="25" />
@@ -699,7 +746,8 @@
         <mark key="^" line="54" column="108" />
         <mark key="." line="54" column="61" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Kernel.php" timestamp="1509611434755">
+      <file name="$USER_HOME$/git/adpano/app/Http/Kernel.php" timestamp="1510126933024">
+        <mark key="'" line="20" column="32" />
         <mark key="[" line="34" column="72" />
         <mark key="]" line="36" column="22" />
         <mark key="." line="36" column="22" />
@@ -707,6 +755,11 @@
       </file>
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php" timestamp="1510114244424">
         <mark key="'" line="46" column="65" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/config/auth.php" timestamp="1508750875047">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/public/qa_app.php" timestamp="1497853139231">
         <mark key="[" line="4" column="39" />
@@ -734,6 +787,11 @@
         <mark key="]" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/darkcms/src/app/routes/app_routes.php" timestamp="1505793034149">
+        <mark key="[" line="16" column="57" />
+        <mark key="]" line="16" column="58" />
+        <mark key="." line="16" column="58" />
       </file>
       <file name="$USER_HOME$/git/crappy/resources/assets/sass/app.scss" timestamp="1505097102199">
         <mark key="[" line="2" column="26" />
@@ -772,17 +830,22 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1508902265065">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
+      <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1510126704829">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/git/panoconf/app/User.php" timestamp="1508397383350">
         <mark key="'" line="8" column="55" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/adpano/routes/api.php" timestamp="1508897382164">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/crappy/public/css/app.css" timestamp="1505097055690">
         <mark key="'" line="0" column="26" />
@@ -809,61 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="56" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="225" column="20" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="404" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="369" column="32" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="237" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="206" column="46" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="438" column="45" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="60" column="4" filename="$USER_HOME$/git/adpano/config/app.php" />
-      <jump line="71" column="4" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="70" column="28" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="84" column="29" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="28" column="16" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="33" column="16" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="38" column="19" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="48" column="16" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="23" column="17" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="30" column="11" filename="$USER_HOME$/git/adpano/app/Http/Middleware/Authenticate.php" />
-      <jump line="99" column="23" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="100" column="22" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="101" column="31" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="104" column="31" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="13" column="63" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
-      <jump line="133" column="12" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
-      <jump line="24" column="55" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
-      <jump line="20" column="5" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
-      <jump line="26" column="40" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
-      <jump line="24" column="31" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" />
-      <jump line="54" column="48" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="105" column="0" filename="$USER_HOME$/git/adpano/routes/web.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
-      <jump line="5" column="12" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
-      <jump line="72" column="8" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="125" column="53" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="133" column="27" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="342" column="0" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="120" column="24" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="325" column="38" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="321" column="58" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="315" column="20" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="258" column="20" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="166" column="8" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="167" column="26" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="174" column="26" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="178" column="40" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="180" column="24" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="363" column="5" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
-      <jump line="1" column="8" filename="$USER_HOME$/git/adpano/.env" />
-      <jump line="15" column="83" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
-      <jump line="28" column="17" filename="$USER_HOME$/git/adpano/.env" />
-      <jump line="231" column="31" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="222" column="11" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
-      <jump line="45" column="40" filename="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" />
-      <jump line="52" column="19" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
-      <jump line="422" column="12" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="67" column="8" filename="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" />
       <jump line="29" column="32" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
       <jump line="51" column="81" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
@@ -909,6 +917,61 @@
       <jump line="36" column="42" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
       <jump line="124" column="30" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="124" column="31" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfController.php" />
+      <jump line="424" column="16" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="55" column="10" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="53" column="49" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="54" column="17" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="70" column="40" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="78" column="49" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="79" column="17" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="91" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="95" column="34" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="110" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="114" column="34" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="129" column="44" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="135" column="80" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="158" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="162" column="41" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="179" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="183" column="41" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="200" column="44" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="214" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="218" column="39" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="235" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="239" column="39" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="244" column="43" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="300" column="58" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="302" column="63" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="313" column="44" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="314" column="58" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="323" column="58" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="325" column="63" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="339" column="78" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="340" column="58" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="369" column="17" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="370" column="15" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="371" column="70" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="401" column="17" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="32" column="20" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="402" column="15" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="38" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="82" column="69" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="345" column="0" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="109" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/adpano/phpunit.xml" />
+      <jump line="35" column="31" filename="$USER_HOME$/git/adpano/.env" />
+      <jump line="408" column="58" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="3" column="31" filename="$USER_HOME$/git/adpano/composer.json" />
+      <jump line="53" column="12" filename="$USER_HOME$/git/adpano/composer.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/config/database.php" />
+      <jump line="33" column="44" filename="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" />
+      <jump line="48" column="8" filename="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" />
+      <jump line="392" column="6" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="36" column="22" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
+      <jump line="21" column="6" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
+      <jump line="20" column="32" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Console/Kernel.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -928,16 +991,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>RefreshDatabase</text>
       </register>
       <register name="/" type="4">
-        <text>driver</text>
+        <text>load</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlcXVlc3QtPnVzZXIoKS0+aXNBZG1pbigpKSB7CiAgICAgICAgICAgICRwYWdlciA9IFBhbm9yYW1hOjpvcmRlckJ5KCd1cGRhdGVkX2F0JywgJ2Rlc2MnKS0+cGFnaW5hdGUoYWJzKCRyZXF1ZXN0LT5pbnB1dCgnbGltaXQnLCAyMCkpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkcGFnZXIgPSAkcmVxdWVzdC0+dXNlcigpLT5wYW5vcygpLT5vcmRlckJ5KCd1cGRhdGVkX2F0JywgJ2Rlc2MnKS0+cGFnaW5hdGUoYWJzKCRyZXF1ZXN0LT5pbnB1dCgnbGltaXQnLCAyMCkpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZW52IG5hbWU9IkFQUF9FTlYiIHZhbHVlPSJ0ZXN0aW5nIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZChfX0RJUl9fLicvQ29tbWFuZHMnKTsKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -960,25 +1023,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">55So5oi35b+F6aG75Li6IuacquaOiOadgyLnirbmgIEgYHR5cGUgPSAwYCDvvIzlkKbliJnlsIbov5Tlm54gNDAzIOmUmeivrwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZChfX0RJUl9fLicvQ29tbWFuZHMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFuby0+ZXhwb3J0QXJjaGl2ZSgpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAicG9zdC1hdXRvbG9hZC1kdW1wIjogWwogICAgICAgICAgICAiSWxsdW1pbmF0ZVxcRm91bmRhdGlvblxcQ29tcG9zZXJTY3JpcHRzOjpwb3N0QXV0b2xvYWREdW1wIiwKICAgICAgICAgICAgIkBwaHAgYXJ0aXNhbiBwYWNrYWdlOmRpc2NvdmVyIgogICAgICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcSHR0cFxSZWRpcmVjdFJlc3BvbnNlfFxJbGx1bWluYXRlXFJvdXRpbmdcUmVkaXJlY3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICAiZmlkZWxvcGVyL3Byb3h5IjogIn4zLjMiLAo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -988,9 +1051,9 @@
       </register>
     </registers>
     <search>
-      <last-search>driver</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>driver</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -998,13 +1061,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_panoconf</entry>
-        <entry>option</entry>
-        <entry>user</entry>
-        <entry>json_de</entry>
-        <entry>input</entry>
-        <entry>username</entry>
-        <entry>sessionInfo</entry>
         <entry>macro</entry>
         <entry>path</entry>
         <entry encoding="base64">XDxzc25JbmZvXD4=</entry>
@@ -1018,6 +1074,13 @@
         <entry>PATH_INFO</entry>
         <entry>local</entry>
         <entry>driver</entry>
+        <entry>_id</entry>
+        <entry>failing</entry>
+        <entry>laravel</entry>
+        <entry>predis</entry>
+        <entry>proxy</entry>
+        <entry>trust</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
