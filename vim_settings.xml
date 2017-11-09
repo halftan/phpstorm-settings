@@ -456,12 +456,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509617224681">
-        <mark key="'" line="40" column="65" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Logic/Constant.php" timestamp="1505387137594">
         <mark key="'" line="21" column="27" />
         <mark key="[" line="23" column="0" />
@@ -651,11 +645,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510125851611">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510193764089">
+        <mark key="'" line="211" column="37" />
+        <mark key="[" line="181" column="96" />
+        <mark key="]" line="181" column="96" />
+        <mark key="." line="181" column="96" />
+        <mark key="^" line="180" column="28" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -872,10 +867,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="8" filename="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" />
-      <jump line="29" column="32" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
-      <jump line="51" column="81" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
-      <jump line="56" column="35" filename="$USER_HOME$/git/adpano/app/Http/Controllers/UserController.php" />
       <jump line="226" column="40" filename="$USER_HOME$/git/adpano/app/Services/PassSession.php" />
       <jump line="29" column="17" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
       <jump line="27" column="54" filename="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" />
@@ -972,6 +963,10 @@
       <jump line="21" column="6" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
       <jump line="20" column="32" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Console/Kernel.php" />
+      <jump line="180" column="26" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="178" column="43" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="181" column="97" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="211" column="37" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -991,10 +986,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>RefreshDatabase</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text encoding="base64">XDxhcmNoaXZlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZW52IG5hbWU9IkFQUF9FTlYiIHZhbHVlPSJ0ZXN0aW5nIi8+Cg==</text>
@@ -1047,13 +1042,13 @@
         <text>y</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search encoding="base64">XDxhcmNoaXZlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern encoding="base64">XDxhcmNoaXZlUGF0aFw+</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,8 +1056,6 @@
     </search>
     <history>
       <history-search>
-        <entry>macro</entry>
-        <entry>path</entry>
         <entry encoding="base64">XDxzc25JbmZvXD4=</entry>
         <entry>export</entry>
         <entry>start</entry>
@@ -1081,6 +1074,8 @@
         <entry>proxy</entry>
         <entry>trust</entry>
         <entry>load</entry>
+        <entry encoding="base64">XDxDRE5fQVJDSElWRV9QUkVGSVhcPg==</entry>
+        <entry encoding="base64">XDxhcmNoaXZlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -1089,8 +1084,8 @@
         <entry encoding="base64">JzwsJz5zOiAvOjsgLzo=</entry>
         <entry>%s:panoConfId:panorama:gc</entry>
         <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
