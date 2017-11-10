@@ -840,11 +840,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" timestamp="1510214839607">
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoController.php" timestamp="1510284469825">
         <mark key="'" line="72" column="26" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/git/adpano/tests/Unit/BdussUtilTest.php" timestamp="1510126704829">
         <mark key="[" line="6" column="0" />
@@ -1007,7 +1007,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>'/storage/pano/' . $md5Filename</text>
+        <text>public/</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
@@ -1016,7 +1016,7 @@
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdG9yYWdlOjoK</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpkaXNrKCktPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1036,28 +1036,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsZV91cmwnID0+ICcvc3RvcmFnZS9wYW5vLycgLiAkbWQ1RmlsZW5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdG9yYWdlOjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZmlsZV91cmwnID0+ICcvc3RvcmFnZS9wYW5vLycgLiAkbWQ1RmlsZW5hbWUsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+c3VjY2VzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKS0+c3VjY2VzcygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gQ2FyYm9uOjpub3coKS0+YWRkU2Vjb25kKC0xKTsK</text>
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gQ2FyYm9uOjpub3coKS0+YWRkU2Vjb25kKC0xKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCRwYW5vLT5hcmNoaXZlZF9hdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgxKTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
