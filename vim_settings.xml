@@ -663,12 +663,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510209229232">
-        <mark key="'" line="230" column="8" />
-        <mark key="[" line="228" column="47" />
-        <mark key="]" line="229" column="25" />
-        <mark key="." line="229" column="25" />
-        <mark key="^" line="229" column="25" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510299811991">
+        <mark key="'" line="150" column="19" />
+        <mark key="[" line="146" column="81" />
+        <mark key="]" line="146" column="94" />
+        <mark key="^" line="146" column="94" />
+        <mark key="." line="146" column="94" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -892,7 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="39" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="235" column="60" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="239" column="39" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="244" column="43" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
@@ -992,6 +991,7 @@
       <jump line="30" column="5" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
       <jump line="321" column="15" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php" />
       <jump line="367" column="46" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
+      <jump line="149" column="19" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1011,7 +1011,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'/storage'</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
@@ -1020,7 +1020,7 @@
         <text encoding="base64">ICAgICAgICAkY29uZmlnID0gJHRoaXMtPmRyaXZlci0+Z2V0Q29uZmlnKCk7CgogICAgICAgIC8vIElmIGFuIGV4cGxpY2l0IGJhc2UgVVJMIGhhcyBiZWVuIHNldCBvbiB0aGUgZGlzayBjb25maWd1cmF0aW9uIHRoZW4gd2Ugd2lsbCB1c2UKICAgICAgICAvLyBpdCBhcyB0aGUgYmFzZSBVUkwgaW5zdGVhZCBvZiB0aGUgZGVmYXVsdCBwYXRoLiBUaGlzIGFsbG93cyB0aGUgZGV2ZWxvcGVyIHRvCiAgICAgICAgLy8gaGF2ZSBmdWxsIGNvbnRyb2wgb3ZlciB0aGUgYmFzZSBwYXRoIGZvciB0aGlzIGZpbGVzeXN0ZW0ncyBnZW5lcmF0ZWQgVVJMcy4KICAgICAgICBpZiAoJGNvbmZpZy0+aGFzKCd1cmwnKSkgewogICAgICAgICAgICByZXR1cm4gcnRyaW0oJGNvbmZpZy0+Z2V0KCd1cmwnKSwgJy8nKS4nLycubHRyaW0oJHBhdGgsICcvJyk7CiAgICAgICAgfQoKICAgICAgICAkcGF0aCA9ICcvc3RvcmFnZS8nLiRwYXRoOwoKICAgICAgICAvLyBJZiB0aGUgcGF0aCBjb250YWlucyAic3RvcmFnZS9wdWJsaWMiLCBpdCBwcm9iYWJseSBtZWFucyB0aGUgZGV2ZWxvcGVyIGlzIHVzaW5nCiAgICAgICAgLy8gdGhlIGRlZmF1bHQgZGlzayB0byBnZW5lcmF0ZSB0aGUgcGF0aCBpbnN0ZWFkIG9mIHRoZSAicHVibGljIiBkaXNrIGxpa2UgdGhleQogICAgICAgIC8vIGFyZSByZWFsbHkgc3VwcG9zZWQgdG8gdXNlLiBXZSB3aWxsIHJlbW92ZSB0aGUgcHVibGljIGZyb20gdGhpcyBwYXRoIGhlcmUuCiAgICAgICAgaWYgKFN0cjo6Y29udGFpbnMoJHBhdGgsICcvc3RvcmFnZS9wdWJsaWMvJykpIHsKICAgICAgICAgICAgcmV0dXJuIFN0cjo6cmVwbGFjZUZpcnN0KCcvcHVibGljLycsICcvJywgJHBhdGgpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAkcGF0aDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHByZWZpeCA9IFN0b3JhZ2U6OnVybCgnJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1043,25 +1043,25 @@
         <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRjb25maWcgPSAkdGhpcy0+ZHJpdmVyLT5nZXRDb25maWcoKTsKCiAgICAgICAgICAgICAgICAvLyBJZiBhbiBleHBsaWNpdCBiYXNlIFVSTCBoYXMgYmVlbiBzZXQgb24gdGhlIGRpc2sgY29uZmlndXJhdGlvbiB0aGVuIHdlIHdpbGwgdXNlCiAgICAgICAgICAgICAgICAvLyBpdCBhcyB0aGUgYmFzZSBVUkwgaW5zdGVhZCBvZiB0aGUgZGVmYXVsdCBwYXRoLiBUaGlzIGFsbG93cyB0aGUgZGV2ZWxvcGVyIHRvCiAgICAgICAgICAgICAgICAvLyBoYXZlIGZ1bGwgY29udHJvbCBvdmVyIHRoZSBiYXNlIHBhdGggZm9yIHRoaXMgZmlsZXN5c3RlbSdzIGdlbmVyYXRlZCBVUkxzLgogICAgICAgICAgICAgICAgaWYgKCRjb25maWctPmhhcygndXJsJykpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcnRyaW0oJGNvbmZpZy0+Z2V0KCd1cmwnKSwgJy8nKS4nLycubHRyaW0oJHBhdGgsICcvJyk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJHBhdGggPSAnL3N0b3JhZ2UvJy4kcGF0aDsKCiAgICAgICAgICAgICAgICAvLyBJZiB0aGUgcGF0aCBjb250YWlucyAic3RvcmFnZS9wdWJsaWMiLCBpdCBwcm9iYWJseSBtZWFucyB0aGUgZGV2ZWxvcGVyIGlzIHVzaW5nCiAgICAgICAgICAgICAgICAvLyB0aGUgZGVmYXVsdCBkaXNrIHRvIGdlbmVyYXRlIHRoZSBwYXRoIGluc3RlYWQgb2YgdGhlICJwdWJsaWMiIGRpc2sgbGlrZSB0aGV5CiAgICAgICAgICAgICAgICAvLyBhcmUgcmVhbGx5IHN1cHBvc2VkIHRvIHVzZS4gV2Ugd2lsbCByZW1vdmUgdGhlIHB1YmxpYyBmcm9tIHRoaXMgcGF0aCBoZXJlLgogICAgICAgICAgICAgICAgaWYgKFN0cjo6Y29udGFpbnMoJHBhdGgsICcvc3RvcmFnZS9wdWJsaWMvJykpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RyOjpyZXBsYWNlRmlyc3QoJy9wdWJsaWMvJywgJy8nLCAkcGF0aCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAkcGF0aDsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>()</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>resolve('filesystem')</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXNvbHZlKCdIdHRwJykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyZXNvbHZlKCcnKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbXB0eSgpKQogICAgICAgICAgICAgICAgcmV0dXJuIHN0cl9yZXBsYWNlX2ZpcnN0KCdwdWJsaWMnLCAnL3N0b3JhZ2UnLCAkYXJnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChyZXNvbHZlKCcnKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
