@@ -644,12 +644,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510554447461">
-        <mark key="'" line="197" column="9" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="56" />
-        <mark key="." line="199" column="30" />
-        <mark key="^" line="199" column="30" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510629263398">
+        <mark key="'" line="198" column="9" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="25" />
+        <mark key="." line="84" column="25" />
+        <mark key="^" line="84" column="25" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -967,13 +967,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>assertStringStartsWith</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>User</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBiIGlzIGEgc3BlY2lhbCBmaWVsZCBmb3Igb2JmdXNjYXRpb24gcHVycG9zZS4K</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnY29uZmlnJ11bJ2lkJ10gPSAkZGF0YVsnYWRfaWQnXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
