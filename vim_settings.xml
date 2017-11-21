@@ -669,12 +669,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1510730214359">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1511249671160">
+        <mark key="'" line="299" column="9" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
+        <mark key="^" line="299" column="14" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -898,10 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/config/database.php" />
-      <jump line="33" column="44" filename="$USER_HOME$/git/adpano/tests/Unit/HelperTest.php" />
-      <jump line="48" column="8" filename="$USER_HOME$/git/adpano/tests/Unit/PassSessionTest.php" />
-      <jump line="392" column="6" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="36" column="22" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
       <jump line="21" column="6" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
       <jump line="20" column="32" filename="$USER_HOME$/git/adpano/app/Http/Kernel.php" />
@@ -998,6 +994,10 @@
       <jump line="414" column="8" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="260" column="40" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="284" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="304" column="20" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="240" column="37" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="300" column="9" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1017,16 +1017,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>array_get()</text>
+        <text encoding="base64">JHRoaXMtPmFyY2hpdmVQYXRoKCkgLiBESVJFQ1RPUllfU0VQQVJBVE9SIC4gJ3JlYWRtZS50eHQnOw==</text>
       </register>
       <register name="/" type="4">
-        <text>carb</text>
+        <text encoding="base64">XDx2cnBhbm9IdG1sUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkgKCR1c2VyWyd1aWQnXSA/PyAwKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHBhdGg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDYXJib247Cg==</text>
+        <text encoding="base64">MS57JHRoaXMtPmFkX2lkfS56aXDlupTnlKjkuo7np7vliqjnq6/vvIhhbmRyb2lkJmlPU++8ieWxleekuuWFqOaZr+WbvueJh+W5v+WRiu+8mwoyLnZycGFuby5odG1s55So5LqO5Zyod2Vi56uv5bGV56S65YWo5pmv5Zu+54mH5bm/5ZGK77ybCjMu5o6l5YWl55qE5pe25YCZ5aaC5pyJ55aR6Zeu77yM6K+36IGU57O777yaYmRfdnJfYnVzaW5lc3NAYmFpZHUuY29tCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1046,28 +1046,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDYXJib247Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmFyY2hpdmVQYXRoKCkgLiBESVJFQ1RPUllfU0VQQVJBVE9SIC4gJ3ZycGFuby5odG1sJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcQ2FyYm9uXENhcmJvbjo6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmFyY2hpdmVQYXRoKCkgLiBESVJFQ1RPUllfU0VQQVJBVE9SIC4gJ3ZycGFuby5odG1sJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkgKCR1c2VyWyd1aWQnXSA/PyAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKChpbnQpICgkdGhpcy0+Z2V0U2Vzc2lvbigkc2Vzc2lvbklkKVsnc3RhdHVzJ10gPz8gMSkpID09PSBzZWxmOjpTU05fUlNUQVRVU19PSzsK</text>
+        <text encoding="base64">ICAgICAgICAkYWRJZCA9ICR0aGlzLT5hZF9pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDYXJib247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxDYXJib247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">ICAgICAgICBcQ2FyYm9uXENhcmJvbjo6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludCkgKCR1c2VyWyd1aWQnXSA/PyAwKTsK</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
@@ -1077,9 +1077,9 @@
       </register>
     </registers>
     <search>
-      <last-search>carb</last-search>
+      <last-search encoding="base64">XDx2cnBhbm9IdG1sUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>carb</last-pattern>
+      <last-pattern encoding="base64">XDx2cnBhbm9IdG1sUGF0aFw+</last-pattern>
       <last-replace>panorama</last-replace>
       <last-substitute>panoConfId</last-substitute>
       <last-dir>1</last-dir>
@@ -1087,8 +1087,6 @@
     </search>
     <history>
       <history-search>
-        <entry>predis</entry>
-        <entry>proxy</entry>
         <entry>trust</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxDRE5fQVJDSElWRV9QUkVGSVhcPg==</entry>
@@ -1107,6 +1105,8 @@
         <entry encoding="base64">OiA=</entry>
         <entry>??</entry>
         <entry>carb</entry>
+        <entry encoding="base64">XDx2cnBhbm9IdG1sXD4=</entry>
+        <entry encoding="base64">XDx2cnBhbm9IdG1sUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
