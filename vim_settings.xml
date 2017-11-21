@@ -180,12 +180,12 @@
       <file name="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1508927477121">
         <mark key="'" line="938" column="20" />
       </file>
-      <file name="$USER_HOME$/git/adpano/readme.md" timestamp="1510042941582">
-        <mark key="'" line="170" column="36" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="170" column="36" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/git/adpano/readme.md" timestamp="1511252243025">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="153" column="11" />
+        <mark key="]" line="153" column="21" />
+        <mark key="^" line="153" column="21" />
+        <mark key="." line="153" column="21" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/Dark/Controller/App/BaseController.php" timestamp="1496896551408">
         <mark key="[" line="8" column="39" />
@@ -581,11 +581,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1510567549585">
-        <mark key="'" line="23" column="9" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1511252207550">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="49" column="57" />
+        <mark key="]" line="49" column="77" />
+        <mark key="." line="49" column="77" />
+        <mark key="^" line="49" column="77" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/boot.php" timestamp="1496723360168">
         <mark key="'" line="26" column="1" />
@@ -613,12 +614,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1510300740129">
-        <mark key="'" line="103" column="5" />
-        <mark key="[" line="109" column="25" />
-        <mark key="]" line="109" column="29" />
-        <mark key="." line="109" column="29" />
-        <mark key="^" line="109" column="29" />
+      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1511252184921">
+        <mark key="'" line="108" column="5" />
+        <mark key="[" line="103" column="48" />
+        <mark key="]" line="103" column="49" />
+        <mark key="." line="103" column="49" />
+        <mark key="^" line="103" column="47" />
       </file>
       <file name="$USER_HOME$/git/adpano/database/migrations/2017_10_17_181333_CreateUserTable.php" timestamp="1508902101684">
         <mark key="[" line="21" column="32" />
@@ -895,14 +896,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="71" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="183" column="78" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="9" column="34" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="199" column="12" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="16" column="52" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
       <jump line="17" column="67" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
-      <jump line="29" column="59" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
       <jump line="23" column="0" filename="$USER_HOME$/git/adpano/symlinks.md" />
       <jump line="14" column="49" filename="$USER_HOME$/git/adpano/symlinks.md" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/symlinks.md" />
@@ -995,6 +994,8 @@
       <jump line="315" column="49" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="235" column="24" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="332" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/readme.md" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1014,13 +1015,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>zipBallPath</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICQ=</text>
+        <text>archive</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZChyb3V0ZSgncGFub2NvbmYubWFuaWZlc3QnLCAnYXNkZicpKTsK</text>
+        <text encoding="base64">IyMjIEdFVCAvcGFub2NvbmYve2lkfS9hcmNoaXZlCgojIyMjIOi3s+i9rOWIsOeJqeaWmSB6aXAg5YyF5LiL6L295Zyw5Z2ACg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBncm91cCBpbmcK</text>
@@ -1074,9 +1075,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ICQ=</last-search>
+      <last-search>archive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICQ=</last-pattern>
+      <last-pattern>archive</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ICQ=</last-substitute>
       <last-dir>1</last-dir>
@@ -1084,7 +1085,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxDRE5fQVJDSElWRV9QUkVGSVhcPg==</entry>
         <entry encoding="base64">XDxhcmNoaXZlUGF0aFw+</entry>
         <entry>packagePath</entry>
@@ -1104,6 +1104,7 @@
         <entry encoding="base64">XDx2cnBhbm9IdG1sXD4=</entry>
         <entry encoding="base64">XDx2cnBhbm9IdG1sUGF0aFw+</entry>
         <entry encoding="base64">ICQ=</entry>
+        <entry>archive</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
