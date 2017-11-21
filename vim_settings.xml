@@ -328,6 +328,13 @@
         <mark key="." line="223" column="14" />
         <mark key="^" line="223" column="14" />
       </file>
+      <file name="$USER_HOME$/git/adpano/config/filesystems.php" timestamp="1511255399773">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="89" />
+        <mark key="]" line="65" column="92" />
+        <mark key="^" line="65" column="92" />
+        <mark key="." line="65" column="92" />
+      </file>
       <file name="$USER_HOME$/git/crappy/app/VideoStat.php" timestamp="1505292508633">
         <mark key="'" line="40" column="48" />
         <mark key="[" line="39" column="20" />
@@ -518,12 +525,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1511254597226">
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1511255444942">
         <mark key="'" line="314" column="15" />
-        <mark key="[" line="315" column="29" />
-        <mark key="]" line="315" column="29" />
-        <mark key="." line="315" column="29" />
-        <mark key="^" line="315" column="28" />
+        <mark key="[" line="314" column="23" />
+        <mark key="]" line="314" column="40" />
+        <mark key="." line="314" column="40" />
+        <mark key="^" line="314" column="40" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -707,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="8" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="1147" column="27" filename="$USER_HOME$/git/adpano/vendor/phpunit/phpunit/src/Framework/Assert.php" />
       <jump line="417" column="46" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="1484" column="23" filename="$USER_HOME$/git/adpano/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
@@ -807,6 +813,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="316" column="15" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/adpano/config/filesystems.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
