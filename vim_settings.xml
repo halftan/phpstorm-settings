@@ -459,7 +459,7 @@
         <mark key="." line="288" column="0" />
         <mark key="^" line="287" column="46" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1511317769351">
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1511318892380">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
@@ -492,9 +492,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1511252184921">
-        <mark key="'" line="108" column="5" />
-        <mark key="[" line="103" column="48" />
+      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1511319102674">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="125" column="0" />
         <mark key="]" line="103" column="49" />
         <mark key="." line="103" column="49" />
         <mark key="^" line="103" column="47" />
@@ -714,7 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1147" column="27" filename="$USER_HOME$/git/adpano/vendor/phpunit/phpunit/src/Framework/Assert.php" />
       <jump line="417" column="46" filename="$USER_HOME$/git/adpano/tests/Feature/PanoramaModelTest.php" />
       <jump line="1484" column="23" filename="$USER_HOME$/git/adpano/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="1468" column="24" filename="$USER_HOME$/git/adpano/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
@@ -814,6 +813,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="316" column="15" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/adpano/config/filesystems.php" />
+      <jump line="116" column="0" filename="$USER_HOME$/git/adpano/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
