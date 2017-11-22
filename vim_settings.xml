@@ -459,11 +459,11 @@
         <mark key="." line="288" column="0" />
         <mark key="^" line="287" column="46" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1511252207550">
+      <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1511317769351">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="49" column="57" />
-        <mark key="]" line="49" column="77" />
-        <mark key="." line="49" column="77" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
         <mark key="^" line="49" column="77" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/boot.php" timestamp="1496723360168">
@@ -525,12 +525,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1511316829688">
-        <mark key="'" line="314" column="15" />
-        <mark key="[" line="314" column="42" />
-        <mark key="]" line="314" column="59" />
-        <mark key="." line="314" column="59" />
-        <mark key="^" line="314" column="59" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1511317757965">
+        <mark key="'" line="313" column="15" />
+        <mark key="[" line="200" column="8" />
+        <mark key="]" line="200" column="8" />
+        <mark key="." line="200" column="8" />
+        <mark key="^" line="313" column="59" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -833,7 +833,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>('url')</text>
+        <text encoding="base64">PSAkbWFuaWZlc3RbJ2lkJ10g</text>
       </register>
       <register name="/" type="4">
         <text>random</text>
@@ -842,7 +842,7 @@
         <text encoding="base64">IyMjIEdFVCAvcGFub2NvbmYve2lkfS9hcmNoaXZlCgojIyMjIOi3s+i9rOWIsOeJqeaWmSB6aXAg5YyF5LiL6L295Zyw5Z2ACg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQXBwOjptYWtlCg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnY29uZmlnJ11bJ2lkJ10gPSAkZGF0YVsnYWRfaWQnXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -862,28 +862,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKCd1cmwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBcSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcQXBwOjptYWtlCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKCd1cmwnKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">5piv56e75Yqo56uv77yIYW5kcm9pZCZpT1PvvInlsZXnpLrlhajmma/lm77niYflub/lkYrvvJsKMi52cnBhbm8uaHRtbOeUqOS6juWcqHdlYuerr+WxleekuuWFqOaZr+WbvueJh+W5v+WRiu+8mwozLuaOpeWFpeeahOaXtuWAmeWmguacieeWkemXru+8jOivt+iBlOezu++8mmJkX3ZyX2J1c2luZXNzQGJhaWR1LmNvbQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBCYXJyeXZkaFxDb3JzXFNlcnZpY2VQcm92aWRlcjo6Y2xhc3MsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkaG9zdCA9IAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICBteWJ2LmxvYWRDb25maWdVcmwoJ2h0dHA6Ly92cnN3cHJlLmJhaWR1LmNvbS9idXNpbmVzcy9hcGkvcGFub2NvbmYvZmFiNmYzZDU1ZWU0MDlkMGFmOTgwOTY4ZDkyN2M5YWEvbWFuaWZlc3QnLCBmdW5jdGlvbiAoc3RhdHVzQ29kZSkgeyAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHA6Ly92ci5iYWlkdS5jb20vYnVzaW5lc3MvY29uc29sZS9zdGF0aWMvanMvYmFpZHUtdnIubWluLmpzIi8+CjxzY3JpcHQ+CiB2YXIgbXlidiA9IG5ldyBidi5QYW5vKC8q54i25a655ZmoaWQqLyk7CiBteWJ2LmF1dGguY2xpZW50SWQgPSAvKuaKleaUvuWqkuS9k+eahGNsaWVudElkKi87CiBteWJ2LmF1dGguY2xpZW50U2VjcmV0ID0gLyrmipXmlL7lqpLkvZPnmoRjbGllbnRTZWNyZXQqLzsKIG15YnYuYXV0aC5jSWQgPSAvKuaKleaUvuWqkuS9k+eahGNJZCovOwogbXlidi5sb2FkQ29uZmlnVXJsKCd7JG1hbmlmZXN0VXJsfScsIGZ1bmN0aW9uIChzdGF0dXNDb2RlKSB7CiBpZiAoc3RhdHVzQ29kZSA9PT0gMCkgewogICAgIG15YnYucnVuKCk7CiB9CiBlbHNlIGlmIChzdGF0dXNDb2RlID09PSAtMSkgewogICAgIGFsZXJ0KCJhdXRob3JpemUgZmFpbGVkISIpOwogfQogZWxzZSBpZiAoc3RhdHVzQ29kZSA9PT0gLTIpIHsKICAgICBhbGVydCgiV2ViR0wgbm90IHN1cHBvcnRlZCBpbiBjdXJyZW50IGJyb3dzZXIhIik7CiB9Cn0pOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICBteWJ2LmxvYWRDb25maWdVcmwoJ2h0dHA6Ly92cnN3cHJlLmJhaWR1LmNvbS9idXNpbmVzcy9hcGkvcGFub2NvbmYvZmFiNmYzZDU1ZWU0MDlkMGFmOTgwOTY4ZDkyN2M5YWEvbWFuaWZlc3QnLCBmdW5jdGlvbiAoc3RhdHVzQ29kZSkgeyAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
