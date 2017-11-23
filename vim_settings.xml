@@ -595,13 +595,6 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1510730145875">
-        <mark key="'" line="287" column="35" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
-        <mark key="^" line="287" column="46" />
-      </file>
       <file name="$USER_HOME$/git/panoconf/app/App.php" timestamp="1508397433915">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -634,13 +627,6 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/adpano/routes/web.php" timestamp="1511322198194">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="142" column="23" />
-        <mark key="]" line="142" column="23" />
-        <mark key="." line="142" column="23" />
-        <mark key="^" line="142" column="49" />
       </file>
       <file name="$USER_HOME$/git/adpano/database/migrations/2017_10_17_181333_CreateUserTable.php" timestamp="1508902101684">
         <mark key="[" line="21" column="32" />
