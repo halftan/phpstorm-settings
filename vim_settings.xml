@@ -255,8 +255,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" timestamp="1516784892827">
-        <mark key="'" line="37" column="32" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" timestamp="1517305957795">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="41" column="40" />
         <mark key="]" line="41" column="40" />
         <mark key="." line="41" column="40" />
@@ -375,11 +375,12 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Http/Middleware/Authenticate.php" timestamp="1516784197115">
-        <mark key="'" line="49" column="31" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Http/Middleware/Authenticate.php" timestamp="1518143347119">
+        <mark key="'" line="40" column="29" />
+        <mark key="[" line="40" column="94" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/git/adpano/app/Http/Controllers/ClientController.php" timestamp="1509617224681">
         <mark key="'" line="40" column="65" />
@@ -461,11 +462,11 @@
         <mark key="^" line="379" column="92" />
         <mark key="." line="379" column="92" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1516784206287">
-        <mark key="'" line="328" column="22" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/git/adpano/app/Services/PassSession.php" timestamp="1516865994092">
+        <mark key="'" line="324" column="22" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" timestamp="1516784971869">
         <mark key="'" line="61" column="0" />
@@ -541,12 +542,12 @@
         <mark key="." line="119" column="7" />
         <mark key="^" line="119" column="7" />
       </file>
-      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1516785457387">
-        <mark key="'" line="417" column="0" />
-        <mark key="[" line="289" column="0" />
-        <mark key="]" line="289" column="0" />
-        <mark key="." line="289" column="0" />
-        <mark key="^" line="286" column="53" />
+      <file name="$USER_HOME$/git/adpano/app/Panorama.php" timestamp="1518143241882">
+        <mark key="'" line="228" column="29" />
+        <mark key="[" line="285" column="8" />
+        <mark key="]" line="285" column="7" />
+        <mark key="." line="285" column="7" />
+        <mark key="^" line="285" column="7" />
       </file>
       <file name="$USER_HOME$/git/darkcms/src/app/inc/deps.php" timestamp="1502789314644">
         <mark key="'" line="47" column="0" />
@@ -729,10 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="62" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="293" column="54" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="294" column="53" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
-      <jump line="295" column="57" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="301" column="64" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="302" column="65" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="308" column="72" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
@@ -810,7 +807,6 @@
       <jump line="5974" column="37" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
       <jump line="5985" column="37" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
       <jump line="13596" column="52" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
-      <jump line="192" column="24" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="5973" column="9" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
       <jump line="5972" column="49" filename="$USER_HOME$/git/adpano/_ide_helper.php" />
       <jump line="193" column="21" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
@@ -825,10 +821,15 @@
       <jump line="17" column="9" filename="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" />
       <jump line="556" column="26" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Support/helpers.php" />
       <jump line="26" column="38" filename="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" />
-      <jump line="36" column="32" filename="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" />
       <jump line="194" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="415" column="0" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
       <jump line="61" column="0" filename="$USER_HOME$/git/adpano/app/Http/Controllers/PanoConfPublicController.php" />
+      <jump line="36" column="12" filename="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/adpano/app/Http/Middleware/ExportPano.php" />
+      <jump line="192" column="20" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="228" column="29" filename="$USER_HOME$/git/adpano/app/Panorama.php" />
+      <jump line="40" column="29" filename="$USER_HOME$/git/adpano/app/Http/Middleware/Authenticate.php" />
+      <jump line="264" column="20" filename="$USER_HOME$/git/adpano/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -848,25 +849,25 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>completed</text>
+        <text>__cas__</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIoImFkW3skdGhpcy0+YWRfaWR9XSB6aXAgYmFsbCBjb21wbGV0ZWQuIik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHJlcXVlc3QtPmhhc0Nvb2tpZSgnX19jYXNfX3N0X18nKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb3B5IHNwYXJzZSBmaWxlcyBpbnRvIHB1YmxpYyBkaXNrCiAgICAgICAgLy8gTm90IG5lZWRlZCBzaW5jZSB3ZSdyZSB1c2luZyBib3MKICAgICAgICAvLyBmb3JlYWNoICgkc3BhcnNlRmlsZXMgYXMgJGZpbGUpIHsKICAgICAgICAgICAgLy8gcmVuYW1lKAogICAgICAgICAgICAvLyAgICAgU3RvcmFnZTo6ZGlzaygnbG9jYWwnKS0+cGF0aCgkZmlsZSksCiAgICAgICAgICAgIC8vICAgICBTdG9yYWdlOjpkaXNrKCdwdWJsaWMnKS0+cGF0aCgkZmlsZSkKICAgICAgICAgICAgLy8gKTsKICAgICAgICAgICAgLy8gJGJvc0RyaXZlci0+cHV0KCRmaWxlLCAkbG9jYWxEcml2ZXItPmdldCgkZmlsZSksICdwdWJsaWMnKTsKICAgICAgICAvLyB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW5hbWUoCiAgICAgICAgLy8gICAgIFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPnBhdGgoJHRoaXMtPmFsbEluT25lWmlwQmFsbFBhdGgoJHByZUJ1bmRsZSkpLAogICAgICAgIC8vICAgICBTdG9yYWdlOjpkaXNrKCdwdWJsaWMnKS0+cGF0aCgkdGhpcy0+YWxsSW5PbmVaaXBCYWxsUGF0aCgkcHJlQnVuZGxlKSkKICAgICAgICAvLyApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gb3RoZXIgdXNlciByZXNvbHZlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZW5hbWUoCiAgICAgICAgLy8gICAgIFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPnBhdGgoJHRoaXMtPnppcEJhbGxQYXRoKCRwcmVCdW5kbGUpKSwKICAgICAgICAvLyAgICAgU3RvcmFnZTo6ZGlzaygncHVibGljJyktPnBhdGgoJHRoaXMtPnppcEJhbGxQYXRoKCRwcmVCdW5kbGUpKQogICAgICAgIC8vICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -896,22 +897,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU3RvcmFnZTo6Y29weSgkc3JjLCAkZGVzdCk7CiAgICAgICAgICAgIC8vIGNvcHkgdG8gdGVtcG9yYXJ5IGRpcmVjdG9yeSBpbiBsb2NhbCBkaXNrCiAgICAgICAgICAgIC8vIGNvcHkoU3RvcmFnZTo6ZGlzaygncHVibGljJyktPnBhdGgoJHNyYyksIFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPnBhdGgoJGRlc3QpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzbGVlcCg0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBcSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3QgJHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZ3Jlc3NTdGVwID0gKGludCkgZmxvb3IoNDAgLyAkZmlsZXMtPmNvdW50KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3NuSW5mbyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEFsbCB0aGluZ3MgYXJlIGRvbmUgaW4gbWlkZGxld2FyZS4KICAgICAqIEBzZWUgXEFwcFxIdHRwXE1pZGRsZXdhcmVcRXhwb3J0UGFubwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkdGhpcy0+dXNlciA9IFVzZXI6OnF1ZXJ5KCkKICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJuYW1lJywgJ2JhaWR1X3ZyX3Rlc3QnKQogICAgICAgICAgICAgICAgLT5maXJzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpczo6aAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb3B5IHNwYXJzZSBmaWxlcyBpbnRvIHB1YmxpYyBkaXNrCiAgICAgICAgLy8gTm90IG5lZWRlZCBzaW5jZSB3ZSdyZSB1c2luZyBib3MKICAgICAgICAvLyBmb3JlYWNoICgkc3BhcnNlRmlsZXMgYXMgJGZpbGUpIHsKICAgICAgICAgICAgLy8gcmVuYW1lKAogICAgICAgICAgICAvLyAgICAgU3RvcmFnZTo6ZGlzaygnbG9jYWwnKS0+cGF0aCgkZmlsZSksCiAgICAgICAgICAgIC8vICAgICBTdG9yYWdlOjpkaXNrKCdwdWJsaWMnKS0+cGF0aCgkZmlsZSkKICAgICAgICAgICAgLy8gKTsKICAgICAgICAgICAgLy8gJGJvc0RyaXZlci0+cHV0KCRmaWxlLCAkbG9jYWxEcml2ZXItPmdldCgkZmlsZSksICdwdWJsaWMnKTsKICAgICAgICAvLyB9Cgo=</text>
       </register>
       <register name="y" type="4">
         <text>y</text>
